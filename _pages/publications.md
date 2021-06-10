@@ -10,9 +10,8 @@ author_profile: true
 
   You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?user=5-qU7lkAAAAJ&hl=en) page
  
- \* first author/joint first author
+ \* first author/joint first author; ^ corresponding author
  
- ^ corresponding author
  
  Preprint
  ====
