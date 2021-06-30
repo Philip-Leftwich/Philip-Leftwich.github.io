@@ -18,4 +18,8 @@ Each lesson is structured to provide background for biology learners of all leve
 
 This is an ongoing collaboration, so watch this space for future developments and please contact me for more information, or to provide any feedback. 
 
+# ASMCUE 2021
+
+I gave an Educational "microbrew" talk at the American Society for Microbiology 2021 meeting - [here](https://github.com/Philip-Leftwich/Philip-Leftwich.github.io/blob/master/files/Leftwich_Philip_handout_updated_V2.pdf) is a copy of the handout I produced for the event.   
+
 
