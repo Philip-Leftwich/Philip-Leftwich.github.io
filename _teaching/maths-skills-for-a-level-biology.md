@@ -10,11 +10,12 @@ location: "Oxford"
 
 <img src='/images/maths-skills-for-a-level-biology.jpg' align="left" img style="padding-right: 50px" width="150" height="225"> The maths needed to succeed in A Level Science is harder now than ever before. Suitable for all awarding bodies, this practical handbook addresses all of the maths skills needed for A Level Biology specifications. Worked examples, practice questions, 'remember points' and 'stretch yourself' questions give students the key knowledge and then the opportunity to practise and build confidence.
 
+<img src='/images/nearly_5.png' height="25%" width="25%"> 
 
 <br/><br/> 
 <br/><br/> 
 <br/><br/> 
-<img src='/images/nearly_5.png' height="25%" width="25%"> 
+
 
 Hard copy
 ======
