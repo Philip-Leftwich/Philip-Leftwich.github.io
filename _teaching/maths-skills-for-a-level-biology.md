@@ -14,6 +14,7 @@ location: "Oxford"
 <br/><br/> 
 <br/><br/> 
 <br/><br/> 
+<img src='/images/nearly_5.png' height="25%" width="25%"> 
 
 Online copy
 ======
