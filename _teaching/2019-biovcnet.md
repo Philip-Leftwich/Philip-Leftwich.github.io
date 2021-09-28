@@ -23,4 +23,8 @@ YouTube channel
 
 A channel containing all the lessons to-date is available [here](https://www.youtube.com/channel/UC5qVqcvUPfgPQWOhBaR_Low)
 
+Manuscript
+======
+
+A paper describing the BVCN initiative has been published in  [Frontiers in Education](https://www.frontiersin.org/articles/10.3389/feduc.2021.711618/abstract)
 
