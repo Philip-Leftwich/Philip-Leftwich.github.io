@@ -22,6 +22,9 @@ Preprint
 2021
 ====
 
+&emsp; Benjamin J Tully, Joy Buongiorno, Ashley Brooke Cohen, Jacob A Cram, Arkadiy I Garber, Sarah K Hu, Arianna I Krinos, **Philip T Leftwich**, Alexis Marshall, Ella T Sieradzki, Daan R Speth, Elizabeth A Suter, Christopher B Trivedi, Luis E Valentin-Alvarado, Jake L Weissman, Michael D Lee, Harriet Alexander, R Eric Collins, Maria Pachiadaki, Adelaide CE Rhodes, Wayne Decatur [The Bioinformatics Virtual Coordination Network: an open-source and interactive learning environment(https://www.frontiersin.org/articles/10.3389/feduc.2021.711618/abstract). *Frontiers in Education* 
+<span class="__dimensions_badge_embed__" data-doi="10.3389/feduc.2021.711618" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.3389/feduc.2021.711618" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+  
 &emsp; Harvey-Samuel TD, Xu X, Lovett E, Dafa’alla T, Walker A, Norman VC,Carter R, Teal J, Akilan L, **Leftwich PT**, Reitmayer CM, Siddiqui HA, Alphey, L. [Engineered
 expression of the invertebrate-specific scorpion toxin AaHIT reduces adult longevity and female fecundity in the diamondback moth Plutella xylostella](https://doi.org/10.1002/ps.6353). *Pest Management Science* 
 <span class="__dimensions_badge_embed__" data-doi="10.1002/ps.6353" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1101/2020.09.10.291187" data-hide-no-mentions="true" class="altmetric-embed"> </span>
