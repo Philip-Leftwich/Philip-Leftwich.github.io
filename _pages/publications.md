@@ -15,7 +15,11 @@ author_profile: true
  
 Preprint
 ====
- 
+  
+&emsp;Xuejiao Xu, Tim Harvey-Samuel, Hamid Anees Siddiqui, Joshua Ang, Michelle E Anderson, Christine Reitmayer, Erica Lovett, **Philip T Leftwich**, Minsheng You, Luke Alphey . [Towards CRISPR/Cas9-based gene drive in the diamondback moth *Plutella xylostella*](https://www.biorxiv.org/content/10.1101/2021.10.05.462963v1). *bioRxiv* 
+<span class="__dimensions_badge_embed__" data-doi="10.1101/2021.10.05.462963" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1101/2021.10.05.462963" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+  
+
 &emsp; Darrington M, **Leftwich PT**\*, Holmes NA, Friend LA, Clarke NVE, Worsley SF, Margaritopolous JT, Hogenhout SA, Hutchings MI, Chapman T. [Characterisation of the symbionts in the Mediterranean fruitfly gut](https://www.biorxiv.org/content/10.1101/2021.06.09.447743v1.full.pdf+html). *bioRxiv* 
 <span class="__dimensions_badge_embed__" data-doi="10.1101/2021.06.09.447743" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1101/2021.06.09.447743" data-hide-no-mentions="true" class="altmetric-embed"> </span>
   
