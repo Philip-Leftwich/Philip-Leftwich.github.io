@@ -16,8 +16,8 @@ author_profile: true
 2022
 ====
 
-&emsp; Darrington M, **Leftwich PT**\*, Holmes NA, Friend LA, Clarke NVE, Worsley SF, Margaritopolous JT, Hogenhout SA, Hutchings MI, Chapman T. [Characterisation of the symbionts in the Mediterranean fruitfly gut](https://www.biorxiv.org/content/10.1101/2021.06.09.447743v1.full.pdf+html). *Microbial Genomics* (In Press) 
-<span class="__dimensions_badge_embed__" data-doi="10.1101/2021.06.09.447743" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1101/2021.06.09.447743" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+&emsp; Darrington M, **Leftwich PT**\*, Holmes NA, Friend LA, Clarke NVE, Worsley SF, Margaritopolous JT, Hogenhout SA, Hutchings MI, Chapman T. [Characterisation of the symbionts in the Mediterranean fruitfly gut](https://doi.org/10.1099/mgen.0.000801l). *Microbial Genomics* 
+<span class="__dimensions_badge_embed__" data-doi="10.1099/mgen.0.000801" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1099/mgen.0.000801" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
 &emsp;Xuejiao Xu, Tim Harvey-Samuel, Hamid Anees Siddiqui, Joshua Ang, Michelle E Anderson, Christine Reitmayer, Erica Lovett, **Philip T Leftwich**, Minsheng You, Luke Alphey . [Towards CRISPR/Cas9-based gene drive in the diamondback moth *Plutella xylostella*](https://doi.org/10.1089/crispr.2021.0129). *The CRISPR Journal* 
 <span class="__dimensions_badge_embed__" data-doi="10.1089/crispr.2021.0129" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1089/crispr.2021.0129" data-hide-no-mentions="true" class="altmetric-embed"> </span>
@@ -30,7 +30,7 @@ author_profile: true
   
 &emsp; Harvey-Samuel TD, Xu X, Lovett E, Dafa’alla T, Walker A, Norman VC,Carter R, Teal J, Akilan L, **Leftwich PT**, Reitmayer CM, Siddiqui HA, Alphey, L. [Engineered
 expression of the invertebrate-specific scorpion toxin AaHIT reduces adult longevity and female fecundity in the diamondback moth Plutella xylostella](https://doi.org/10.1002/ps.6353). *Pest Management Science* 
-<span class="__dimensions_badge_embed__" data-doi="10.1002/ps.6353" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1101/2020.09.10.291187" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+<span class="__dimensions_badge_embed__" data-doi="10.1002/ps.6353" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1002/ps.6353" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
 &emsp; **Philip T Leftwich**\*^, Lewis G Spurgin, Tim Harvey-Samuel, Callum Thomas, Leonela Carabajal Paladino, Matthew P. Edgington, Luke S Alphey. [Genetic pest management and the background genetics of release strains]( 
 https://royalsocietypublishing.org/doi/10.1098/rstb.2019.0805). *Philosophical Transactions of the Royal Society B*
