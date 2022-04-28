@@ -1,24 +1,24 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: Publications
     url: /publications/
 
  ## - title: "Talks"
  ##   url: /talks/    
 
-  - title: "Research"
+  - title: Research
     url: /research/
 
-  - title: "Teaching"
+  - title: Teaching
     url: /teaching/    
     
-  - title: "People"
+  - title: People
     url: /people/
         
  ## - title: "Blog Posts"
   ##  url: /year-archive/
     
-  - title: "CV"
+  - title: CV
     url: /cv/
     
  ## - title: "Guide"
