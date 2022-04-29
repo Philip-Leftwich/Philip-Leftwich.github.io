@@ -9,8 +9,8 @@
 $doc-font-size              : 16;
 $doc-line-height            : 26;
 $paragraph-indent: false; //true !default;
-$base-font:  'Georgia'
-$heading-font: 'Georgia'
+$base-font:  Georgia, Times, serif;
+$heading-font: Georgia, Times, serif;
 $code-font: Monaco, Consolas, "Lucida Console", monospace;
 $alt-font: $base-font;
 
