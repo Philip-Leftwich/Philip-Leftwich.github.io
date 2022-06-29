@@ -16,7 +16,9 @@ author_profile: true
 2022
 ====
 
-&emsp; Alex Siddall, Tim Harvey-Samuel, Tracey Chapman, **Philip T Leftwich**\^. [Manipulating insect sex determination pathways for genetic pest management: opportunities and challenges](https://www.frontiersin.org/articles/10.3389/fbioe.2022.867851/abstract). *Frontiers in Biotechnology and Bioengineering* In Press
+&emsp; Alex Siddall, Tim Harvey-Samuel, Tracey Chapman, **Philip T Leftwich**^. [Manipulating insect sex determination pathways for genetic pest management: opportunities and challenges](https://www.frontiersin.org/articles/10.3389/fbioe.2022.867851/abstract). *Frontiers in Biotechnology and Bioengineering*
+
+<span class="__dimensions_badge_embed__" data-doi="10.3389/fbioe.2022.867851" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.3389/fbioe.2022.867851" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
 &emsp; Darrington M, **Leftwich PT**\*, Holmes NA, Friend LA, Clarke NVE, Worsley SF, Margaritopolous JT, Hogenhout SA, Hutchings MI, Chapman T. [Characterisation of the symbionts in the Mediterranean fruitfly gut](https://doi.org/10.1099/mgen.0.000801). *Microbial Genomics* 
 <span class="__dimensions_badge_embed__" data-doi="10.1099/mgen.0.000801" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1099/mgen.0.000801" data-hide-no-mentions="true" class="altmetric-embed"> </span>
