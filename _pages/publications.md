@@ -12,6 +12,12 @@ author_profile: true
  
  \* first author/joint first author; ^ corresponding author
  
+pre-print
+====
+
+&emsp; Michelle Anderson, Estela Gonzalez, Matthew Edgington, Joshua Ang, Deepak-Kumar Purusothaman, Lewis Shackleford, Katherine Nevard, Sebald Verkuikl, Tim Harvey-Samuel, **Philip T Leftwich**, Kevin Esvelt, Luke Alphey. [A multiplexed, confinable CRISPR/Cas9 gene drive propagates in caged Aedes aegypti populations](https://www.biorxiv.org/content/10.1101/2022.08.12.503466v1). *bioRxiv*
+
+<span class="__dimensions_badge_embed__" data-doi="10.1101/2022.08.12.503466" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1101/2022.08.12.503466" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
 2022
 ====
