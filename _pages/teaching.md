@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-# Teaching Resources
+# Resources
 
 [THE campus](https://philip-leftwich.github.io/teaching/THE-campus)
 
