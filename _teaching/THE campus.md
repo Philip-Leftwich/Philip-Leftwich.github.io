@@ -4,18 +4,11 @@ collection: teaching
 type: "Web"
 permalink: /teaching/THE-campus
 venue: "Times Higher Education"
-date: 2019-09-01
+date: 2021-09-01
 location: "Oxford"
 ---
 
 <img src='/images/Laying foundations when teaching computational and data skills .jpg' align="left" img style="padding-right: 50px" width="200" height="300"> 
-
-
-
-<br/><br/> 
-<br/><br/> 
-<br/><br/> 
-
 
 THE Campus
 ======
