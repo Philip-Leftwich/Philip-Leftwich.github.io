@@ -9,7 +9,7 @@ date: 2023-06-01
 
 ## Use online repositories for your presentations or posters, helpful teaching resources and short opinion pieces to get recognition for your work.
 
-### Philip Leftwich. (2023). Evidence your teaching with data depositories. Zenodo. (https://doi.org/10.5281/zenodo.7509737)
+### Cite asL Philip Leftwich (2023) Evidence your teaching with data depositories. Zenodo. (https://doi.org/10.5281/zenodo.7509737)
 ---
 
 
