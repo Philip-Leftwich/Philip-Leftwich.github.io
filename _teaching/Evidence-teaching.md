@@ -4,7 +4,7 @@ collection: teaching
 type: "Blog post"
 permalink: /teaching/Evidence-teaching
 date: 2023-06-01
-location: ""
+venue: "Online"
 ---
 
 
