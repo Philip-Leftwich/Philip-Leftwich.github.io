@@ -7,7 +7,7 @@ author_profile: true
 
 # Resources
 
-[Evidence your teaching](https://philip-leftwich.github.io/teaching/Evidence-teaching)
+[Evidence your teaching with data depositories](https://philip-leftwich.github.io/teaching/Evidence-teaching)
 
 [THE campus](https://philip-leftwich.github.io/teaching/THE-campus)
 
