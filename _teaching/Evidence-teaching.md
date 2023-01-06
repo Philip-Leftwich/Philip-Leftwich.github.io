@@ -35,7 +35,6 @@ Briefly, you will require two types of evidence:
 I won't go into any more detail about building a framework of evidence here, as Katharine does a much better job of this than I could. Instead, I want to focus on how to develop and track quantitative measures of impact. 
 
 
-
 Publishing a fully-fledged teaching-focused peer-reviews paper is a daunting task, especially for those who have only recently moved from a research-focused career path. Instead, break this down into smaller steps, and publish them as short opinion pieces, classroom resources, new approaches and ideas. 
 
 We have recently started posting work from the [Biosciences Teaching and Education Research group at the University of East Anglia](https://research-portal.uea.ac.uk/en/organisations/biosciences-teaching-and-education-research) on [Zenodo](https://en.wikipedia.org/wiki/Zenodo). Zenodo is an open-access repository developed under the European OpenAIRE initiative. 
@@ -65,11 +64,9 @@ Once work has a DOI, you are on the first step towards tracking and measuring yo
 <img src='/images/leftwich_orcid.png' width="75%"> 
 
 
-
 Finally, a DOI enables altmetrics, when a piece of work is assigned a DOI it becomes easier to track how it is being used and shared online. Altmetrics are metrics used to measure the impact and reach of a research output beyond traditional citation counts. Altmetrics can include metrics such as the number of times something has been downloaded, the number of times it has been shared on social media, and the number of times it has been mentioned in the news. A wealth of quantitative evidence that you need to demonstrate the impact of your work. 
 
-<img src='/images/badge-screen.png' width="75%"> 
-
+<img src='/images/badge-screen.png' width="50%"> 
 
 Posting your work into online repositories will help you develop your CV, help you share and track the impact of your work and give you the evidence you need to support future career development. Producing these mini-outputs does not prevent you from later publishing in journals; instead, you can generate impact for your work earlier, gather feedback and enable discussion with your peers.
 
