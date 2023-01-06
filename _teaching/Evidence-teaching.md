@@ -10,7 +10,7 @@ location:
 
 
 ## Use online repositories for your presentations or posters, helpful teaching resources and short opinion pieces to get recognition for your work.
-
+### Philip Leftwich. (2023). Evidence your teaching with data depositories. Zenodo. https://doi.org/10.5281/zenodo.7509737
 ---
 
 
@@ -42,32 +42,33 @@ We have recently started posting work from the [Biosciences Teaching and Educati
 
 [This first article by Kelly Edmunds & Helen Leggett](https://doi.org/10.5281/zenodo.7508380) provides methods to support student resilience by developing healthy attitudes to academic failures and was also published on WonkHE. 
 
-![](images/low_stakes.png){width=80%}
+
+<img src='/images/low_stakes.png' width="75%"> 
 
 
 [In this second example](https://doi.org/10.5281/zenodo.7503320), I noted that students needed help with a concept in my genetics practicals. To help with this, I wrote an R Shiny app that allows students to change these parameters and simulate outcomes; once tested, I uploaded this to Zenodo via GitHub.
 
-![](images/LD_assay.png){width=80%}
-
+<img src='/images/LD_assay.png' width="75%"> 
 
 
 Having a [community page on Zenodo](https://zenodo.org/communities/) can make it easier for others to find our work and track individual and collective impact. Still, there is also an established database, the [National Teaching Repository](https://figshare.edgehill.ac.uk/The_National_Teaching_Repository), hosted on [figshare](https://en.wikipedia.org/wiki/Figshare), as another space for colleagues to share and upload resources, research and ideas. Individual educators should take advantage of the opportunity to join a community for viewing and sharing ideas. 
 
-![](images/community.png){width=80%}
+<img src='/images/community.png' width="75%"> 
 
 
 One thing zenodo, figshare and other data depositories have in common is that they all generate a DOI (digital object identifier). A DOI makes a piece of work permanent; once assigned a DOI, the contents cannot be changed, though all of these databases allow new versions or revisions to be submitted (generating a new but linked DOI). Websites can be changed anytime and often accidentally break weblinks. With a DOI, there are no broken backlinks, and anyone can return to your work for years. 
 
 Once work has a DOI, you are on the first step towards tracking and measuring your impact. I recommend everyone working in Higher Education has an [ORCID account](https://en.wikipedia.org/wiki/ORCID). ORCID (Open Researcher and Contributor ID) is a unique identifier for researchers and their work. Having an ORCID account can be beneficial for ensuring that your work is correctly attributed, even in cases where you have a really common name, changed names, or moved across multiple organisations over your career. Any work submitted to zenodo, figshare or similar databases will allow you to provide your unique ORCID identifier to be displayed next to your submission. Once assigned, you can import these works to your ORCID account, et voila, a profile that tracks all your outputs permanently. Many institution websites will let you display your ORCID profile on your webpage. 
 
-![](images/orcid_record.png){width=80%}
+<img src='/images/orcid_record.png' width="75%"> 
 
-![](images/leftwich_orcid.png){width=80%}
+<img src='/images/leftwich_orcid.png' width="75%"> 
+
 
 
 Finally, a DOI enables altmetrics, when a piece of work is assigned a DOI it becomes easier to track how it is being used and shared online. Altmetrics are metrics used to measure the impact and reach of a research output beyond traditional citation counts. Altmetrics can include metrics such as the number of times something has been downloaded, the number of times it has been shared on social media, and the number of times it has been mentioned in the news. A wealth of quantitative evidence that you need to demonstrate the impact of your work. 
 
-![](images/badge-screen.png){width=80%}
+<img src='/images/badge-screen.png' width="75%"> 
 
 
 Posting your work into online repositories will help you develop your CV, help you share and track the impact of your work and give you the evidence you need to support future career development. Producing these mini-outputs does not prevent you from later publishing in journals; instead, you can generate impact for your work earlier, gather feedback and enable discussion with your peers.
