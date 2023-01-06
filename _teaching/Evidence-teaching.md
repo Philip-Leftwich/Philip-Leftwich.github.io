@@ -48,7 +48,7 @@ We have recently started posting work from the [Biosciences Teaching and Educati
 <img src='/images/LD_assay.png' width="75%"> 
 
 
-Having a [community page on Zenodo](https://zenodo.org/communities/) can make it easier for others to find our work and track individual and collective impact. Still, there is also an established database, the [National Teaching Repository](https://figshare.edgehill.ac.uk/The_National_Teaching_Repository), hosted on [figshare](https://en.wikipedia.org/wiki/Figshare), as another space for colleagues to share and upload resources, research and ideas. Individual educators should take advantage of the opportunity to join a community for viewing and sharing ideas. 
+Having a [community page on Zenodo](https://zenodo.org/communities/uea-bio-teaching/?page=1&size=20) can make it easier for others to find our work and track individual and collective impact. Still, there is also an established database, the [National Teaching Repository](https://figshare.edgehill.ac.uk/The_National_Teaching_Repository), hosted on [figshare](https://en.wikipedia.org/wiki/Figshare), as another space for colleagues to share and upload resources, research and ideas. Individual educators should take advantage of the opportunity to join a community for viewing and sharing ideas. 
 
 <img src='/images/community.png' width="75%"> 
 
