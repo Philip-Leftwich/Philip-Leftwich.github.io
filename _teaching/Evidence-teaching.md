@@ -62,7 +62,7 @@ Once work has a DOI, you are on the first step towards tracking and measuring yo
 <img src='/images/leftwich_orcid.png' width="75%"> 
 
 
-Finally, a DOI enables altmetrics, when a piece of work is assigned a DOI it becomes easier to track how it is being used and shared online. Altmetrics are metrics used to measure the impact and reach of a research output beyond traditional citation counts. Altmetrics can include metrics such as the number of times something has been downloaded, the number of times it has been shared on social media, and the number of times it has been mentioned in the news. A wealth of quantitative evidence that you need to demonstrate the impact of your work. 
+Finally, a DOI enables altmetrics, when a piece of work is assigned a DOI it becomes easier to track how it is being used and shared online. [Altmetrics](https://www.altmetric.com) are metrics used to measure the impact and reach of a research output beyond traditional citation counts. Altmetrics can include metrics such as the number of times something has been downloaded, the number of times it has been shared on social media, and the number of times it has been mentioned in the news. A wealth of quantitative evidence that you need to demonstrate the impact of your work. 
 
 <img src='/images/badge-screen.png' width="50%"> 
 
