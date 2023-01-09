@@ -70,3 +70,14 @@ Posting your work into online repositories will help you develop your CV, help y
 
 Consider doing everyone a favour by sharing your teaching work more widely and getting credit for it.  
 
+&nbsp;
+
+
+**Update 2023-09-01:** 
+
+*Two important points to consider when sharing your work with thanks to* `@only_ohm@mas.to`
+
+*- Who owns your work? The copyright for teaching materials that your employer explicitly asked you to produce may reside with them - for example your series of classroom lectures. On the other hand presentations at meetings, ideas, helpful guides etc. should be yours to distribute - in either circumstance you may be ok to distribute but it is a good idea to check with your employer first.*
+
+*- Teaching materials often contain third-party copyrighted extracts or images - internal use (with proper attribution) is often OK under "fair use" provisions, but this may not extend to public release.*
+
