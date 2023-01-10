@@ -34,3 +34,7 @@ This is a collection of some of my writings and teaching resources:
 [Bioinformatics Virtual Coordination Network](https://philip-leftwich.github.io/teaching/2019-biovcnet)
   A product of lockdown, as a group of Early Career Research Bioinformaticians and Data Scientists we got together to help wet-lab biologists pick up some computational skills/begin computational projects. 
 
+
+# Other Resources
+
+[A collection of useful guides written by others on writing, publishing, and reproducible science](https://philip-leftwich.github.io/teaching/other-resources)
