@@ -2,6 +2,7 @@
 title: "Amy Butler"  
 excerpt: "Undergraduate research student 2021/22"   
 collection: people
+categories: past
 
 ---
 
