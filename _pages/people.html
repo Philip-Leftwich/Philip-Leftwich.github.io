@@ -5,13 +5,16 @@ permalink: /people/
 author_profile: true
 ---
 
-  {% if post.categories contains "present" %}
+{% assign headerPrinted = false %}
+{% for post in site.people reversed %}
+  {% if post.categories contains "present" and headerPrinted == false %}
     <h1>Present</h1>
-    {% include archive-single.html %}
-  {% elsif post.categories contains "past" %}
+    {% assign headerPrinted = true %}
+  {% elsif post.categories contains "past" and headerPrinted == false %}
     <h1>Past</h1>
-    {% include archive-single.html %}
+    {% assign headerPrinted = true %}
   {% endif %}
+  {% include archive-single.html %}
 {% endfor %}
 
 
