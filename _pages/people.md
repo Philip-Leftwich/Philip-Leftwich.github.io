@@ -7,10 +7,10 @@ author_profile: true
 
 {% for post in site.people reversed %}
   {% if post.categories contains "past" %}
-    <h2>Past</h2>
+    <h1>Past</h1>
     {% include archive-single.html %}
   {% elsif post.categories contains "present" %}
-    <h2>Present</h2>
+    <h1>Present</h1>
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
