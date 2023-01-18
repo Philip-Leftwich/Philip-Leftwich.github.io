@@ -5,10 +5,14 @@ permalink: /people/
 author_profile: true
 ---
 
-{% include base_path %}
-
 {% for post in site.people reversed %}
-  {% include archive-single.html %}
+  {% if post.categories contains "past" %}
+    <h2>Past</h2>
+    {% include archive-single.html %}
+  {% elsif post.categories contains "present" %}
+    <h2>Present</h2>
+    {% include archive-single.html %}
+  {% endif %}
 {% endfor %}
 
 
