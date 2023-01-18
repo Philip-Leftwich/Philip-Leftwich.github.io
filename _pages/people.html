@@ -7,12 +7,11 @@ author_profile: true
 
 {% assign headerPrinted = false %}
 {% for post in site.people reversed %}
-  {% if post.categories contains "present" and headerPrinted == false %}
-    <h1>Present</h1>
-    {% assign headerPrinted = true %}
-  {% elsif post.categories contains "past" and headerPrinted == false %}
+  {% if post.categories contains "past" %}
+    {% unless headerPrinted %}
     <h1>Past</h1>
     {% assign headerPrinted = true %}
+    {% endunless %}
   {% endif %}
   {% include archive-single.html %}
 {% endfor %}
