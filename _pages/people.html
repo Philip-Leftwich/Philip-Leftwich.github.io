@@ -6,15 +6,12 @@ author_profile: true
 ---
 
   {% if post.categories contains "present" %}
-  {% assign headerPrinted = false %}
-      {% include archive-single.html %}
+    <h1>Present</h1>
+    {% include archive-single.html %}
   {% elsif post.categories contains "past" %}
-{% unless headerPrinted %}
-<h1>Past members</h1>
-{% assign headerPrinted = true %}
-{% endunless %}
-{% include archive-single.html %}
-{% endif %}
+    <h1>Past</h1>
+    {% include archive-single.html %}
+  {% endif %}
 {% endfor %}
 
 
