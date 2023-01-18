@@ -5,14 +5,21 @@ permalink: /people/
 author_profile: true
 ---
 
+{% assign headerPrinted = false %}
 {% for post in site.people reversed %}
-  {% if post.categories contains "past" %}
-    <h1>Past</h1>
-    {% include archive-single.html %}
-  {% elsif post.categories contains "present" %}
-    <h1>Present</h1>
-    {% include archive-single.html %}
-  {% endif %}
+{% if post.categories contains "past" %}
+{% unless headerPrinted %}
+<h1>Past</h1>
+{% assign headerPrinted = true %}
+{% endunless %}
+{% include archive-single.html %}
+{% elsif post.categories contains "present" %}
+{% unless headerPrinted %}
+<h1>Present</h1>
+{% assign headerPrinted = true %}
+{% endunless %}
+{% include archive-single.html %}
+{% endif %}
 {% endfor %}
 
 
