@@ -18,12 +18,17 @@ This is a collection of some of my writings and teaching resources:
 - [Dry Labs Real Science](https://philip-leftwich.github.io/teaching/Dry%20Labs-Real%20Science)
 
   
- You can also check out the resources page I curate on Zenodo for [Biosciences Teaching and Education Research at the University of East Anglia](https://zenodo.org/communities/uea-bio-teaching) and the [Skills community of practice](https://www.skillscop.com/community-members).
+ You can also check out the resources page I curate on Zenodo for [Biosciences Teaching and Education Research at the University of East Anglia](https://zenodo.org/communities/uea-bio-teaching) 
+ 
 
 # Books
 
 [Maths Skills for A-level Biology](https://philip-leftwich.github.io/teaching/maths-skills-for-a-level-biology)
   I wrote a book - and it has some decent reviews. This is a primer for the maths you need to succeed as a biologist at A-level, but in my opinion also a handy reosurce for early undegraduates as well.
+
+# Organisations 
+
+[Skills community of practice](https://www.skillscop.com/community-members).
 
 # Workshops and Courses
 
