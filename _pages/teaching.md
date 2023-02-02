@@ -17,9 +17,8 @@ This is a collection of some of my writings and teaching resources:
 
 - [Dry Labs Real Science](https://philip-leftwich.github.io/teaching/Dry%20Labs-Real%20Science)
 
- 
- 
- You can also check out the community page I curate on Zenodo for [Biosciences Teaching and Education Research at the University of East Anglia](https://zenodo.org/communities/uea-bio-teaching)
+  
+ You can also check out the resources page I curate on Zenodo for [Biosciences Teaching and Education Research at the University of East Anglia](https://zenodo.org/communities/uea-bio-teaching) and the [Skills community of practice](https://www.skillscop.com/community-members).
 
 # Books
 
