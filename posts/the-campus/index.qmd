@@ -1,0 +1,49 @@
+---
+title: "THE Campus Resources for academics and university staff"
+description: |
+  A collection of my writings for THE campus between 2022 & 2023
+author:
+  - name: Philip Leftwich
+#    orcid: 0000-0002-5300-3075
+#    url: https://samanthacsik.github.io/
+date: 2023-01-25
+#citation: 
+#  url: https://samanthacsik.github.io/posts/2021-09-21-distill-blogs/
+#bibliography: biblio.bib
+categories: [teaching, THE campus]
+image: quant-teach.jpg
+
+page-layout: full
+title-block-banner: false
+---
+
+Lorem ipsum 
+
+[here](https://www.timeshighereducation.com/campus/authors/philip-leftwich)
+
+
+
+## How to build quantitative evidence of your teaching expertise
+
+```{r}
+#| echo: false
+#| out-width: 100%
+knitr::include_url("https://www.timeshighereducation.com/campus/how-build-quantitative-evidence-your-teaching-expertise")
+```
+
+## Foundations to lay when teaching computational and data skills
+
+```{r}
+#| echo: false
+#| out-width: 100%
+knitr::include_url("https://www.timeshighereducation.com/campus/foundations-lay-when-teaching-computational-and-data-skills")
+```
+
+## Using online and blended learning tools to teach data science skills
+
+```{r}
+#| echo: false
+#| out-width: 100%
+knitr::include_url("https://www.timeshighereducation.com/campus/using-online-and-blended-learning-tools-teach-data-science-skills")
+```
+

@@ -1,0 +1,14 @@
+{
+  "hash": "236189d5c4808f1806f609817ba8c822",
+  "result": {
+    "markdown": "---\ntitle: \"THE Campus Resources for academics and university staff\"\ndescription: |\n  A collection of my writings for THE campus between 2022 & 2023\nauthor:\n  - name: Philip Leftwich\n#    orcid: 0000-0002-5300-3075\n#    url: https://samanthacsik.github.io/\ndate: 2023-01-25\n#citation: \n#  url: https://samanthacsik.github.io/posts/2021-09-21-distill-blogs/\n#bibliography: biblio.bib\ncategories: [teaching, THE campus]\nimage: quant-teach.jpg\n---\n\n\nLorem ipsum \n\n[here](https://www.timeshighereducation.com/campus/authors/philip-leftwich)\n\n\n\n## How to build quantitative evidence of your teaching expertise\n\n\n::: {.cell}\n<iframe src=\"https://www.timeshighereducation.com/campus/how-build-quantitative-evidence-your-teaching-expertise\" width=\"100%\" height=\"400px\" data-external=\"1\"></iframe>\n:::\n\n\n## Foundations to lay when teaching computational and data skills\n\n\n::: {.cell}\n<iframe src=\"https://www.timeshighereducation.com/campus/foundations-lay-when-teaching-computational-and-data-skills\" width=\"100%\" height=\"400px\" data-external=\"1\"></iframe>\n:::\n\n\n## Using online and blended learning tools to teach data science skills\n\n\n::: {.cell}\n<iframe src=\"https://www.timeshighereducation.com/campus/using-online-and-blended-learning-tools-teach-data-science-skills\" width=\"100%\" height=\"400px\" data-external=\"1\"></iframe>\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

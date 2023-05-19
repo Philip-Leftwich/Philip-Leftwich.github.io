@@ -1,0 +1,34 @@
+---
+title: "PROGRAMMING IN R : MOVING FROM BEGINNER TO ADVANCED"
+
+description: |
+ This course is designed for anyone with basic knowledge of R who is looking to enhance their skills and take their programming abilities to the next level. Each session in the course will be hands-on, providing you with practical examples to work through and apply the concepts you've learned, and lots of support to answer questions and overcome any challenges.
+author:
+  - name: Philip Leftwich
+
+date: 2023-09-18
+slug: left2023physalia
+categories: [Physalia]
+image: advanced-r.jpg
+
+page-layout: full
+title-block-banner: false
+---
+
+
+18th-21st September 2023
+
+[**Sign up today**](https://www.physalia-courses.org/courses-workshops/course47/)
+
+# OVERVIEW
+
+This course is designed for anyone with basic knowledge of R who is looking to enhance their skills and take their programming abilities to the next level. Each session in the course will be hands-on, providing you with practical examples to work through and apply the concepts you've learned, and lots of support to answer questions and overcome any challenges.
+
+# OUTCOMES
+
+By the end of the course, you'll have the skills and confidence to tackle complex programming problems in R and create high-quality reports, figures, and dashboards.
+
+
+
+
+

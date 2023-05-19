@@ -1,0 +1,6 @@
+---
+title: "microbiomes"
+description: |
+  I also work to investigate the effects of gut microbes on fruitflies (Drosophila and medfly) and explore these effects in terms of the evolutionary associations between hosts and their symbionts.
+image: F2.large.jpg
+---

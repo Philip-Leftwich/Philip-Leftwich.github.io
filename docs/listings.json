@@ -1,0 +1,22 @@
+[
+  {
+    "listing": "/posts.html",
+    "items": [
+      "/posts/the-campus/index.html"
+    ]
+  },
+  {
+    "listing": "/talks_workshops.html",
+    "items": [
+      "/current_workshops/2023-physalia-advanced-r/index.html",
+      "/current_workshops/2023-physalia-stats-r/index.html"
+    ]
+  },
+  {
+    "listing": "/about.html",
+    "items": [
+      "/research/genetic pest managment.html",
+      "/research/microbiome.html"
+    ]
+  }
+]

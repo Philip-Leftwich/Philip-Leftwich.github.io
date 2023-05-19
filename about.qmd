@@ -1,0 +1,147 @@
+---
+title: "about"
+subtitle: "~ a bit more about what I do ~"
+listing:
+- id: research
+  contents: research
+  feed: true
+  sort: "date desc"
+  type: grid
+  grid-item-border: true
+  grid-item-align: left
+  max-description-length: 175
+  date-format: medium
+  categories: numbered
+  sort-ui: false
+  filter-ui: false
+  
+page-layout: full
+title-block-banner: false
+---
+
+I am an [Associate Professor in Genetics & Data Science](https://research-portal.uea.ac.uk/en/persons/philip-leftwich) in the School of Biological Sciences at the University of East Anglia. Please see below for my teaching and research interests.
+
+## {{< fa chalkboard-teacher title="A teacher at a chalkboard" >}} Teaching
+
+I teach on a number of undergraduate modules in Biological Sciences, with a particular focus on Genetics, Genomics and Data Science. 
+
+:::{.grid}
+
+::: {.g-col-12 #sec-curr}
+
+:::
+
+::: {.g-col-12 .g-col-md-4}
+<div class="card h-100">
+<div class="card-body d-flex flex-column">
+<img src="images/data_sci.png" class="card-img-top">
+<h4 class="card-title">Data Science</h4>
+<p class="card-subtitle">5023Y<br>
+University of East Anglia</p>
+<div class="card-text text-center">
+<p></p>
+</div>
+<div class="text-center">
+</div>
+</div>
+</div>
+
+:::
+
+::: {.g-col-12 .g-col-md-4}
+<div class="card h-100">
+<div class="card-body d-flex flex-column">
+<img src="images/Sanger_Sequencing_heterozygous_point_mutation.png" class="card-img-top">
+<h4 class="card-title">Genetics</h4>
+<p class="card-subtitle">5011<br>
+University of East Anglia</p>
+<div class="card-text text-center">
+<p></p>
+</div>
+<div class="text-center">
+</div>
+</div>
+</div>
+
+:::
+
+::: {.g-col-12 .g-col-md-4}
+<div class="card h-100">
+<div class="card-body d-flex flex-column">
+<img src="images/drosophila.jpg" class="card-img-top">
+<h4 class="card-title">Molecular Biology & Genetics</h4>
+<p class="card-subtitle">4018A<br>
+University of East Anglia</p>
+<div class="card-text text-center">
+<p></p>
+</div>
+<div class="text-center">
+</div>
+</div>
+</div>
+
+:::
+
+::: {.g-col-12 .g-col-md-4}
+<div class="card h-100">
+<div class="card-body d-flex flex-column">
+<h4 class="card-title">Microbiology</h4>
+<p class="card-subtitle">5015<br>
+University of East Anglia</p>
+<div class="card-text text-center">
+<p></p>
+</div>
+<div class="text-center">
+</div>
+</div>
+</div>
+
+:::
+
+::: {.g-col-12 .g-col-md-4}
+<div class="card h-100">
+<div class="card-body d-flex flex-column">
+<h4 class="card-title">Genomics</h4>
+<p class="card-subtitle">6013A<br>
+University of East Anglia</p>
+<div class="card-text text-center">
+<p></p>
+</div>
+<div class="text-center">
+</div>
+</div>
+</div>
+
+:::
+
+::: {.g-col-12 .g-col-md-4}
+<div class="card h-100">
+<div class="card-body d-flex flex-column">
+<img src="images/ireland.jpg" class="card-img-top">
+<h4 class="card-title">Field Ecology</h4>
+<p class="card-subtitle">5013<br>
+University of East Anglia</p>
+<div class="card-text text-center">
+<p></p>
+</div>
+<div class="text-center">
+</div>
+</div>
+</div>
+
+:::
+
+:::
+
+
+## {{< fa dna title="A dna helix" >}} Research 
+
+I conduct research in insect genetics and microbiomes, please click on the topics below to find out more about each.
+
+:::{#research}
+:::
+
+## {{< fa scroll title="CV" >}} CV
+
+
+You can find a full copy of my CV [here](https://github.com/Philip-Leftwich/PL_CV/blob/master/Philip_Leftwich_CV.pdf)

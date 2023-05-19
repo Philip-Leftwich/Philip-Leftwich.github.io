@@ -1,0 +1,87 @@
+---
+title: "books & educational resources"
+subtitle: "a collection of my authored teaching resources and educational community partners"
+---
+
+
+## {{< fa book title="Open Book" >}}Books
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4}
+
+<div class="card h-100">
+<img src="images/maths-skills-for-a-level-biology.jpg" class="card-img-top">
+<div class="card-body d-flex flex-column">
+<h4 class="card-title">Maths skills for A-level Biology</h4>
+<div class="card-text text-center">
+<a href="https://amzn.eu/d/bKpjHn9"><i>{{< fa arrow-up-right-from-square >}}</i></a>
+<p>Oxford University Press</p>
+</div>
+<div class="text-center">
+
+</div>
+</div>
+</div>
+
+:::
+
+:::
+
+## {{< fa users title="Three people" >}} Communities
+
+### [Biosciences Teaching and Education Research Zenodo Page](https://zenodo.org/communities/uea-bio-teaching) 
+
+A curated output of talks, workshops and teaching innovations from the Biological Sciences Department, University of East Anglia (UEA), Norwich, UK. 
+
+### [Skills Community of Practice](https://www.skillscop.com/)
+
+The Skills Community of Practice is an informal forum to share approaches to teaching undergraduate skills with colleagues across institutes. Each month, there is a presentation from a member about their approach to teaching a specific skill or skillset, followed by some whole groups comments/discussion.
+
+## {{< fa dna title="A dna helix" >}} Genetics & Molecular Biology
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4}
+
+<div class="card h-100">
+<img src="images/benchling.svg" class="card-img-top">
+<div class="card-body d-flex flex-column">
+<h4 class="card-title">Benchling for Distance Learning</h4>
+<div class="card-text text-center">
+<a href="https://www.benchling.com/educators"><i>{{< fa arrow-up-right-from-square >}}</i></a>
+<p>Teaching concepts in genetics and molecular biology with Benchling: a series of free-to-use lessons developed by me in collaboration with software company Benchling</p>
+</div>
+<div class="text-center">
+
+</div>
+</div>
+</div>
+
+:::
+
+
+
+::: {.g-col-12 .g-col-md-8}
+
+<div class="card h-100">
+<img src="images/LD.gif" class="card-img-top">
+<div class="card-body d-flex flex-column">
+<h4 class="card-title">Simulations of bacterial mutation</h4>
+<div class="card-text text-center">
+<a href="https://github.com/Philip-Leftwich/Luria_Delbruck"><i>{{< fa arrow-up-right-from-square >}}</i></a>
+<p>Teaching fundamental concepts of mutation in genetics with simulation</p>
+</div>
+<div class="text-center">
+</div>
+</div>
+</div>
+
+:::
+
+:::
+
+
+
+
+

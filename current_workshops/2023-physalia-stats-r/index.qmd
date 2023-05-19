@@ -1,0 +1,37 @@
+---
+title: "INTRODUCTION TO STATISTICS IN R FOR BIOLOGISTS AND ECOLOGISTS"
+
+description: |
+ This course will introduce scientists and practitioners interested in applying statistical approaches in their daily routine using R as a working environment. Participants will be introduced into the mysteries of R and R Studio while learning how to perform common statistical analyses. After a short introduction on R and its principles, the focus will be on questions that could be addressed using common statistical analyses, both for descriptive statistics and for statistical inference.
+author:
+  - name: Philip Leftwich
+
+date: 2023-07-17
+slug: left2023physalia
+categories: [Physalia]
+image: stata.jpg
+
+page-layout: full
+title-block-banner: false
+---
+
+# Dates
+
+17th-20th July 2023
+
+[**Sign up today**](https://www.physalia-courses.org/courses-workshops/course13/)
+
+# LEARNING OUTCOMES
+
+1. Understand how to read, interpret and write scripts in R.
+
+2. Learn statistical tools to address common questions in research activities.
+
+3. An introduction to efficient, readable and reproducible analyses
+
+4. Being comfortable with using R when performing both descriptive and inferential statistics.
+
+ 
+
+
+

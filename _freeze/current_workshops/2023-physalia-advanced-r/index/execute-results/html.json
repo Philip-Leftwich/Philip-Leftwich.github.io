@@ -1,0 +1,14 @@
+{
+  "hash": "e7010526fbe9f0e1982ac1491a4a290a",
+  "result": {
+    "markdown": "---\ntitle: \"PROGRAMMING IN R : MOVING FROM BEGINNER TO ADVANCED\"\ndescription: |\n This course is designed for anyone with basic knowledge of R who is looking to enhance their skills and take their programming abilities to the next level. Each session in the course will be hands-on, providing you with practical examples to work through and apply the concepts you've learned, and lots of support to answer questions and overcome any challenges.\nauthor:\n  - name: Philip Leftwich\n#    url: https://samanthacsik.github.io/\n#    orcid: 0000-0002-5300-3075\n#    affiliation: R-Ladies Santa Barbara\n#    affiliation-url: https://www.meetup.com/rladies-santa-barbara/\n#  - name: An Bui\n#    url: https://an-bui.com/\n #   orcid: 0000-0002-9548-7776\n #   affiliation: R-Ladies Santa Barbara\n #   affiliation-url: https://www.meetup.com/rladies-santa-barbara/\ndate: 2023-09-01\nslug: left2023physalia\ncategories: [Physalia]\nimage: advanced-r.jpg\n---\n\n::: {.cell}\n\n:::\n\n\n\n\n# Overview\n\nLorem ipsum \n\n\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

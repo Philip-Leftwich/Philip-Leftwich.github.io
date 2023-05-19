@@ -1,0 +1,6 @@
+---
+title: "genetic pest management"
+description: |
+  My research is based in the emerging field of genetic pest management, focusing particularly on the agricultural pests Ceratitis capitata (medfly), and vector arthropods such as the mosquito Aedes aegypti.
+image: ceratitis.jpg
+---
