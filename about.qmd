@@ -14,7 +14,8 @@ listing:
   categories: numbered
   sort-ui: false
   filter-ui: false
-  
+include-in-header: 
+    - file: "analytics.html"  
 page-layout: full
 title-block-banner: false
 ---
