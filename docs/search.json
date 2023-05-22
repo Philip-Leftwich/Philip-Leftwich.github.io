@@ -14,6 +14,13 @@
     "text": "Dates\n17th-20th July 2023\nSign up today\n\n\nLEARNING OUTCOMES\n\nUnderstand how to read, interpret and write scripts in R.\nLearn statistical tools to address common questions in research activities.\nAn introduction to efficient, readable and reproducible analyses\nBeing comfortable with using R when performing both descriptive and inferential statistics."
   },
   {
+    "objectID": "current_workshops/2023-uk-stem/index.html",
+    "href": "current_workshops/2023-uk-stem/index.html",
+    "title": "USING COMPUTER TOOLS TO SUPPORT MOLECULAR BIOLOGY LABS",
+    "section": "",
+    "text": "28th & 29th June 2023\nConference Programme\n\n\nThe electronic lab notebook (ELN) has become a critical tool for researchers to document, manage, and analyze their experiments. ELNs can revolutionize how students learn about and practice experimental design and molecular biology concepts in education. This workshop will focus on Benchling, a comprehensive free-to-use ELN that can help students develop analytical, planning, collaborative, and reflective skills, and will draw on my practice in using this software for level 5 genetics students.\nThe workshop will run in four sections and cover the following topics:\n\nHow to set up and use Benchling, including creating an account, organizing notebooks and experiments, and importing and exporting data.\nHow to organize a classroom on Benchling, including creating assignments, managing student access, and monitoring student progress.\nTeaching concepts in Molecular Biology with web tools, including DNA sequence analysis, CRISPR, plasmid and primer design - there are multiple worksheets participants are free to choose from.\nDeveloping reflective practice with online notebooks, including analyzing experimental data, identifying learning goals, and receiving feedback.\n\nParticipants will learn how to incorporate Benchling into their curriculum to enhance student learning, promote scientific literacy, and develop essential skills for their future careers. The workshop format includes interactive exercises & worksheets and group discussions."
+  },
+  {
     "objectID": "current_workshops/2023-physalia-advanced-r/index.html",
     "href": "current_workshops/2023-physalia-advanced-r/index.html",
     "title": "PROGRAMMING IN R : MOVING FROM BEGINNER TO ADVANCED",
@@ -74,7 +81,7 @@
     "href": "talks_workshops.html",
     "title": "talks, courses & workshops",
     "section": "",
-    "text": "Physalia\n\n\n\nThis course is designed for anyone with basic knowledge of R who is looking to enhance their skills and take their programming abilities to the next level. Each session in…\n\n\n\nPhilip Leftwich\n\n\nSep 18, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPhysalia\n\n\n\nThis course will introduce scientists and practitioners interested in applying statistical approaches in their daily routine using R as a working environment. Participants…\n\n\n\nPhilip Leftwich\n\n\nJul 17, 2023\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Physalia\n\n\n\nThis course is designed for anyone with basic knowledge of R who is looking to enhance their skills and take their programming abilities to the next level. Each session in…\n\n\n\nPhilip Leftwich\n\n\nSep 18, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPhysalia\n\n\n\nThis course will introduce scientists and practitioners interested in applying statistical approaches in their daily routine using R as a working environment. Participants…\n\n\n\nPhilip Leftwich\n\n\nJul 17, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUK STEM\n\n\n\nA workshop at the UK STEM conference in Swansea to demonstrate the power of teaching in-silico analysis tools to support molecular biology labs\n\n\n\nPhilip Leftwich\n\n\nJun 29, 2023\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "talks_workshops.html#previous-talks-workshops",

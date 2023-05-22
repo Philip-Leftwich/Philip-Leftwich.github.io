@@ -1,0 +1,39 @@
+---
+title: "USING COMPUTER TOOLS TO SUPPORT MOLECULAR BIOLOGY LABS"
+
+description: |
+ A workshop at the UK STEM conference in Swansea to demonstrate the power of teaching in-silico analysis tools to support molecular biology labs
+ 
+author:
+  - name: Philip Leftwich
+
+date: 2023-06-29
+slug: left2023ukstem
+categories: [UK STEM]
+image: sequence.png
+
+page-layout: full
+title-block-banner: false
+---
+
+# Dates
+
+28th & 29th June 2023
+
+[**Conference Programme**](https://ukstemconference.com/2023-conference-programme/)
+
+## Information
+
+The electronic lab notebook (ELN) has become a critical tool for researchers to document, manage, and analyze their experiments. ELNs can revolutionize how students learn about and practice experimental design and molecular biology concepts in education. This workshop will focus on Benchling, a comprehensive free-to-use ELN that can help students develop analytical, planning, collaborative, and reflective skills, and will draw on my practice in using this software for level 5 genetics students. 
+
+The workshop will run in four sections and cover the following topics:
+
+- How to set up and use Benchling, including creating an account, organizing notebooks and experiments, and importing and exporting data.
+
+- How to organize a classroom on Benchling, including creating assignments, managing student access, and monitoring student progress.
+
+- Teaching concepts in Molecular Biology with web tools, including DNA sequence analysis, CRISPR, plasmid and primer design - there are multiple worksheets participants are free to choose from. 
+
+- Developing reflective practice with online notebooks, including analyzing experimental data, identifying learning goals, and receiving feedback.
+
+Participants will learn how to incorporate Benchling into their curriculum to enhance student learning, promote scientific literacy, and develop essential skills for their future careers. The workshop format includes interactive exercises & worksheets and group discussions. 
