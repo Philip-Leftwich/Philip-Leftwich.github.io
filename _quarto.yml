@@ -4,9 +4,6 @@ project:
 
 website:
   site-url: https://philip.leftwich.github.io/
-  open-graph: true
-  twitter-card:
-    creator: "@philipleftwich"
   google-analytics: "G-9SHEWYCPZ9"
 
 
@@ -50,7 +47,7 @@ format:
       - theme.scss
     mainfont: Nunito
     toc: true
-    include-in-body: 
+    include-in-header: 
     - file: "analytics.html"  
 
 
