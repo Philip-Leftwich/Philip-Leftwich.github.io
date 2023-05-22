@@ -17,7 +17,7 @@ listing:
 - id: talks
   contents: talks
   feed: true
-  sort: "date desc"
+  sort: "date"
   type: grid
   grid-item-border: true
   grid-item-align: left

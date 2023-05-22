@@ -4,6 +4,10 @@ project:
 
 website:
   site-url: https://philip.leftwich.github.io/
+  open-graph: true
+  twitter-card:
+    creator: "@philipleftwich"
+  google-analytics: "G-9SHEWYCPZ9"
 
 
 
