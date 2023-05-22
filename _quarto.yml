@@ -45,5 +45,7 @@ format:
       - theme.scss
     mainfont: Nunito
     toc: true
+    include-in-header: 
+    - file: "analytics.html"  
 
 
