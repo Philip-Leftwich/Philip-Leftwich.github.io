@@ -6,6 +6,9 @@ website:
   site-url: https://philip.leftwich.github.io/
   open-graph: true
   google-analytics: "G-9SHEWYCPZ9"
+  twitter-card:
+    creator: "@philipleftwich"
+
 
   navbar:
     title: "Philip Leftwich"
