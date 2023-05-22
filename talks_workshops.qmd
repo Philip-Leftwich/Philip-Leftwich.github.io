@@ -31,12 +31,12 @@ page-layout: full
 title-block-banner: false
 ---
 
-## upcoming workshops
+## upcoming talks & workshops
 
 :::{#current-workshops}
 :::
 
-## talks
+## previous talks & workshops
 
 :::{#talks}
 :::

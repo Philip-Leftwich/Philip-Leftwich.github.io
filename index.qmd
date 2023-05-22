@@ -23,10 +23,12 @@ about:
 
 <!-- ::: {.small-text} -->
 
-Hi, I'm Phil! A molecular biologist interested in developing and testing gene drives and other genetic technologies to control pest insect species.
+Hi, I'm Phil! 
+
+I am a molecular biologist interested in developing and testing gene drives and other genetic technologies to control pest insect species.
 
 Currently based at the University of East Anglia I teach across a range of subjects including molecular biology, genetics, statistics and computing skills.
 
-Here you can find information on my research, current projects, and find details about teaching and outreach projects. <!-- ::: -->
+On this site you can find information on my research, current projects, and find details about teaching and outreach projects. <!-- ::: -->
 
 

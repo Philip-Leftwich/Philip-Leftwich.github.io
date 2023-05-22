@@ -1,0 +1,50 @@
+---
+title: "other resources"
+subtitle: "a collection of other people's writings, tutorials, etc. that I find particularly helpful"
+---
+
+## Writing
+
+## R stuff
+
+### {{< fa tools title="A wrench and a screw driver" >}} r tools
+
+* [free icons from fontawesome](https://fontawesome.com/v5/search?m=free) + the [`{fontawesome}`](https://github.com/rstudio/fontawesome) R package for infusing your slides, website, RMarkdowns/Quarto Markdowns, and more with an extra splash of fun
+
+### {{< fa chart-bar title="A bar chart" >}} data viz
+
+* [A ggplot2 Tutorial for Beautiful Plotting in R](https://cedricscherer.netlify.app/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/), a fantastic guide to ggplot.
+
+
+* [Beautifully Annotated: Enhancing your ggplots with Text](https://www.cararthompson.com/talks/rl-cambridge-beautifully-annotated/), by [Cara Thompson](https://www.cararthompson.com/about.html), a seriously wonderful talk on using annotations in your ggplots
+
+### {{< fa desktop title="A desktop computer screen" >}} reporting & presentations
+
+* Quarto is all the rage these days (and by these days, I mean post-March 2022). Download and find some great tutorials [here](https://quarto.org/) to get started
+
+* [Meet xaringan: Making slides in R Markdown](https://arm.rbind.io/slides/xaringan.html#1), by Allison Hill
+
+* [Sharing Your `xaringan` Slides](https://www.garrickadenbuie.com/blog/sharing-xaringan-slides/), by Garrick Aden-Buie
+
+### {{< fa book-open title="An open book" >}} learning materials
+
+* The last R book you will ever need. A comprehensive collection of books on everything R, over 300 titles and most are completely free availabel at [The Big Book of R](https://www.bigbookofr.com/)
+
+* Ever feel like you need a pick-me-up while learning stats or a new R tool? Look no further than [Allison Horst's](https://twitter.com/allison_horst) [Data Science Illustrations](https://allisonhorst.com/), featuring the cutest and most educational fuzzy monsters you'll ever see!
+
+* [Mastering Shiny](https://mastering-shiny.org/index.html), by Hadley Wickham 
+
+* [Happy Git and GitHub for the useR](https://happygitwithr.com/), by Jenny Bryan
+
+* [R for Data Science](https://r4ds.had.co.nz/), by Hadley Wickham
+
+* [W3Schools](https://www.w3schools.com/default.asp), particularly for their HTML & CSS tutorials
+
+
+
+
+
+### {{< fa universal-access title="The Web Accessibility symbol, which is a person with outstretched arms inside a circle" >}} accessibility
+
+
+

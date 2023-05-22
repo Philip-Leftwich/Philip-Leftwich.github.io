@@ -1,17 +1,10 @@
 [
   {
-    "objectID": "people.html",
-    "href": "people.html",
-    "title": "People",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "",
     "section": "",
-    "text": "Associate Professor University of East Anglia\n\n\n\n\n\n    \n\n\n\n\n\n\n\n\n\n\nPhD Student University of East Anglia\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\nUG Student\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMSc Student"
-  },
-  {
-    "objectID": "resources.html#r-stuff",
-    "href": "resources.html#r-stuff",
-    "title": "other resources",
-    "section": "R stuff",
-    "text": "R stuff\n\n r tools\n\nfree icons from fontawesome + the {fontawesome} R package for infusing your slides, website, RMarkdowns/Quarto Markdowns, and more with an extra splash of fun\n\n\n\n data viz\n\nA ggplot2 Tutorial for Beautiful Plotting in R, a fantastic guide to ggplot.\nBeautifully Annotated: Enhancing your ggplots with Text, by Cara Thompson, a seriously wonderful talk on using annotations in your ggplots\n\n\n\n reporting & presentations\n\nQuarto is all the rage these days (and by these days, I mean post-March 2022). Download and find some great tutorials here to get started\nMeet xaringan: Making slides in R Markdown, by Allison Hill\nSharing Your xaringan Slides, by Garrick Aden-Buie\n\n\n\n learning materials\n\nThe last R book you will ever need. A comprehensive collection of books on everything R, over 300 titles and most are completely free availabel at The Big Book of R\nEver feel like you need a pick-me-up while learning stats or a new R tool? Look no further than Allison Horst’s Data Science Illustrations, featuring the cutest and most educational fuzzy monsters you’ll ever see!\nMastering Shiny, by Hadley Wickham\nHappy Git and GitHub for the useR, by Jenny Bryan\nR for Data Science, by Hadley Wickham\nW3Schools, particularly for their HTML & CSS tutorials\n\n\n\n accessibility"
+    "text": "Hi, I’m Phil!\nI am a molecular biologist interested in developing and testing gene drives and other genetic technologies to control pest insect species.\nCurrently based at the University of East Anglia I teach across a range of subjects including molecular biology, genetics, statistics and computing skills.\nOn this site you can find information on my research, current projects, and find details about teaching and outreach projects."
   },
   {
     "objectID": "current_workshops/2023-physalia-stats-r/index.html",
@@ -28,18 +21,32 @@
     "text": "18th-21st September 2023\nSign up today\n\nOVERVIEW\nThis course is designed for anyone with basic knowledge of R who is looking to enhance their skills and take their programming abilities to the next level. Each session in the course will be hands-on, providing you with practical examples to work through and apply the concepts you’ve learned, and lots of support to answer questions and overcome any challenges.\n\n\nOUTCOMES\nBy the end of the course, you’ll have the skills and confidence to tackle complex programming problems in R and create high-quality reports, figures, and dashboards."
   },
   {
-    "objectID": "posts.html",
-    "href": "posts.html",
-    "title": "posts",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "about",
     "section": "",
-    "text": "THE Campus Resources for academics and university staff\n\n\n\n\n\n\n\nteaching\n\n\nTHE campus\n\n\n\n\nA collection of my writings for THE campus between 2022 & 2023\n\n\n\n\n\n\nJan 25, 2023\n\n\nPhilip Leftwich\n\n\n\n\n\n\nNo matching items"
+    "text": "I am an Associate Professor in Genetics & Data Science in the School of Biological Sciences at the University of East Anglia. Please see below for my teaching and research interests."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "",
-    "section": "",
-    "text": "Hi, I’m Phil! A molecular biologist interested in developing and testing gene drives and other genetic technologies to control pest insect species.\nCurrently based at the University of East Anglia I teach across a range of subjects including molecular biology, genetics, statistics and computing skills.\nHere you can find information on my research, current projects, and find details about teaching and outreach projects."
+    "objectID": "about.html#fa-chalkboard-teacher-titlea-teacher-at-a-chalkboard-teaching",
+    "href": "about.html#fa-chalkboard-teacher-titlea-teacher-at-a-chalkboard-teaching",
+    "title": "about",
+    "section": " Teaching",
+    "text": "Teaching\nI teach on a number of undergraduate modules in Biological Sciences, with a particular focus on Genetics, Genomics and Data Science.\n\n\n\n\n\n\n\n\n\nData Science\n\n\n5023Y University of East Anglia\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGenetics\n\n\n5011 University of East Anglia\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMolecular Biology & Genetics\n\n\n4018A University of East Anglia\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMicrobiology\n\n\n5015 University of East Anglia\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGenomics\n\n\n6013A University of East Anglia\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nField Ecology\n\n\n5013 University of East Anglia"
+  },
+  {
+    "objectID": "about.html#fa-dna-titlea-dna-helix-research",
+    "href": "about.html#fa-dna-titlea-dna-helix-research",
+    "title": "about",
+    "section": " Research",
+    "text": "Research\nI conduct research in insect genetics and microbiomes, please click on the topics below to find out more about each.\n\n\n\n\n\n\n\n\n\n\ngenetic pest management\n\n\nMy research is based in the emerging field of genetic pest management, focusing particularly on the agricultural pests Ceratitis capitata (medfly), and vector arthropods…\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nmicrobiomes\n\n\nI also work to investigate the effects of gut microbes on fruitflies (Drosophila and medfly) and explore these effects in terms of the evolutionary associations between…\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html#fa-scroll-titlecv-cv",
+    "href": "about.html#fa-scroll-titlecv-cv",
+    "title": "about",
+    "section": " CV",
+    "text": "CV\nYou can find a full copy of my CV here"
   },
   {
     "objectID": "myresources.html",
@@ -61,6 +68,41 @@
     "title": "books & educational resources",
     "section": " Genetics & Molecular Biology",
     "text": "Genetics & Molecular Biology\n\n\n\n\n\n\nBenchling for Distance Learning\n\n\n\n\nTeaching concepts in genetics and molecular biology with Benchling: a series of free-to-use lessons developed by me in collaboration with software company Benchling\n\n\n\n\n\n\n\n\n\n\n\n\n\nSimulations of bacterial mutation\n\n\n\n\nTeaching fundamental concepts of mutation in genetics with simulation"
+  },
+  {
+    "objectID": "talks_workshops.html",
+    "href": "talks_workshops.html",
+    "title": "talks, courses & workshops",
+    "section": "",
+    "text": "Physalia\n\n\n\nThis course is designed for anyone with basic knowledge of R who is looking to enhance their skills and take their programming abilities to the next level. Each session in…\n\n\n\nPhilip Leftwich\n\n\nSep 18, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPhysalia\n\n\n\nThis course will introduce scientists and practitioners interested in applying statistical approaches in their daily routine using R as a working environment. Participants…\n\n\n\nPhilip Leftwich\n\n\nJul 17, 2023\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "talks_workshops.html#previous-talks-workshops",
+    "href": "talks_workshops.html#previous-talks-workshops",
+    "title": "talks, courses & workshops",
+    "section": "previous talks & workshops",
+    "text": "previous talks & workshops\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "People",
+    "section": "",
+    "text": "Associate Professor University of East Anglia\n\n\n\n\n\n    \n\n\n\n\n\n\n\n\n\n\nPhD Student University of East Anglia\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\nUG Student\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMSc Student"
+  },
+  {
+    "objectID": "resources.html#r-stuff",
+    "href": "resources.html#r-stuff",
+    "title": "other resources",
+    "section": "R stuff",
+    "text": "R stuff\n\n r tools\n\nfree icons from fontawesome + the {fontawesome} R package for infusing your slides, website, RMarkdowns/Quarto Markdowns, and more with an extra splash of fun\n\n\n\n data viz\n\nA ggplot2 Tutorial for Beautiful Plotting in R, a fantastic guide to ggplot.\nBeautifully Annotated: Enhancing your ggplots with Text, by Cara Thompson, a seriously wonderful talk on using annotations in your ggplots\n\n\n\n reporting & presentations\n\nQuarto is all the rage these days (and by these days, I mean post-March 2022). Download and find some great tutorials here to get started\nMeet xaringan: Making slides in R Markdown, by Allison Hill\nSharing Your xaringan Slides, by Garrick Aden-Buie\n\n\n\n learning materials\n\nThe last R book you will ever need. A comprehensive collection of books on everything R, over 300 titles and most are completely free availabel at The Big Book of R\nEver feel like you need a pick-me-up while learning stats or a new R tool? Look no further than Allison Horst’s Data Science Illustrations, featuring the cutest and most educational fuzzy monsters you’ll ever see!\nMastering Shiny, by Hadley Wickham\nHappy Git and GitHub for the useR, by Jenny Bryan\nR for Data Science, by Hadley Wickham\nW3Schools, particularly for their HTML & CSS tutorials\n\n\n\n accessibility"
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "posts",
+    "section": "",
+    "text": "THE Campus Resources for academics and university staff\n\n\n\n\n\n\n\nteaching\n\n\nTHE campus\n\n\n\n\nA collection of my writings for THE campus between 2022 & 2023\n\n\n\n\n\n\nJan 25, 2023\n\n\nPhilip Leftwich\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "publications.html",
@@ -96,47 +138,5 @@
     "title": "THE Campus Resources for academics and university staff",
     "section": "Using online and blended learning tools to teach data science skills",
     "text": "Using online and blended learning tools to teach data science skills"
-  },
-  {
-    "objectID": "talks_workshops.html",
-    "href": "talks_workshops.html",
-    "title": "talks, courses & workshops",
-    "section": "",
-    "text": "Physalia\n\n\n\nThis course is designed for anyone with basic knowledge of R who is looking to enhance their skills and take their programming abilities to the next level. Each session in…\n\n\n\nPhilip Leftwich\n\n\nSep 18, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPhysalia\n\n\n\nThis course will introduce scientists and practitioners interested in applying statistical approaches in their daily routine using R as a working environment. Participants…\n\n\n\nPhilip Leftwich\n\n\nJul 17, 2023\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "talks_workshops.html#talks",
-    "href": "talks_workshops.html#talks",
-    "title": "talks, courses & workshops",
-    "section": "talks",
-    "text": "talks\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "about",
-    "section": "",
-    "text": "I am an Associate Professor in Genetics & Data Science in the School of Biological Sciences at the University of East Anglia. Please see below for my teaching and research interests."
-  },
-  {
-    "objectID": "about.html#fa-chalkboard-teacher-titlea-teacher-at-a-chalkboard-teaching",
-    "href": "about.html#fa-chalkboard-teacher-titlea-teacher-at-a-chalkboard-teaching",
-    "title": "about",
-    "section": " Teaching",
-    "text": "Teaching\nI teach on a number of undergraduate modules in Biological Sciences, with a particular focus on Genetics, Genomics and Data Science.\n\n\n\n\n\n\n\n\n\nData Science\n\n\n5023Y University of East Anglia\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGenetics\n\n\n5011 University of East Anglia\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMolecular Biology & Genetics\n\n\n4018A University of East Anglia\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMicrobiology\n\n\n5015 University of East Anglia\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGenomics\n\n\n6013A University of East Anglia\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nField Ecology\n\n\n5013 University of East Anglia"
-  },
-  {
-    "objectID": "about.html#fa-dna-titlea-dna-helix-research",
-    "href": "about.html#fa-dna-titlea-dna-helix-research",
-    "title": "about",
-    "section": " Research",
-    "text": "Research\nI conduct research in insect genetics and microbiomes, please click on the topics below to find out more about each.\n\n\n\n\n\n\n\n\n\n\ngenetic pest management\n\n\nMy research is based in the emerging field of genetic pest management, focusing particularly on the agricultural pests Ceratitis capitata (medfly), and vector arthropods…\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nmicrobiomes\n\n\nI also work to investigate the effects of gut microbes on fruitflies (Drosophila and medfly) and explore these effects in terms of the evolutionary associations between…\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "about.html#fa-scroll-titlecv-cv",
-    "href": "about.html#fa-scroll-titlecv-cv",
-    "title": "about",
-    "section": " CV",
-    "text": "CV\nYou can find a full copy of my CV here"
   }
 ]

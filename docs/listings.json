@@ -1,8 +1,9 @@
 [
   {
-    "listing": "/posts.html",
+    "listing": "/about.html",
     "items": [
-      "/posts/the-campus/index.html"
+      "/research/genetic pest managment.html",
+      "/research/microbiome.html"
     ]
   },
   {
@@ -13,10 +14,9 @@
     ]
   },
   {
-    "listing": "/about.html",
+    "listing": "/posts.html",
     "items": [
-      "/research/genetic pest managment.html",
-      "/research/microbiome.html"
+      "/posts/the-campus/index.html"
     ]
   }
 ]
