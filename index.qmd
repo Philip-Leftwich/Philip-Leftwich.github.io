@@ -1,6 +1,6 @@
 ---
 title: ""
-image: images/leftwich.jpg
+image: images/leftwich.png
 toc: false
 about: 
   template: jolla

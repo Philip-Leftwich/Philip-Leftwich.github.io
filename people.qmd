@@ -12,7 +12,7 @@ toc: false
 ::: {.g-col-12 .g-col-md-4}
 <div class="card h-100">
 <div class="card-body d-flex flex-column position-relative">
-<img src="images/leftwich.jpg" class="card-img-top">
+<img src="images/leftwich.png" class="card-img-top">
 <h4 class="card-title">Dr Philip Leftwich</h4>
 <p class="card-subtitle">Associate Professor<br>
 University of East Anglia</p>
