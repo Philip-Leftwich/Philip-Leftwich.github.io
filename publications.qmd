@@ -23,7 +23,9 @@ pre-print
 2023
 ====
 
-&emsp; Colleen Sprigg, **Philip T Leftwich**, Emily Burton, Dawn Scholey, Michael R Bedford, Charles A Brearley. [Accentuating the positive and eliminating the negative: efficacy of TiO~2~ as digestibility index marker for poultry nutrition studies](). *Plos One - In Press*
+&emsp; Colleen Sprigg, **Philip T Leftwich**, Emily Burton, Dawn Scholey, Michael R Bedford, Charles A Brearley. [Accentuating the positive and eliminating the negative: efficacy of TiO~2~ as digestibility index marker for poultry nutrition studies](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0284724). *Plos One - In Press*
+
+<span class="__dimensions_badge_embed__" data-doi="10.1371/journal.pone.0284724" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1371/journal.pone.0284724" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
 2022
 ====

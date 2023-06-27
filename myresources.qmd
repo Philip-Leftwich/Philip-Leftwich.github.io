@@ -34,6 +34,10 @@ subtitle: "a collection of my authored teaching resources and educational commun
 
 A curated output of talks, workshops and teaching innovations from the Biological Sciences Department, University of East Anglia (UEA), Norwich, UK. 
 
+### [R-volutionary Biology](https://ueabio.github.io/Rvolutionary-Biology/) 
+
+The landing page for R and Data Science related education running out of the School of Biological Sciences at the University of East Anglia
+
 ### [Skills Community of Practice](https://www.skillscop.com/)
 
 The Skills Community of Practice is an informal forum to share approaches to teaching undergraduate skills with colleagues across institutes. Each month, there is a presentation from a member about their approach to teaching a specific skill or skillset, followed by some whole groups comments/discussion.
