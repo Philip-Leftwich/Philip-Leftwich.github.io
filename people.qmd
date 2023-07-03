@@ -52,6 +52,21 @@ University of East Anglia</p>
 ## Past members: {#sec-past}
 :::
 
+::: {.g-col-12 .g-col-md-4}
+<div class="card h-100">
+<div class="card-body d-flex flex-column position-relative">
+<img src="images/joerel.png" class="card-img-top">
+<h4 class="card-title">Joerel Gestopa</h4>
+<p class="card-subtitle">MSc Student</p>
+<p class="card-text">"Life-history fitness in transgenic medfly"</p>
+<div class="card-text text-center">
+</div>
+<div class="text-center">
+</div>
+</div>
+</div>
+
+:::
 
 ::: {.g-col-12 .g-col-md-4}
 <div class="card h-100">
@@ -59,6 +74,7 @@ University of East Anglia</p>
 <img src="images/Amy_B.jpeg" class="card-img-top">
 <h4 class="card-title">Amy Butler</h4>
 <p class="card-subtitle">UG Student</p>
+<p class="card-text">"Parental effects on the offspring metabolome in medfly"</p>
 <div class="card-text text-center">
 </div>
 <div class="text-center">
@@ -74,6 +90,7 @@ University of East Anglia</p>
 <img src="images/blank.png" class="card-img-top">
 <h4 class="card-title">Jacob Rose</h4>
 <p class="card-subtitle">MSc Student</p>
+<p class="card-text">"Developing Cas9 trasgenics in the red flour beetle"</p>
 <div class="card-text text-center">
 </div>
 <div class="text-center">
