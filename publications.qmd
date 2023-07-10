@@ -12,6 +12,10 @@ subtitle: ""
 pre-print
 ====
 
+ Leonela Z Carabajal Paladino, Ray Wilson, Priscilla Y.L. Tng, Vishaal Dhokiya, Elizabeth Keen, Piotr Cuber, Will Larner, Sara Rooney, Melanie Nicholls, Anastasia Uglow, Luke Williams, Michelle A.E. Anderson, Sanjay Basu, **Philip T Leftwich**, Luke Alphey. [Optimizing CRE and PhiC31 mediated recombination in *Aedes aegypti*](https://www.biorxiv.org/content/10.1101/2023.07.07.548128v1) *bioRxiv*
+ 
+<span class="__dimensions_badge_embed__" data-doi="10.1101/2023.07.07.548128" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1101/2023.07.07.548128" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+
 &emsp; Tim Harvey-Samuel, Xuechen Feng, Emily M Okamoto, Deepak-Kumar Purusothaman, **Philip T. Leftwich**, Luke Alphey, Valentino M Gantz. [CRISPR-based gene drives generate super-Mendelian inheritance in the disease vector *Culex quinquefasciatus*](https://www.biorxiv.org/content/10.1101/2023.06.12.544656v1). *bioRxiv*
 
 <span class="__dimensions_badge_embed__" data-doi="10.1101/2023.06.12.544656" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1101/2023.06.12.544656" data-hide-no-mentions="true" class="altmetric-embed"> </span>
