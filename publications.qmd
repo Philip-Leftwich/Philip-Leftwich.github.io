@@ -25,11 +25,6 @@ pre-print
 
 <span class="__dimensions_badge_embed__" data-doi="10.1101/2023.08.11.553001" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1101/2023.08.11.553001" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
-&emsp; Leonela Z Carabajal Paladino, Ray Wilson, Priscilla Y.L. Tng, Vishaal Dhokiya, Elizabeth Keen, Piotr Cuber, Will Larner, Sara Rooney, Melanie Nicholls, Anastasia Uglow, Luke Williams, Michelle A.E. Anderson, Sanjay Basu, **Philip T Leftwich**, Luke Alphey. [Optimizing CRE and PhiC31 mediated recombination in *Aedes aegypti*](https://www.biorxiv.org/content/10.1101/2023.07.07.548128v1) *bioRxiv*
- 
-<span class="__dimensions_badge_embed__" data-doi="10.1101/2023.07.07.548128" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1101/2023.07.07.548128" data-hide-no-mentions="true" class="altmetric-embed"> </span>
-
-
 &emsp; Michelle Anderson, Estela Gonzalez, Matthew Edgington, Joshua Ang, Deepak-Kumar Purusothaman, Lewis Shackleford, Katherine Nevard, Sebald Verkuikl, Tim Harvey-Samuel, **Philip T Leftwich**, Kevin Esvelt, Luke Alphey. [A multiplexed, confinable CRISPR/Cas9 gene drive propagates in caged *Aedes aegypti* populations](https://www.biorxiv.org/content/10.1101/2022.08.12.503466v1). *bioRxiv*
 
 <span class="__dimensions_badge_embed__" data-doi="10.1101/2022.08.12.503466" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1101/2022.08.12.503466" data-hide-no-mentions="true" class="altmetric-embed"> </span>
