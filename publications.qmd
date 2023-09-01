@@ -12,7 +12,21 @@ subtitle: ""
 pre-print
 ====
 
+
 &emsp; **Philip T Leftwich**, Jessica Purcell, Michelle Anderson, Rennos Fragkoudis, Sanjay Basu, Gareth T Lycett, Luke Alphey. [A synthetic biology approach to transgene expression](https://doi.org/10.1101/2023.08.31.555539). *bioRxiv*
+=======
+ Angela Meccariello, Shibo Hou, Serafima Davydova, James Fawcett, Alexandra Siddall,  **Philip T Leftwich**, Flavia Krsticevic, Philippos A Papathanos, Nikolai Windbichler. [Gene drive and genetic sex conversion in the global agricultural pest *Ceratitis capitata*](https://www.biorxiv.org/content/10.1101/2023.08.16.553191v1) *bioRxiv*
+ 
+ <span class="__dimensions_badge_embed__" data-doi="10.1101/2023.08.16.553191" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1101/2023.08.16.553191" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+ 
+ Michelle A.E. Anderson, **Philip T Leftwich**, Ray Wilson, Leonela Z Carabajal Paladino, Sanjay Basu, Sara Rooney, Zach Adelman, Luke Alphey. [AePUb promoter length modulates gene expression in *Aedes aegypti*](https://doi.org/10.1101/2023.08.11.553001) *bioRxiv*
+
+<span class="__dimensions_badge_embed__" data-doi="10.1101/2023.08.11.553001" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1101/2023.08.11.553001" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+
+ Leonela Z Carabajal Paladino, Ray Wilson, Priscilla Y.L. Tng, Vishaal Dhokiya, Elizabeth Keen, Piotr Cuber, Will Larner, Sara Rooney, Melanie Nicholls, Anastasia Uglow, Luke Williams, Michelle A.E. Anderson, Sanjay Basu, **Philip T Leftwich**, Luke Alphey. [Optimizing CRE and PhiC31 mediated recombination in *Aedes aegypti*](https://www.biorxiv.org/content/10.1101/2023.07.07.548128v1) *bioRxiv*
+ 
+<span class="__dimensions_badge_embed__" data-doi="10.1101/2023.07.07.548128" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1101/2023.07.07.548128" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+
 
 <span class="__dimensions_badge_embed__" data-doi="10.1101/2023.08.31.555539" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1101/2023.08.31.555539" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
