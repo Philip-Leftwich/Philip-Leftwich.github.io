@@ -12,10 +12,13 @@ subtitle: ""
 pre-print
 ====
 
+&emsp; Mireia Larrosa-Godall, Joshua XD Ang, **Philip T Leftwich**, Estela Gonzalez, Lewis Shackleford, Katherine Nevard, Rob Noad, Michelle AE Anderson, Luke Alphey. [Challenges in developing a split drive targeting dsx for the genetic control of the invasive malaria vector *Anopheles stephensi*](https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-025-06688-0)
 
-&emsp; **Philip T Leftwich**, Jessica Purcell, Michelle Anderson, Rennos Fragkoudis, Sanjay Basu, Gareth T Lycett, Luke Alphey. [A synthetic biology approach to transgene expression](https://doi.org/10.1101/2023.08.31.555539). *bioRxiv*
+ <span class="__dimensions_badge_embed__" data-doi="https://doi.org/10.1186/s13071-025-06688-0" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="https://doi.org/10.1186/s13071-025-06688-0" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
- <span class="__dimensions_badge_embed__" data-doi="https://doi.org/10.1101/2023.08.31.555539" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="https://doi.org/10.1101/2023.08.31.555539" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+&emsp; **Philip T Leftwich**, Jessica Purcell, Michelle Anderson, Rennos Fragkoudis, Sanjay Basu, Gareth T Lycett, Luke Alphey. [A synthetic biology approach to transgene expression](https://pubs.acs.org/doi/10.1021/acssynbio.4c00250). *ACS Synthetic Biology*
+
+ <span class="__dimensions_badge_embed__" data-doi="https://doi.org/10.1021/acssynbio.4c00250" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="https://doi.org/10.1021/acssynbio.4c00250" data-hide-no-mentions="true" class="altmetric-embed"> </span>
  
 &emsp; Angela Meccariello, Shibo Hou, Serafima Davydova, James Fawcett, [Alexandra Siddall](https://philip-leftwich.github.io/people.html#alex-siddall), **Philip T Leftwich**, Flavia Krsticevic, Philippos A Papathanos, Nikolai Windbichler.[Gene drive and genetic sex conversion in the global agricultural pest Ceratitis capitata](https://doi.org/10.1101/2023.08.16.553191). *bioRxiv*
 

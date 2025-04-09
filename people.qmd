@@ -20,7 +20,7 @@ University of East Anglia</p>
 </div>
 <div class="text-center">
 <a href="https://research-portal.uea.ac.uk/en/persons/philip-leftwich"><i>{{< fa landmark >}}</i></a>
-<a href="https://twitter.com/PhilipLeftwich"><i>{{< fa brands twitter >}}</i></a>
+<a href="https://bsky.app/profile/philipleftwich.bsky.social"><i>{{< fa brands bluesky >}}</i></a>
 <a href="https://orcid.org/0000-0001-9500-6592"><i>{{< fa brands orcid >}}</i></a>
 <a href="https://github.com/philip-leftwich"><i>{{< fa brands github >}}</i></a>
 <a href="mailto:p.leftwich@uea.ac.uk"><i>{{< fa envelope >}}</i></a>
@@ -32,9 +32,53 @@ University of East Anglia</p>
 ::: {.g-col-12 .g-col-md-4}
 <div class="card h-100">
 <div class="card-body d-flex flex-column position-relative">
+<img src="images/matt.jpg" class="card-img-top">
+<h4 class="card-title">Matthew Shackleton-Chavex</h4>
+<p class="card-subtitle">PhD Student<br>
+University of East Anglia</p>
+<div class="card-text text-center">
+</div>
+<div class="text-center">
+<a href="https://www.linkedin.com/in/samuel-matthew-s-5698131ba/"><i>{{< fa brands linkedin >}}</i></a>
+<a href="mailto:s.shackleton-chavez@uea.ac.uk"><i>{{< fa envelope >}}</i></a>
+</div>
+</div>
+</div>
+
+
+:::
+
+::: {.g-col-12 .g-col-md-4}
+<div class="card h-100">
+<div class="card-body d-flex flex-column position-relative">
+<img src="images/katie.png" class="card-img-top">
+<h4 class="card-title">Katie Millar</h4>
+<p class="card-subtitle">PhD Student<br>
+University of East Anglia</p>
+<div class="card-text text-center">
+</div>
+<div class="text-center">
+<a href="https://bsky.app/profile/katiemillar.bsky.social"><i>{{< fa brands bluesky >}}</i></a>
+<a href="https://www.linkedin.com/in/katie-millar-15bb56236"><i>{{< fa brands linkedin >}}</i></a>
+<a href="mailto:katie.millar@uea.ac.uk"><i>{{< fa envelope >}}</i></a>
+</div>
+</div>
+</div>
+
+
+:::
+
+::: {.g-col-12 #sec-past}
+## Past members: {#sec-past}
+:::
+
+::: {.g-col-12 .g-col-md-4}
+<div class="card h-100">
+<div class="card-body d-flex flex-column position-relative">
 <img src="images/Alex_profile.jpg" class="card-img-top">
 <h4 class="card-title">Alex Siddall</h4>
 <p class="card-subtitle">PhD Student<br>
+<p class="card-text">"Genetic control in medfly"</p>
 University of East Anglia</p>
 <div class="card-text text-center">
 </div>
@@ -45,11 +89,6 @@ University of East Anglia</p>
 </div>
 </div>
 
-:::
-
-
-::: {.g-col-12 #sec-past}
-## Past members: {#sec-past}
 :::
 
 ::: {.g-col-12 .g-col-md-4}

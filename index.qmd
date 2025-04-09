@@ -10,9 +10,8 @@ about:
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/philip-leftwich-117052155/
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/PhilipLeftwich
+    - text: "{{< fa brands bluesky >}} Bluesky"
+      href: https://bsky.app/profile/philipleftwich.bsky.social
     - icon: github
       text: GitHub
       href: https://github.com/Philip-Leftwich
