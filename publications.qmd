@@ -4,7 +4,6 @@ subtitle: ""
 ---
 
 
-
   You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?user=5-qU7lkAAAAJ&hl=en) page
  
  \* first author/joint first author; ^ corresponding author
@@ -12,6 +11,7 @@ subtitle: ""
 pre-print
 ====
 
+<<<<<<< HEAD
 &emsp; Mireia Larrosa-Godall, Joshua XD Ang, **Philip T Leftwich**, Estela Gonzalez, Lewis Shackleford, Katherine Nevard, Rob Noad, Michelle AE Anderson, Luke Alphey. [Challenges in developing a split drive targeting dsx for the genetic control of the invasive malaria vector *Anopheles stephensi*](https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-025-06688-0)
 
  <span class="__dimensions_badge_embed__" data-doi="https://doi.org/10.1186/s13071-025-06688-0" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="https://doi.org/10.1186/s13071-025-06688-0" data-hide-no-mentions="true" class="altmetric-embed"> </span>
@@ -21,36 +21,48 @@ pre-print
  <span class="__dimensions_badge_embed__" data-doi="https://doi.org/10.1021/acssynbio.4c00250" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="https://doi.org/10.1021/acssynbio.4c00250" data-hide-no-mentions="true" class="altmetric-embed"> </span>
  
 &emsp; Angela Meccariello, Shibo Hou, Serafima Davydova, James Fawcett, [Alexandra Siddall](https://philip-leftwich.github.io/people.html#alex-siddall), **Philip T Leftwich**, Flavia Krsticevic, Philippos A Papathanos, Nikolai Windbichler.[Gene drive and genetic sex conversion in the global agricultural pest Ceratitis capitata](https://doi.org/10.1101/2023.08.16.553191). *bioRxiv*
+=======
+&emsp; **Philip T Leftwich**, Jessica Purcell, Michelle Anderson, Rennos Fragkoudis, Sanjay Basu, Gareth T Lycett, Luke Alphey. [A synthetic biology approach to transgene expression](https://doi.org/10.1101/2023.08.31.555539). *bioRxiv*
 
-<span class="__dimensions_badge_embed__" data-doi="10.1101/2023.08.16.553191" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1101/2023.08.16.553191" data-hide-no-mentions="true" class="altmetric-embed"> </span>
- 
-&emsp; Michelle A.E. Anderson, **Philip T Leftwich**, Ray Wilson, Leonela Z Carabajal Paladino, Sanjay Basu, Sara Rooney, Zach Adelman, Luke Alphey. [AePUb promoter length modulates gene expression in *Aedes aegypti*](https://doi.org/10.1101/2023.08.11.553001) *bioRxiv*
+ <span class="__dimensions_badge_embed__" data-doi="https://doi.org/10.1101/2023.08.31.555539" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="https://doi.org/10.1101/2023.08.31.555539" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+>>>>>>> eb42ec3e367cee6636f07525a1f5cbdf971d0b56
 
-<span class="__dimensions_badge_embed__" data-doi="10.1101/2023.08.11.553001" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1101/2023.08.11.553001" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
-&emsp; Michelle Anderson, Estela Gonzalez, Matthew Edgington, Joshua Ang, Deepak-Kumar Purusothaman, Lewis Shackleford, Katherine Nevard, Sebald Verkuikl, Tim Harvey-Samuel, **Philip T Leftwich**, Kevin Esvelt, Luke Alphey. [A multiplexed, confinable CRISPR/Cas9 gene drive propagates in caged *Aedes aegypti* populations](https://www.biorxiv.org/content/10.1101/2022.08.12.503466v1). *bioRxiv*
 
-<span class="__dimensions_badge_embed__" data-doi="10.1101/2022.08.12.503466" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1101/2022.08.12.503466" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+2024
+====
+
+&emsp; Michelle Anderson, Estela Gonzalez, Matthew Edgington, Joshua Ang, Deepak-Kumar Purusothaman, Lewis Shackleford, Katherine Nevard, Sebald Verkuikl, Tim Harvey-Samuel, **Philip T Leftwich**, Kevin Esvelt, Luke Alphey. [A multiplexed, confinable CRISPR/Cas9 gene drive propagates in caged *Aedes aegypti* populations](https://doi.org/10.1038/s41467-024-44956-2). *Nature Communications*
+
+<span class="__dimensions_badge_embed__" data-doi="10.1038/s41467-024-44956-2" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41467-024-44956-2" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
 2023
 ====
 
-&emsp; Tim Harvey-Samuel, Xuechen Feng, Emily M Okamoto, Deepak-Kumar Purusothaman, **Philip T. Leftwich**, Luke Alphey, Valentino M Gantz. [CRISPR-based gene drives generate super-Mendelian inheritance in the disease vector *Culex quinquefasciatus*](https://www.biorxiv.org/content/10.1101/2023.06.12.544656v1). *Nature Communications* (In Press)
-
-<span class="__dimensions_badge_embed__" data-doi="10.1101/2023.06.12.544656" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1101/2023.06.12.544656" data-hide-no-mentions="true" class="altmetric-embed"> </span>
-
-&emsp;Leonela Z Carabajal Paladino, Ray Wilson, Priscilla Y.L. Tng, Vishaal Dhokiya, Elizabeth Keen, Piotr Cuber, Will Larner, Sara Rooney, Melanie Nicholls, Anastasia Uglow, Luke Williams, Michelle A.E. Anderson, Sanjay Basu, **Philip T Leftwich**, Luke Alphey. [Optimizing CRE and PhiC31 mediated recombination in *Aedes aegypti*](https://www.biorxiv.org/content/10.1101/2023.07.07.548128v1) *Frontiers in Biotechnology and Bioengineering*(In Press)
+ Angela Meccariello, Shibo Hou, Serafima Davydova, James Fawcett, Alexandra Siddall,  **Philip T Leftwich**, Flavia Krsticevic, Philippos A Papathanos, Nikolai Windbichler. [Gene drive and genetic sex conversion in the global agricultural pest *Ceratitis capitata*](https://doi.org/10.1038/s41467-023-44399-1) *Nature Communications*
  
-<span class="__dimensions_badge_embed__" data-doi="10.1101/2023.07.07.548128" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1101/2023.07.07.548128" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+ <span class="__dimensions_badge_embed__" data-doi="10.1038/s41467-023-44399-1" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41467-023-44399-1" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+ 
+ Michelle A.E. Anderson, **Philip T Leftwich**, Ray Wilson, Leonela Z Carabajal Paladino, Sanjay Basu, Sara Rooney, Zach Adelman, Luke Alphey. [AePUb promoter length modulates gene expression in *Aedes aegypti*](https://doi.org/10.1038/s41598-023-47777-3) *Scientific Reports*
 
-&emsp; Colleen Sprigg, **Philip T Leftwich**, Emily Burton, Dawn Scholey, Michael R Bedford, Charles A Brearley. [Accentuating the positive and eliminating the negative: efficacy of TiO~2~ as digestibility index marker for poultry nutrition studies](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0284724). *Plos One*
+<span class="__dimensions_badge_embed__" data-doi="10.1038/s41598-023-47777-3" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41598-023-47777-3" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+
+ Leonela Z Carabajal Paladino, Ray Wilson, Priscilla Y.L. Tng, Vishaal Dhokiya, Elizabeth Keen, Piotr Cuber, Will Larner, Sara Rooney, Melanie Nicholls, Anastasia Uglow, Luke Williams, Michelle A.E. Anderson, Sanjay Basu, **Philip T Leftwich**, Luke Alphey. [Optimizing CRE and PhiC31 mediated recombination in *Aedes aegypti*](https://www.frontiersin.org/articles/10.3389/fbioe.2023.1254863/full) *Frontiers in Bioengineering and Biotechnology*
+ 
+<span class="__dimensions_badge_embed__" data-doi="10.3389/fbioe.2023.1254863" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.3389/fbioe.2023.1254863" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+
+&emsp; Tim Harvey-Samuel, Xuechen Feng, Emily M Okamoto, Deepak-Kumar Purusothaman, **Philip T. Leftwich**, Luke Alphey, Valentino M Gantz. [CRISPR-based gene drives generate super-Mendelian inheritance in the disease vector *Culex quinquefasciatus*](https://doi.org/10.1038/s41467-023-41834-1). *Nature Communications*
+
+<span class="__dimensions_badge_embed__" data-doi="10.1038/s41467-023-41834-1" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41467-023-41834-1" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+
+&emsp; Colleen Sprigg, **Philip T Leftwich**, Emily Burton, Dawn Scholey, Michael R Bedford, Charles A Brearley. [Accentuating the positive and eliminating the negative: efficacy of TiO~2~ as digestibility index marker for poultry nutrition studies](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0284724). *Plos One - In Press*
 
 <span class="__dimensions_badge_embed__" data-doi="10.1371/journal.pone.0284724" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1371/journal.pone.0284724" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
 2022
 ====
 
-&emsp; [Alex Siddall](https://philip-leftwich.github.io/people.html#alex-siddall), Tim Harvey-Samuel, Tracey Chapman, **Philip T Leftwich**^. [Manipulating insect sex determination pathways for genetic pest management: opportunities and challenges](https://www.frontiersin.org/articles/10.3389/fbioe.2022.867851/abstract). *Frontiers in Biotechnology and Bioengineering*
+&emsp; Alex Siddall, Tim Harvey-Samuel, Tracey Chapman, **Philip T Leftwich**^. [Manipulating insect sex determination pathways for genetic pest management: opportunities and challenges](https://www.frontiersin.org/articles/10.3389/fbioe.2022.867851/abstract). *Frontiers in Biotechnology and Bioengineering*
 
 <span class="__dimensions_badge_embed__" data-doi="10.3389/fbioe.2022.867851" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.3389/fbioe.2022.867851" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
