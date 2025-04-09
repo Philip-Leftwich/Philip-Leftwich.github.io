@@ -33,7 +33,7 @@ University of East Anglia</p>
 <div class="card h-100">
 <div class="card-body d-flex flex-column position-relative">
 <img src="images/matt.jpg" class="card-img-top">
-<h4 class="card-title">Matthew Shackleton-Chavex</h4>
+<h4 class="card-title">Matthew Shackleton-Chavez</h4>
 <p class="card-subtitle">PhD Student<br>
 University of East Anglia</p>
 <div class="card-text text-center">
