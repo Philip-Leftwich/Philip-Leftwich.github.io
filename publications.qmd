@@ -11,6 +11,10 @@ subtitle: ""
 2025
 ====
 
+&emsp; Estela Gonzalez, Michelle AE Anderson, Joshua X.D. Ang, Katherine Nevard, Lewis Shackleford, Mireia Larrosa-Godall, **Philip T. Leftwich**, Luke Alphey. [Optimization of SgRNA expression with RNA pol III regulatory elements in *Anopheles stephensi*](https://www.nature.com/articles/s41598-025-98557-0)
+
+ <span class="__dimensions_badge_embed__" data-doi="https://doi.org/10.1038/s41598-025-98557-0" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="https://doi.org/10.1038/s41598-025-98557-0" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+
 &emsp; Mireia Larrosa-Godall, Joshua XD Ang, **Philip T Leftwich**, Estela Gonzalez, Lewis Shackleford, Katherine Nevard, Rob Noad, Michelle AE Anderson, Luke Alphey. [Challenges in developing a split drive targeting dsx for the genetic control of the invasive malaria vector *Anopheles stephensi*](https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-025-06688-0)
 
  <span class="__dimensions_badge_embed__" data-doi="https://doi.org/10.1186/s13071-025-06688-0" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="https://doi.org/10.1186/s13071-025-06688-0" data-hide-no-mentions="true" class="altmetric-embed"> </span>
@@ -26,7 +30,7 @@ subtitle: ""
  
 &emsp; Angela Meccariello, Shibo Hou, Serafima Davydova, James Fawcett, [Alexandra Siddall](https://philip-leftwich.github.io/people.html#alex-siddall), **Philip T Leftwich**, Flavia Krsticevic, Philippos A Papathanos, Nikolai Windbichler.[Gene drive and genetic sex conversion in the global agricultural pest Ceratitis capitata](https://doi.org/10.1038/s41467-023-44399-1). *Nature Communications*
 
- <span class="__dimensions_badge_embed__" data-doi="https://doi.org/10.1038/s41467-023-44399-1" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="https://doi.org/10.1038/s41467-023-44399-1" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+ <span class="__dimensions_badge_embed__" data-doi="10.1038/s41467-023-44399-1" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41467-023-44399-1" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
 
 &emsp; Michelle Anderson, Estela Gonzalez, Matthew Edgington, Joshua Ang, Deepak-Kumar Purusothaman, Lewis Shackleford, Katherine Nevard, Sebald Verkuikl, Tim Harvey-Samuel, **Philip T Leftwich**, Kevin Esvelt, Luke Alphey. [A multiplexed, confinable CRISPR/Cas9 gene drive propagates in caged *Aedes aegypti* populations](https://doi.org/10.1038/s41467-024-44956-2). *Nature Communications*
@@ -36,15 +40,11 @@ subtitle: ""
 2023
 ====
 
- Angela Meccariello, Shibo Hou, Serafima Davydova, James Fawcett, Alexandra Siddall,  **Philip T Leftwich**, Flavia Krsticevic, Philippos A Papathanos, Nikolai Windbichler. [Gene drive and genetic sex conversion in the global agricultural pest *Ceratitis capitata*](https://doi.org/10.1038/s41467-023-44399-1) *Nature Communications*
- 
- <span class="__dimensions_badge_embed__" data-doi="10.1038/s41467-023-44399-1" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41467-023-44399-1" data-hide-no-mentions="true" class="altmetric-embed"> </span>
- 
- Michelle A.E. Anderson, **Philip T Leftwich**, Ray Wilson, Leonela Z Carabajal Paladino, Sanjay Basu, Sara Rooney, Zach Adelman, Luke Alphey. [AePUb promoter length modulates gene expression in *Aedes aegypti*](https://doi.org/10.1038/s41598-023-47777-3) *Scientific Reports*
+&emsp; Michelle A.E. Anderson, **Philip T Leftwich**, Ray Wilson, Leonela Z Carabajal Paladino, Sanjay Basu, Sara Rooney, Zach Adelman, Luke Alphey. [AePUb promoter length modulates gene expression in *Aedes aegypti*](https://doi.org/10.1038/s41598-023-47777-3) *Scientific Reports*
 
 <span class="__dimensions_badge_embed__" data-doi="10.1038/s41598-023-47777-3" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41598-023-47777-3" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
- Leonela Z Carabajal Paladino, Ray Wilson, Priscilla Y.L. Tng, Vishaal Dhokiya, Elizabeth Keen, Piotr Cuber, Will Larner, Sara Rooney, Melanie Nicholls, Anastasia Uglow, Luke Williams, Michelle A.E. Anderson, Sanjay Basu, **Philip T Leftwich**, Luke Alphey. [Optimizing CRE and PhiC31 mediated recombination in *Aedes aegypti*](https://www.frontiersin.org/articles/10.3389/fbioe.2023.1254863/full) *Frontiers in Bioengineering and Biotechnology*
+&emsp; Leonela Z Carabajal Paladino, Ray Wilson, Priscilla Y.L. Tng, Vishaal Dhokiya, Elizabeth Keen, Piotr Cuber, Will Larner, Sara Rooney, Melanie Nicholls, Anastasia Uglow, Luke Williams, Michelle A.E. Anderson, Sanjay Basu, **Philip T Leftwich**, Luke Alphey. [Optimizing CRE and PhiC31 mediated recombination in *Aedes aegypti*](https://www.frontiersin.org/articles/10.3389/fbioe.2023.1254863/full) *Frontiers in Bioengineering and Biotechnology*
  
 <span class="__dimensions_badge_embed__" data-doi="10.3389/fbioe.2023.1254863" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.3389/fbioe.2023.1254863" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
