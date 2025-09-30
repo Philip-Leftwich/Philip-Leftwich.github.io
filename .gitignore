@@ -5,3 +5,5 @@
 .DS_Store
 token.txt
 /.quarto/
+
+**/*.quarto_ipynb

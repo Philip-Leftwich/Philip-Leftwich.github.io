@@ -8,6 +8,18 @@ subtitle: ""
  
  \* first author/joint first author; ^ corresponding author
  
+
+pre-print
+====
+
+&emsp; Mireia Larossa Godall, Lewis Shackleford, Matthew P Edgington, **Philip T Leftwich**, James CY Luk, Joshua Southworth, Stewart Rosall, Jake Creasey, Jack Aked, Katherine T Nevard, Alexander Dodds, Morgan Mckee, Eunice Adedeji, Estela Gonzalez, Joshua XD Ang, Michelle AE Anderson, Luke Alphey. [Integrating multiplexing into confineable gene drives effectively overrides resistance in *Anopheles stephensi*](https://doi.org/10.1101/2025.08.15.670499)
+
+ <span class="__dimensions_badge_embed__" data-doi="https://doi.org/10.1101/2025.08.15.670499" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="https://doi.org/10.1101/2025.08.15.670499" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+
+&emsp; T Harvey-Samuel, R Kaur, **Philip T Leftwich**, X Feng, V Gantz, L Alphey. [Sequence mismatch between gene-drive and target-site flanking regions significantly impairs homing efficiency in *Culex quinquefasciatus*](https://www.biorxiv.org/content/10.1101/2025.08.01.668174v1)
+
+ <span class="__dimensions_badge_embed__" data-doi="https://doi.org/10.1101/2025.08.01.668174" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="https://doi.org/10.1101/2025.08.01.668174" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+
 2025
 ====
 
