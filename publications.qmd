@@ -13,12 +13,10 @@ pre-print
 ====
 
 &emsp; Sebald A.N. Verkuijl, Edward R Ivimey-Cook, Bairu Liu, Michael B Bonsall, **Philip T Leftwich^**,  Nikolai Windbichler. [Cross-species meta-analysis reveals determinants of homing gene drive performance](https://doi.org/10.64898/2026.02.28.708699)
-
- <span class="__dimensions_badge_embed__" data-doi="10.64898/2026.02.28.708699" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.64898/2026.02.28.708699" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+<span class="__dimensions_badge_embed__" data-doi="10.64898/2026.02.28.708699" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.64898/2026.02.28.708699" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
 &emsp; Mireia Larossa Godall, Lewis Shackleford, Matthew P Edgington, **Philip T Leftwich**, James CY Luk, Joshua Southworth, Stewart Rosall, Jake Creasey, Jack Aked, Katherine T Nevard, Alexander Dodds, Morgan Mckee, Eunice Adedeji, Estela Gonzalez, Joshua XD Ang, Michelle AE Anderson, Luke Alphey. [Integrating multiplexing into confineable gene drives effectively overrides resistance in *Anopheles stephensi*](https://doi.org/10.1101/2025.08.15.670499)
-
- <span class="__dimensions_badge_embed__" data-doi="10.1101/2025.08.15.670499" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1101/2025.08.15.670499" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+<span class="__dimensions_badge_embed__" data-doi="10.1101/2025.08.15.670499" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1101/2025.08.15.670499" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
 
 2026
@@ -26,23 +24,19 @@ pre-print
 
 
 &emsp; T Harvey-Samuel, R Kaur, **Philip T Leftwich**, X Feng, V Gantz, L Alphey. [Sequence mismatch between gene-drive and target-site flanking regions significantly impairs homing efficiency in *Culex quinquefasciatus*](https://doi.org/10.1093/genetics/iyag054)
-
- <span class="__dimensions_badge_embed__" data-doi="10.1093/genetics/iyag054" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1093/genetics/iyag054" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+<span class="__dimensions_badge_embed__" data-doi="10.1093/genetics/iyag054" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1093/genetics/iyag054" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
 2025
 ====
 
 &emsp; Colleen Sprigg, Hayley L Whitfield, **Philip T Leftwich**, Hui-Fen Kuo, Tzyy-Jen Chiou, Adolfo Saiardi, Megan L Shipton, Andrew M Riley, Barry VL Potter, Dawn Scholey, Emily Burton, Mike R Bedford, Charles A Brearley. [Phosphorus-specific, liquid chromatography inductively coupled plasma mass spectrometry for analysis of inositol phosphate and inositol pyrophosphate metabolism](https://doi.org/10.1042/BCJ20253151)
-
- <span class="__dimensions_badge_embed__" data-doi="10.1042/BCJ20253151" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1042/BCJ20253151" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+<span class="__dimensions_badge_embed__" data-doi="10.1042/BCJ20253151" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1042/BCJ20253151" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
 &emsp; Estela Gonzalez, Michelle AE Anderson, Joshua X.D. Ang, Katherine Nevard, Lewis Shackleford, Mireia Larrosa-Godall, **Philip T. Leftwich**, Luke Alphey. [Optimization of SgRNA expression with RNA pol III regulatory elements in *Anopheles stephensi*](https://www.nature.com/articles/s41598-025-98557-0)
-
- <span class="__dimensions_badge_embed__" data-doi="10.1038/s41598-025-98557-0" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41598-025-98557-0" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+<span class="__dimensions_badge_embed__" data-doi="10.1038/s41598-025-98557-0" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41598-025-98557-0" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
 &emsp; Mireia Larrosa-Godall, Joshua XD Ang, **Philip T Leftwich**, Estela Gonzalez, Lewis Shackleford, Katherine Nevard, Rob Noad, Michelle AE Anderson, Luke Alphey. [Challenges in developing a split drive targeting dsx for the genetic control of the invasive malaria vector *Anopheles stephensi*](https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-025-06688-0)
-
- <span class="__dimensions_badge_embed__" data-doi="10.1186/s13071-025-06688-0" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1186/s13071-025-06688-0" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+<span class="__dimensions_badge_embed__" data-doi="10.1186/s13071-025-06688-0" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1186/s13071-025-06688-0" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
 
 
@@ -50,42 +44,34 @@ pre-print
 ====
 
 &emsp; **Philip T Leftwich^**, Jessica Purcell, Michelle Anderson, Rennos Fragkoudis, Sanjay Basu, Gareth T Lycett, Luke Alphey. [A synthetic biology approach to transgene expression](https://pubs.acs.org/doi/10.1021/acssynbio.4c00250). *ACS Synthetic Biology*
-
- <span class="__dimensions_badge_embed__" data-doi="10.1021/acssynbio.4c00250" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1021/acssynbio.4c00250" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+<span class="__dimensions_badge_embed__" data-doi="10.1021/acssynbio.4c00250" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1021/acssynbio.4c00250" data-hide-no-mentions="true" class="altmetric-embed"> </span>
  
 &emsp; Angela Meccariello, Shibo Hou, Serafima Davydova, James Fawcett, [Alexandra Siddall](https://philip-leftwich.github.io/people.html#alex-siddall), **Philip T Leftwich**, Flavia Krsticevic, Philippos A Papathanos, Nikolai Windbichler.[Gene drive and genetic sex conversion in the global agricultural pest Ceratitis capitata](https://doi.org/10.1038/s41467-023-44399-1). *Nature Communications*
-
- <span class="__dimensions_badge_embed__" data-doi="10.1038/s41467-023-44399-1" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41467-023-44399-1" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+<span class="__dimensions_badge_embed__" data-doi="10.1038/s41467-023-44399-1" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41467-023-44399-1" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
 
 &emsp; Michelle Anderson, Estela Gonzalez, Matthew Edgington, Joshua Ang, Deepak-Kumar Purusothaman, Lewis Shackleford, Katherine Nevard, Sebald Verkuikl, Tim Harvey-Samuel, **Philip T Leftwich**, Kevin Esvelt, Luke Alphey. [A multiplexed, confinable CRISPR/Cas9 gene drive propagates in caged *Aedes aegypti* populations](https://doi.org/10.1038/s41467-024-44956-2). *Nature Communications*
-
 <span class="__dimensions_badge_embed__" data-doi="10.1038/s41467-024-44956-2" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41467-024-44956-2" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
 2023
 ====
 
 &emsp; Michelle A.E. Anderson, **Philip T Leftwich**, Ray Wilson, Leonela Z Carabajal Paladino, Sanjay Basu, Sara Rooney, Zach Adelman, Luke Alphey. [AePUb promoter length modulates gene expression in *Aedes aegypti*](https://doi.org/10.1038/s41598-023-47777-3) *Scientific Reports*
-
 <span class="__dimensions_badge_embed__" data-doi="10.1038/s41598-023-47777-3" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41598-023-47777-3" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
 &emsp; Leonela Z Carabajal Paladino, Ray Wilson, Priscilla Y.L. Tng, Vishaal Dhokiya, Elizabeth Keen, Piotr Cuber, Will Larner, Sara Rooney, Melanie Nicholls, Anastasia Uglow, Luke Williams, Michelle A.E. Anderson, Sanjay Basu, **Philip T Leftwich**, Luke Alphey. [Optimizing CRE and PhiC31 mediated recombination in *Aedes aegypti*](https://www.frontiersin.org/articles/10.3389/fbioe.2023.1254863/full) *Frontiers in Bioengineering and Biotechnology*
- 
 <span class="__dimensions_badge_embed__" data-doi="10.3389/fbioe.2023.1254863" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.3389/fbioe.2023.1254863" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
 &emsp; Tim Harvey-Samuel, Xuechen Feng, Emily M Okamoto, Deepak-Kumar Purusothaman, **Philip T. Leftwich**, Luke Alphey, Valentino M Gantz. [CRISPR-based gene drives generate super-Mendelian inheritance in the disease vector *Culex quinquefasciatus*](https://doi.org/10.1038/s41467-023-41834-1). *Nature Communications*
-
 <span class="__dimensions_badge_embed__" data-doi="10.1038/s41467-023-41834-1" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41467-023-41834-1" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
 &emsp; Colleen Sprigg, **Philip T Leftwich**, Emily Burton, Dawn Scholey, Michael R Bedford, Charles A Brearley. [Accentuating the positive and eliminating the negative: efficacy of TiO~2~ as digestibility index marker for poultry nutrition studies](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0284724). *Plos One - In Press*
-
 <span class="__dimensions_badge_embed__" data-doi="10.1371/journal.pone.0284724" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1371/journal.pone.0284724" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
 2022
 ====
 
 &emsp; Alex Siddall, Tim Harvey-Samuel, Tracey Chapman, **Philip T Leftwich^**. [Manipulating insect sex determination pathways for genetic pest management: opportunities and challenges](https://www.frontiersin.org/articles/10.3389/fbioe.2022.867851/abstract). *Frontiers in Biotechnology and Bioengineering*
-
 <span class="__dimensions_badge_embed__" data-doi="10.3389/fbioe.2022.867851" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.3389/fbioe.2022.867851" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
 &emsp; Darrington M, **Leftwich PT**\*, Holmes NA, Friend LA, Clarke NVE, Worsley SF, Margaritopolous JT, Hogenhout SA, Hutchings MI, Chapman T. [Characterisation of the symbionts in the Mediterranean fruitfly gut](https://doi.org/10.1099/mgen.0.000801). *Microbial Genomics* 
@@ -122,6 +108,9 @@ https://royalsocietypublishing.org/doi/10.1098/rstb.2019.0805). *Philosophical T
 
 2019
 ====
+
+&emsp; KH Redford, TM Brooks, NBW Macfarlane, JS Adams, Luke Alphey, Elizabeth Bennet, Jason Delborne, Hilde Eggermont, Kevin Esvelt, Ann Kingirl, Adam Kokotovich, Bartomiej Kolodziejczyk, Todd Kuiken, Aroha Mead, Maria Oliva, Edward Perello, Lydia Slobodian, Delphine Thizy, Daniel Tompkins, Gerd Winter, Karl Campbell, Johanna Elsensohn, Nick Holmes, Chris Farmer, Bradford Keitt, **Philip Leftwich**, Tom Maloney, Daniel Masiga, Andrew Newhouse, Ben Novak, Ryan Phelan, William Powell, Louise Rollins-Smith, Madeline van Oppen. [Genetic frontiers for conservation: An assessment of synthetic biology and biodiversity conservation](https://portals.iucn.org/library/node/48409). *IUCN*
+<span class="__dimensions_badge_embed__" data-doi="10.2305/IUCN.CH.2019.04.enn" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.2305/IUCN.CH.2019.04.en" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
 &emsp; KH Redford, TM Brooks, NBW Macfarlane, JS Adams, Luke Alphey, Elizabeth Bennet, Jason Delborne, Hilde Eggermont, Kevin Esvelt, Ann Kingirl, Adam Kokotovich, Bartomiej Kolodziejczyk, Todd Kuiken, Aroha Mead, Maria Oliva, Edward Perello, Lydia Slobodian, Delphine Thizy, Daniel Tompkins, Gerd Winter, Karl Campbell, Johanna Elsensohn, Nick Holmes, Chris Farmer, Bradford Keitt, **Philip Leftwich**, Tom Maloney, Daniel Masiga, Andrew Newhouse, Ben Novak, Ryan Phelan, William Powell, Louise Rollins-Smith, Madeline van Oppen. [Genetic frontiers for conservation : an assessment of synthetic biology and biodiversity conservation : technical assessment](https://portals.iucn.org/library/node/48408). *IUCN*
 <span class="__dimensions_badge_embed__" data-doi="10.2305/IUCN.CH.2019.05.en" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.2305/IUCN.CH.2019.05.en" data-hide-no-mentions="true" class="altmetric-embed"> </span>
