@@ -12,6 +12,9 @@ subtitle: ""
 pre-print
 ====
 
+&emsp; Amber SK Hall, Samuel Matthew Shackleton-Chavez, Tracey Chapman, **Philip T Leftwich^**. [A novel polymerase III promoter for gene editing in the agricultural pest Ceratitis capitata](https://doi.org/10.64898/2026.04.21.719894)
+<span class="__dimensions_badge_embed__" data-doi="10.64898/2026.04.21.719894" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.64898/2026.04.21.719894" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+
 &emsp; Sebald A.N. Verkuijl, Edward R Ivimey-Cook, Bairu Liu, Michael B Bonsall, **Philip T Leftwich^**,  Nikolai Windbichler. [Cross-species meta-analysis reveals determinants of homing gene drive performance](https://doi.org/10.64898/2026.02.28.708699)
 <span class="__dimensions_badge_embed__" data-doi="10.64898/2026.02.28.708699" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.64898/2026.02.28.708699" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
