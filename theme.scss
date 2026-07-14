@@ -185,3 +185,24 @@ body {
   height: 400px;       /* or whatever fixed height works for your layout */
   object-fit: cover;   /* this ensures the image fills the area and crops if needed */
 }
+
+/* Fly animation canvas */
+#flyCanvas {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  pointer-events: none;
+  z-index: 0;
+}
+
+// Keep page content above the canvas
+main, #quarto-content, .content {
+  position: relative;
+  z-index: 1;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  #flyCanvas { display: none; }
+}

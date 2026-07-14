@@ -18,12 +18,14 @@ pre-print
 &emsp; Sebald A.N. Verkuijl, Edward R Ivimey-Cook, Bairu Liu, Michael B Bonsall, **Philip T Leftwich^**,  Nikolai Windbichler. [Cross-species meta-analysis reveals determinants of homing gene drive performance](https://doi.org/10.64898/2026.02.28.708699)
 <span class="__dimensions_badge_embed__" data-doi="10.64898/2026.02.28.708699" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.64898/2026.02.28.708699" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
-&emsp; Mireia Larossa Godall, Lewis Shackleford, Matthew P Edgington, **Philip T Leftwich**, James CY Luk, Joshua Southworth, Stewart Rosall, Jake Creasey, Jack Aked, Katherine T Nevard, Alexander Dodds, Morgan Mckee, Eunice Adedeji, Estela Gonzalez, Joshua XD Ang, Michelle AE Anderson, Luke Alphey. [Integrating multiplexing into confineable gene drives effectively overrides resistance in *Anopheles stephensi*](https://doi.org/10.1101/2025.08.15.670499)
-<span class="__dimensions_badge_embed__" data-doi="10.1101/2025.08.15.670499" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1101/2025.08.15.670499" data-hide-no-mentions="true" class="altmetric-embed"> </span>
+
 
 
 2026
 ====
+
+&emsp; Mireia Larossa Godall, Lewis Shackleford, Matthew P Edgington, **Philip T Leftwich**, James CY Luk, Joshua Southworth, Stewart Rosall, Jake Creasey, Jack Aked, Katherine T Nevard, Alexander Dodds, Morgan Mckee, Eunice Adedeji, Estela Gonzalez, Joshua XD Ang, Michelle AE Anderson, Luke Alphey. [Integrating multiplexing into confineable gene drives effectively overrides resistance in *Anopheles stephensi*](https://doi.org/10.1038/s41467-026-72835-5)
+<span class="__dimensions_badge_embed__" data-doi="10.1038/s41467-026-72835-5" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1038/s41467-026-72835-5" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
 
 &emsp; T Harvey-Samuel, R Kaur, **Philip T Leftwich**, X Feng, V Gantz, L Alphey. [Sequence mismatch between gene-drive and target-site flanking regions significantly impairs homing efficiency in *Culex quinquefasciatus*](https://doi.org/10.1093/genetics/iyag054)
