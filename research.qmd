@@ -1,0 +1,61 @@
+---
+title: "Research"
+subtitle: "insect genetics, microbiomes, and applied data science"
+listing:
+- id: research-themes
+  contents: research
+  feed: true
+  sort: "title"
+  type: grid
+  grid-item-border: true
+  grid-item-align: left
+  max-description-length: 180
+  sort-ui: false
+  filter-ui: false
+page-layout: article
+title-block-banner: false
+toc: false
+---
+
+My research centres on genetic technologies for insect control, microbiome-mediated traits, and the experimental workflows that connect laboratory biology with real-world applications.
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4}
+::: {.section-card}
+### Genetic technologies
+
+I study gene drives, transgene design, and other molecular tools for controlling pest and vector insect species.
+:::
+:::
+
+::: {.g-col-12 .g-col-md-4}
+::: {.section-card}
+### Host-microbe interactions
+
+I investigate how insect microbiomes shape development, physiology, behaviour, and evolutionary outcomes.
+:::
+:::
+
+::: {.g-col-12 .g-col-md-4}
+::: {.section-card}
+### Translational biology
+
+My work combines experimental genetics, quantitative analysis, and collaborative teaching to make modern biology more usable and more reproducible.
+:::
+:::
+
+:::
+
+## Research themes
+
+:::{#research-themes}
+:::
+
+## Selected recent outputs
+
+- [Integrating multiplexing into confineable gene drives effectively overrides resistance in *Anopheles stephensi*](https://doi.org/10.1038/s41467-026-72835-5)
+- [A synthetic biology approach to transgene expression](https://pubs.acs.org/doi/10.1021/acssynbio.4c00250)
+- [Challenges in developing a split drive targeting dsx for the genetic control of the invasive malaria vector *Anopheles stephensi*](https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-025-06688-0)
+
+For a complete publication list, visit [Publications](publications.qmd).

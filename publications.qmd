@@ -1,12 +1,23 @@
 ---
 title: "Publications"
 subtitle: ""
+page-layout: article
+title-block-banner: false
+toc: false
 ---
 
 
-  You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?user=5-qU7lkAAAAJ&hl=en) page
- 
- \* first author/joint first author; ^ corresponding author
+You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?user=5-qU7lkAAAAJ&hl=en) page
+
+\* first author/joint first author; ^ corresponding author
+
+<div class="pub-search">
+  <label for="pub-search-input">Search publications</label>
+  <input id="pub-search-input" type="search" placeholder="Filter by keyword, author, journal, or year">
+  <p class="pub-search-help">Use the search box to quickly focus on a topic, collaborator, venue, or year.</p>
+</div>
+
+::: {#publications-list}
  
 
 pre-print
@@ -170,8 +181,58 @@ https://royalsocietypublishing.org/doi/10.1098/rstb.2019.0805). *Philosophical T
 &emsp; **PT Leftwich**\*, DA Edward, L Alphey, MJG Gage, T Chapman. [Variation in adult sex ratio alters the association between courtship, mating frequency and paternity in the lek‐forming fruitfly *Ceratitis capitata*](https://doi.org/10.1111/j.1420-9101.2012.02556.x). *Journal of Evolutionary Biology* 
 <span class="__dimensions_badge_embed__" data-doi="10.1111/j.1420-9101.2012.02556.x" data-style="small_circle" data-hide-zero-citations="true"> <span data-badge-popover="right" data-badge-type="donut" data-doi="10.1111/j.1420-9101.2012.02556.x" data-hide-no-mentions="true" class="altmetric-embed"> </span>
 
+:::
+
+<script>
+(function () {
+  function initPublicationFilter() {
+    const input = document.getElementById("pub-search-input");
+    const container = document.getElementById("publications-list");
+    if (!input || !container) return;
+
+    const headings = Array.from(container.querySelectorAll("h1, h2"));
+
+    function sectionElements(heading) {
+      const items = [];
+      let node = heading.nextElementSibling;
+      while (node && !/^H[12]$/.test(node.tagName)) {
+        if (node.tagName === "P") items.push(node);
+        node = node.nextElementSibling;
+      }
+      return items;
+    }
+
+    function applyFilter() {
+      const query = input.value.trim().toLowerCase();
+
+      headings.forEach((heading) => {
+        const items = sectionElements(heading);
+        const headingMatch = !query || heading.textContent.toLowerCase().includes(query);
+        let visibleCount = 0;
+
+        items.forEach((item) => {
+          const match = !query || headingMatch || item.textContent.toLowerCase().includes(query);
+          item.classList.toggle("pub-hidden", !match);
+          if (match) visibleCount += 1;
+        });
+
+        heading.classList.toggle("pub-hidden", visibleCount === 0 && !headingMatch);
+      });
+    }
+
+    input.addEventListener("input", applyFilter);
+    applyFilter();
+  }
+
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", initPublicationFilter);
+  } else {
+    initPublicationFilter();
+  }
+})();
+</script>
+
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-
 
 

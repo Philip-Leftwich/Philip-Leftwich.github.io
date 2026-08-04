@@ -1,50 +1,122 @@
 ---
-title: "other resources"
-subtitle: "a collection of other people's writings, tutorials, etc. that I find particularly helpful"
+title: "Resources"
+subtitle: "teaching, workshops, writing, and recommended material"
+listing:
+- id: resource-workshops
+  contents: current_workshops
+  sort: "date desc"
+  type: grid
+  grid-item-border: true
+  grid-item-align: left
+  max-description-length: 140
+  date-format: medium
+  sort-ui: false
+  filter-ui: false
+- id: resource-writing
+  contents: posts
+  sort: "date desc"
+  type: default
+  image-align: right
+  max-description-length: 140
+  date-format: medium
+  categories: true
+  sort-ui: false
+  filter-ui: false
+page-layout: article
+title-block-banner: false
+toc: false
 ---
+
+This page brings together the smaller parts of the site into one place: teaching, workshops, writing, and a short list of recommended resources.
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+::: {.section-card}
+### Teaching
+
+Undergraduate and postgraduate teaching in genetics, genomics, molecular biology, statistics, and data science.
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.section-card}
+### Workshops & talks
+
+Short courses, invited sessions, and reusable training materials for coding, data visualisation, reproducible reporting, and communication.
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.section-card}
+### Writing
+
+Articles and short pieces focused on teaching, evidence of practice, and communicating quantitative skills.
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.section-card}
+### Recommended links
+
+Selected external tutorials, books, and communities that I return to regularly.
+:::
+:::
+
+:::
+
+## Teaching
+
+I teach across a range of modules in biological sciences, with a particular focus on genetics, genomics, molecular biology, statistics, and data science. My teaching materials are designed to support practical, research-connected learning.
+
+- Data Science
+- Genetics
+- Molecular Biology & Genetics
+- Genomics
+- Microbiology
+- Field Ecology
+
+## Workshops & talks
+
+Recent workshops and teaching materials are listed below.
+
+:::{#resource-workshops}
+:::
+
+[Browse the workshops page](talks_workshops.qmd){.section-link}
 
 ## Writing
 
-## R stuff
+Recent writing is listed below.
 
-### {{< fa tools title="A wrench and a screw driver" >}} r tools
+:::{#resource-writing}
+:::
 
-* [free icons from fontawesome](https://fontawesome.com/v5/search?m=free) + the [`{fontawesome}`](https://github.com/rstudio/fontawesome) R package for infusing your slides, website, RMarkdowns/Quarto Markdowns, and more with an extra splash of fun
+[Browse the writing page](posts.qmd){.section-link}
 
-### {{< fa chart-bar title="A bar chart" >}} data viz
+## Recommended resources
 
-* [A ggplot2 Tutorial for Beautiful Plotting in R](https://cedricscherer.netlify.app/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/), a fantastic guide to ggplot.
+### R tools and data visualisation
 
+* [free icons from fontawesome](https://fontawesome.com/v5/search?m=free) and the [`{fontawesome}`](https://github.com/rstudio/fontawesome) R package for adding icons to slides, websites, and reports
+* [A ggplot2 Tutorial for Beautiful Plotting in R](https://cedricscherer.netlify.app/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/)
+* [Beautifully Annotated: Enhancing your ggplots with Text](https://www.cararthompson.com/talks/rl-cambridge-beautifully-annotated/)
 
-* [Beautifully Annotated: Enhancing your ggplots with Text](https://www.cararthompson.com/talks/rl-cambridge-beautifully-annotated/), by [Cara Thompson](https://www.cararthompson.com/about.html), a seriously wonderful talk on using annotations in your ggplots
+### Reporting, presentation, and learning materials
 
-### {{< fa desktop title="A desktop computer screen" >}} reporting & presentations
+* [Quarto](https://quarto.org/)
+* [Meet xaringan: Making slides in R Markdown](https://arm.rbind.io/slides/xaringan.html#1)
+* [Sharing Your `xaringan` Slides](https://www.garrickadenbuie.com/blog/sharing-xaringan-slides/)
+* [The Big Book of R](https://www.bigbookofr.com/)
+* [Mastering Shiny](https://mastering-shiny.org/index.html)
+* [Happy Git and GitHub for the useR](https://happygitwithr.com/)
+* [R for Data Science](https://r4ds.had.co.nz/)
+* [W3Schools](https://www.w3schools.com/default.asp)
 
-* Quarto is all the rage these days (and by these days, I mean post-March 2022). Download and find some great tutorials [here](https://quarto.org/) to get started
+### Communities and biosciences resources
 
-* [Meet xaringan: Making slides in R Markdown](https://arm.rbind.io/slides/xaringan.html#1), by Allison Hill
+* [Biosciences Teaching and Education Research Zenodo Page](https://zenodo.org/communities/uea-bio-teaching)
+* [R-volutionary Biology](https://ueabio.github.io/Rvolutionary-Biology/)
+* [Skills Community of Practice](https://www.skillscop.com/)
 
-* [Sharing Your `xaringan` Slides](https://www.garrickadenbuie.com/blog/sharing-xaringan-slides/), by Garrick Aden-Buie
-
-### {{< fa book-open title="An open book" >}} learning materials
-
-* The last R book you will ever need. A comprehensive collection of books on everything R, over 300 titles and most are completely free availabel at [The Big Book of R](https://www.bigbookofr.com/)
-
-* Ever feel like you need a pick-me-up while learning stats or a new R tool? Look no further than [Allison Horst's](https://twitter.com/allison_horst) [Data Science Illustrations](https://allisonhorst.com/), featuring the cutest and most educational fuzzy monsters you'll ever see!
-
-* [Mastering Shiny](https://mastering-shiny.org/index.html), by Hadley Wickham 
-
-* [Happy Git and GitHub for the useR](https://happygitwithr.com/), by Jenny Bryan
-
-* [R for Data Science](https://r4ds.had.co.nz/), by Hadley Wickham
-
-* [W3Schools](https://www.w3schools.com/default.asp), particularly for their HTML & CSS tutorials
-
-
-
-
-
-### {{< fa universal-access title="The Web Accessibility symbol, which is a person with outstretched arms inside a circle" >}} accessibility
-
-
-
+[See the extended reading list](myresources.qmd){.section-link}

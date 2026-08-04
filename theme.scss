@@ -29,7 +29,7 @@ $code-color: $blue;                   // Blue text color for inline code
 
 // Add underline and color change to links
 a {
-  color: $light-blue; // Change link color
+  color: $blue; // Change link color
   text-decoration: underline; // Add underline
 }
 
@@ -43,7 +43,7 @@ $code-block-bg: $light-blue;          // Light blue background color for code bl
 
 
 h1, h2, h3, h4, h5, h6 {
-  letter-spacing: 5px;
+  letter-spacing: 3px;
   font-weight: 700;
   color: $gray;
 }
@@ -178,6 +178,77 @@ body {
 
 .description {
   font-size: 25px;
+}
+
+.hero-tagline {
+  color: $blue;
+  font-size: 1.1rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  margin-bottom: 1rem;
+  text-transform: uppercase;
+}
+
+.section-card {
+  background-color: $green;
+  border: 1px solid rgba(73, 73, 77, 0.12);
+  border-radius: 1rem;
+  box-shadow: 0 0.35rem 1rem rgba(73, 73, 77, 0.06);
+  height: 100%;
+  padding: 1.35rem;
+}
+
+.section-card h3 {
+  font-size: 1.35rem;
+  margin-top: 0;
+}
+
+.section-card p:last-child {
+  margin-bottom: 0;
+}
+
+.section-link {
+  font-weight: 700;
+}
+
+.pub-search {
+  background-color: rgba(171, 221, 222, 0.22);
+  border: 1px solid rgba(4, 108, 154, 0.16);
+  border-radius: 1rem;
+  margin: 1.5rem 0 2rem;
+  padding: 1rem 1.25rem;
+}
+
+.pub-search label {
+  display: block;
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+}
+
+.pub-search input {
+  background-color: $white;
+  border: 1px solid rgba(73, 73, 77, 0.2);
+  border-radius: 0.75rem;
+  color: $gray;
+  padding: 0.75rem 1rem;
+  width: 100%;
+}
+
+.pub-search-help {
+  font-size: 0.95rem;
+  margin: 0.6rem 0 0;
+}
+
+#publications-list h1,
+#publications-list h2 {
+  border-bottom: 2px solid rgba(4, 108, 154, 0.16);
+  color: $blue;
+  margin-top: 2rem;
+  padding-bottom: 0.35rem;
+}
+
+.pub-hidden {
+  display: none !important;
 }
 
 .card-img-top {

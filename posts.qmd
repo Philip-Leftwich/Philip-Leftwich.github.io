@@ -1,5 +1,6 @@
 ---
-title: "posts"
+title: "Writing"
+subtitle: "articles, blog posts, and short pieces"
 listing:
   contents: posts
   sort: "date desc"
@@ -10,6 +11,7 @@ listing:
   categories: true
   sort-ui: false
   filter-ui: false
-page-layout: full
+page-layout: article
 title-block-banner: false
+toc: false
 ---

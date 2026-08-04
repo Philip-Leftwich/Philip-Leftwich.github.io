@@ -13,17 +13,16 @@ website:
     title: "Philip Leftwich"
 
     left:
-      - text: About
-        href: about.qmd
+      - text: Home
+        href: index.qmd
+      - text: Research
+        href: research.qmd
       - href: publications.qmd
         text: Publications
       - href: people.qmd
         text: People
-      - text: Resources
-        menu:
-          - talks_workshops.qmd
-          - posts.qmd
-          - myresources.qmd
+      - href: resources.qmd
+        text: Resources
  
     right:
       - icon: github
@@ -49,5 +48,4 @@ format:
     toc: true
     include-in-header: 
     - file: "analytics.html"  
-
 
