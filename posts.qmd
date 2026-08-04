@@ -1,15 +1,21 @@
 ---
-title: "posts"
+title: "News"
+subtitle: "Writing, project updates, and reflections"
 listing:
   contents: posts
   sort: "date desc"
-  type: default
-  image-align: right
-  max-description-length: 175
+  type: grid
+  grid-item-border: false
+  image-align: top
+  max-description-length: 160
   date-format: medium
-  categories: true
+  categories: false
   sort-ui: false
   filter-ui: false
 page-layout: full
 title-block-banner: false
 ---
+
+::: {.page-intro}
+Short updates, writing, and reflections connected to teaching, outreach, and academic practice.
+:::

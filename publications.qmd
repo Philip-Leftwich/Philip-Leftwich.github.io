@@ -1,10 +1,14 @@
 ---
 title: "Publications"
-subtitle: ""
+subtitle: "Selected papers, preprints, and scholarly outputs"
+page-layout: full
+toc: false
 ---
 
 
-  You can also find my articles on my [Google Scholar](https://scholar.google.com/citations?user=5-qU7lkAAAAJ&hl=en) page
+::: {.page-intro}
+You can also find my articles on [Google Scholar](https://scholar.google.com/citations?user=5-qU7lkAAAAJ&hl=en). The list below includes recent preprints, journal articles, and collaborative outputs across genetics, synthetic biology, microbiomes, and teaching.
+:::
  
  \* first author/joint first author; ^ corresponding author
  
@@ -172,6 +176,5 @@ https://royalsocietypublishing.org/doi/10.1098/rstb.2019.0805). *Philosophical T
 
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-
 
 

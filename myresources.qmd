@@ -1,91 +1,55 @@
 ---
-title: "books & educational resources"
-subtitle: "a collection of my authored teaching resources and educational community partners"
+title: "Books & Teaching Resources"
+subtitle: "Authored teaching materials and educational collaborations"
+page-layout: full
+toc: false
 ---
 
-
-## {{< fa book title="Open Book" >}}Books
-
-::: {.grid}
-
-::: {.g-col-12 .g-col-md-4}
-
-<div class="card h-100">
-<img src="images/maths-skills-for-a-level-biology.jpg" class="card-img-top">
-<div class="card-body d-flex flex-column">
-<h4 class="card-title">Maths skills for A-level Biology</h4>
-<div class="card-text text-center">
-<a href="https://amzn.eu/d/bKpjHn9"><i>{{< fa arrow-up-right-from-square >}}</i></a>
-<p>Oxford University Press</p>
-</div>
-<div class="text-center">
-
-</div>
-</div>
-</div>
-
+::: {.page-intro}
+A selection of my authored resources, educational collaborations, and teaching-focused projects in genetics, molecular biology, and data science.
 :::
 
+## Books
+
+::: {.section-grid}
+<div class="feature-card">
+  <img src="images/maths-skills-for-a-level-biology.jpg" alt="Cover of Maths skills for A-level Biology">
+  <span class="feature-card__meta">Book</span>
+  <h3>Maths skills for A-level Biology</h3>
+  <p>Oxford University Press.</p>
+  <a class="feature-card__link" href="https://amzn.eu/d/bKpjHn9">View book →</a>
+</div>
 :::
 
-## {{< fa users title="Three people" >}} Communities
+## Communities
 
-### [Biosciences Teaching and Education Research Zenodo Page](https://zenodo.org/communities/uea-bio-teaching) 
+::: {.section-panel}
+### [Biosciences Teaching and Education Research Zenodo Page](https://zenodo.org/communities/uea-bio-teaching)
+A curated collection of talks, workshops, and teaching innovations from the School of Biological Sciences at the University of East Anglia.
 
-A curated output of talks, workshops and teaching innovations from the Biological Sciences Department, University of East Anglia (UEA), Norwich, UK. 
-
-### [R-volutionary Biology](https://ueabio.github.io/Rvolutionary-Biology/) 
-
-The landing page for R and Data Science related education running out of the School of Biological Sciences at the University of East Anglia
+### [R-volutionary Biology](https://ueabio.github.io/Rvolutionary-Biology/)
+A landing page for R and data science education activities based in the School of Biological Sciences at UEA.
 
 ### [Skills Community of Practice](https://www.skillscop.com/)
-
-The Skills Community of Practice is an informal forum to share approaches to teaching undergraduate skills with colleagues across institutes. Each month, there is a presentation from a member about their approach to teaching a specific skill or skillset, followed by some whole groups comments/discussion.
-
-## {{< fa dna title="A dna helix" >}} Genetics & Molecular Biology
-
-::: {.grid}
-
-::: {.g-col-12 .g-col-md-4}
-
-<div class="card h-100">
-<img src="images/benchling.svg" class="card-img-top">
-<div class="card-body d-flex flex-column">
-<h4 class="card-title">Benchling for Distance Learning</h4>
-<div class="card-text text-center">
-<a href="https://www.benchling.com/educators"><i>{{< fa arrow-up-right-from-square >}}</i></a>
-<p>Teaching concepts in genetics and molecular biology with Benchling: a series of free-to-use lessons developed by me in collaboration with software company Benchling</p>
-</div>
-<div class="text-center">
-
-</div>
-</div>
-</div>
-
+An informal forum for sharing approaches to teaching undergraduate skills across disciplines and institutions.
 :::
 
+## Genetics & molecular biology
 
-
-::: {.g-col-12 .g-col-md-8}
-
-<div class="card h-100">
-<img src="images/LD.gif" class="card-img-top">
-<div class="card-body d-flex flex-column">
-<h4 class="card-title">Simulations of bacterial mutation</h4>
-<div class="card-text text-center">
-<a href="https://github.com/Philip-Leftwich/Luria_Delbruck"><i>{{< fa arrow-up-right-from-square >}}</i></a>
-<p>Teaching fundamental concepts of mutation in genetics with simulation</p>
-</div>
-<div class="text-center">
-</div>
-</div>
+::: {.section-grid}
+<div class="feature-card">
+  <img src="images/benchling.svg" alt="Benchling logo">
+  <span class="feature-card__meta">Educational collaboration</span>
+  <h3>Benchling for distance learning</h3>
+  <p>Free-to-use lessons for teaching genetics and molecular biology, developed with Benchling.</p>
+  <a class="feature-card__link" href="https://www.benchling.com/educators">View lessons →</a>
 </div>
 
+<div class="feature-card">
+  <img src="images/LD.gif" alt="Simulation graphic for bacterial mutation teaching">
+  <span class="feature-card__meta">Open teaching tool</span>
+  <h3>Simulations of bacterial mutation</h3>
+  <p>Interactive materials for teaching fundamental concepts of mutation in genetics.</p>
+  <a class="feature-card__link" href="https://github.com/Philip-Leftwich/Luria_Delbruck">Open project →</a>
+</div>
 :::
-
-:::
-
-
-
-
-

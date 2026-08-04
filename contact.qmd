@@ -1,0 +1,36 @@
+---
+title: "Contact"
+subtitle: "Get in touch about research, teaching, or collaborations"
+page-layout: full
+toc: false
+---
+
+::: {.page-intro}
+If you would like to discuss research, teaching, invited workshops, or potential collaborations, please get in touch using the details below.
+:::
+
+::: {.contact-grid}
+<div class="contact-card">
+  <h3>Email</h3>
+  <p><a href="mailto:p.leftwich@uea.ac.uk">p.leftwich@uea.ac.uk</a></p>
+  <p>Best for research enquiries, collaborations, and teaching-related questions.</p>
+</div>
+
+<div class="contact-card">
+  <h3>Institution</h3>
+  <p>School of Biological Sciences</p>
+  <p>University of East Anglia</p>
+</div>
+
+<div class="contact-card">
+  <h3>Profiles</h3>
+  <p>Find publications, updates, and code across the linked profiles below.</p>
+  <div class="icon-links">
+    <a href="https://research-portal.uea.ac.uk/en/persons/philip-leftwich" aria-label="UEA profile"><i>{{< fa landmark >}}</i></a>
+    <a href="https://orcid.org/0000-0001-9500-6592" aria-label="ORCID"><i>{{< fa brands orcid >}}</i></a>
+    <a href="https://github.com/philip-leftwich" aria-label="GitHub"><i>{{< fa brands github >}}</i></a>
+    <a href="https://www.linkedin.com/in/philip-leftwich-117052155/" aria-label="LinkedIn"><i>{{< fa brands linkedin >}}</i></a>
+    <a href="https://bsky.app/profile/philipleftwich.bsky.social" aria-label="Bluesky"><i>{{< fa brands bluesky >}}</i></a>
+  </div>
+</div>
+:::

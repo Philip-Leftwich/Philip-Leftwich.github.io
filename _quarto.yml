@@ -3,28 +3,33 @@ project:
   output-dir: docs
 
 website:
+  title: "Philip Leftwich"
+  description: "Genetics, genetic pest management, microbiomes, and data-rich biology teaching at the University of East Anglia."
   site-url: https://philip.leftwich.github.io/
   google-analytics: "G-9SHEWYCPZ9"
-
-
-
-
   navbar:
     title: "Philip Leftwich"
-
     left:
-      - text: About
+      - text: Home
+        href: index.qmd
+      - text: Research
         href: about.qmd
-      - href: publications.qmd
-        text: Publications
-      - href: people.qmd
-        text: People
+      - text: People
+        href: people.qmd
+      - text: Publications
+        href: publications.qmd
+      - text: News
+        href: posts.qmd
       - text: Resources
         menu:
-          - talks_workshops.qmd
-          - posts.qmd
-          - myresources.qmd
- 
+          - text: Overview
+            href: resources.qmd
+          - text: Books & teaching resources
+            href: myresources.qmd
+          - text: Talks & workshops
+            href: talks_workshops.qmd
+      - text: Contact
+        href: contact.qmd
     right:
       - icon: github
         href: https://github.com/philip-leftwich
@@ -34,20 +39,19 @@ website:
         href: https://www.linkedin.com/in/philip-leftwich-117052155/
       - icon: envelope
         href: mailto:p.leftwich@uea.ac.uk
-  page-footer: 
-    background: light
-    right: This website is built with [Quarto](https://quarto.org/)
-
+  page-footer:
+    left: "[Email](mailto:p.leftwich@uea.ac.uk) · [GitHub](https://github.com/philip-leftwich) · [Bluesky](https://bsky.app/profile/philipleftwich.bsky.social) · [LinkedIn](https://www.linkedin.com/in/philip-leftwich-117052155/)"
+    center: "School of Biological Sciences · University of East Anglia"
+    right: "Built with [Quarto](https://quarto.org/)"
 
 format:
   html:
     page-layout: full
     sidebar: false
-    theme: 
+    theme:
       - theme.scss
     mainfont: Nunito
-    toc: true
-    include-in-header: 
-    - file: "analytics.html"  
-
-
+    toc: false
+    title-block-banner: false
+    include-in-header:
+      - file: "analytics.html"

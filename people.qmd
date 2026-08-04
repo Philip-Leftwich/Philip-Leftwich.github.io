@@ -1,143 +1,87 @@
 ---
 title: "People"
+subtitle: "Current students and recent members of the group"
+page-layout: full
 toc: false
 ---
 
-::: {.grid}
-
-::: {.g-col-12 #sec-curr}
-## Current members: {#sec-curr}
+::: {.page-intro}
+The group brings together research and teaching interests in genetics, molecular biology, and data science at the University of East Anglia.
 :::
 
-::: {.g-col-12 .g-col-md-4}
-<div class="card h-100">
-<div class="card-body d-flex flex-column position-relative">
-<img src="images/leftwich.png" class="card-img-top">
-<h4 class="card-title">Dr Philip Leftwich</h4>
-<p class="card-subtitle">Associate Professor<br>
-University of East Anglia</p>
-<div class="card-text text-center">
-</div>
-<div class="text-center">
-<a href="https://research-portal.uea.ac.uk/en/persons/philip-leftwich"><i>{{< fa landmark >}}</i></a>
-<a href="https://bsky.app/profile/philipleftwich.bsky.social"><i>{{< fa brands bluesky >}}</i></a>
-<a href="https://orcid.org/0000-0001-9500-6592"><i>{{< fa brands orcid >}}</i></a>
-<a href="https://github.com/philip-leftwich"><i>{{< fa brands github >}}</i></a>
-<a href="mailto:p.leftwich@uea.ac.uk"><i>{{< fa envelope >}}</i></a>
-</div>
-</div>
-</div>
+## Current members {#sec-curr}
+
+::: {.profile-grid}
+<article class="profile-card" id="philip-leftwich">
+  <img src="images/leftwich.png" alt="Portrait of Dr Philip Leftwich">
+  <div class="profile-card__role">Associate Professor · University of East Anglia</div>
+  <h3>Dr Philip Leftwich</h3>
+  <p>Molecular biologist working on genetic pest management, insect genetics, microbiomes, and computational teaching.</p>
+  <div class="icon-links">
+    <a href="https://research-portal.uea.ac.uk/en/persons/philip-leftwich" aria-label="UEA profile"><i>{{< fa landmark >}}</i></a>
+    <a href="https://bsky.app/profile/philipleftwich.bsky.social" aria-label="Bluesky"><i>{{< fa brands bluesky >}}</i></a>
+    <a href="https://orcid.org/0000-0001-9500-6592" aria-label="ORCID"><i>{{< fa brands orcid >}}</i></a>
+    <a href="https://github.com/philip-leftwich" aria-label="GitHub"><i>{{< fa brands github >}}</i></a>
+    <a href="mailto:p.leftwich@uea.ac.uk" aria-label="Email"><i>{{< fa envelope >}}</i></a>
+  </div>
+</article>
+
+<article class="profile-card" id="matthew-shackleton-chavez">
+  <img src="images/matt.jpg" alt="Portrait of Matthew Shackleton-Chavez">
+  <div class="profile-card__role">PhD Student · University of East Anglia</div>
+  <h3>Matthew Shackleton-Chavez</h3>
+  <p>Doctoral researcher contributing to genetics and molecular biology projects within the group.</p>
+  <div class="icon-links">
+    <a href="https://www.linkedin.com/in/samuel-matthew-s-5698131ba/" aria-label="LinkedIn"><i>{{< fa brands linkedin >}}</i></a>
+    <a href="mailto:s.shackleton-chavez@uea.ac.uk" aria-label="Email"><i>{{< fa envelope >}}</i></a>
+  </div>
+</article>
+
+<article class="profile-card" id="katie-millar">
+  <img src="images/katie.png" alt="Portrait of Katie Millar">
+  <div class="profile-card__role">PhD Student · University of East Anglia</div>
+  <h3>Katie Millar</h3>
+  <p>Doctoral researcher working at the interface of genetics, biological data, and open scientific communication.</p>
+  <div class="icon-links">
+    <a href="https://bsky.app/profile/katiemillar.bsky.social" aria-label="Bluesky"><i>{{< fa brands bluesky >}}</i></a>
+    <a href="https://www.linkedin.com/in/katie-millar-15bb56236" aria-label="LinkedIn"><i>{{< fa brands linkedin >}}</i></a>
+    <a href="mailto:katie.millar@uea.ac.uk" aria-label="Email"><i>{{< fa envelope >}}</i></a>
+  </div>
+</article>
 :::
 
-::: {.g-col-12 .g-col-md-4}
-<div class="card h-100">
-<div class="card-body d-flex flex-column position-relative">
-<img src="images/matt.jpg" class="card-img-top">
-<h4 class="card-title">Matthew Shackleton-Chavez</h4>
-<p class="card-subtitle">PhD Student<br>
-University of East Anglia</p>
-<div class="card-text text-center">
-</div>
-<div class="text-center">
-<a href="https://www.linkedin.com/in/samuel-matthew-s-5698131ba/"><i>{{< fa brands linkedin >}}</i></a>
-<a href="mailto:s.shackleton-chavez@uea.ac.uk"><i>{{< fa envelope >}}</i></a>
-</div>
-</div>
-</div>
+## Past members {#sec-past}
 
+::: {.profile-grid}
+<article class="profile-card" id="alex-siddall">
+  <img src="images/Alex_profile.jpg" alt="Portrait of Alex Siddall">
+  <div class="profile-card__role">PhD Student</div>
+  <h3>Alex Siddall</h3>
+  <p class="profile-card__project"><strong>Project:</strong> Genetic control in medfly.</p>
+  <div class="icon-links">
+    <a href="https://twitter.com/alx_sdd" aria-label="Twitter"><i>{{< fa brands twitter >}}</i></a>
+    <a href="mailto:a.siddall@uea.ac.uk" aria-label="Email"><i>{{< fa envelope >}}</i></a>
+  </div>
+</article>
 
-:::
+<article class="profile-card" id="joerel-gestopa">
+  <img src="images/joerel.png" alt="Portrait of Joerel Gestopa">
+  <div class="profile-card__role">MSc Student</div>
+  <h3>Joerel Gestopa</h3>
+  <p class="profile-card__project"><strong>Project:</strong> Life-history fitness in transgenic medfly.</p>
+</article>
 
-::: {.g-col-12 .g-col-md-4}
-<div class="card h-100">
-<div class="card-body d-flex flex-column position-relative">
-<img src="images/katie.png" class="card-img-top">
-<h4 class="card-title">Katie Millar</h4>
-<p class="card-subtitle">PhD Student<br>
-University of East Anglia</p>
-<div class="card-text text-center">
-</div>
-<div class="text-center">
-<a href="https://bsky.app/profile/katiemillar.bsky.social"><i>{{< fa brands bluesky >}}</i></a>
-<a href="https://www.linkedin.com/in/katie-millar-15bb56236"><i>{{< fa brands linkedin >}}</i></a>
-<a href="mailto:katie.millar@uea.ac.uk"><i>{{< fa envelope >}}</i></a>
-</div>
-</div>
-</div>
+<article class="profile-card" id="amy-butler">
+  <img src="images/Amy_B.jpeg" alt="Portrait of Amy Butler">
+  <div class="profile-card__role">UG Student</div>
+  <h3>Amy Butler</h3>
+  <p class="profile-card__project"><strong>Project:</strong> Parental effects on the offspring metabolome in medfly.</p>
+</article>
 
-
-:::
-
-::: {.g-col-12 #sec-past}
-## Past members: {#sec-past}
-:::
-
-::: {.g-col-12 .g-col-md-4}
-<div class="card h-100">
-<div class="card-body d-flex flex-column position-relative">
-<img src="images/Alex_profile.jpg" class="card-img-top">
-<h4 class="card-title">Alex Siddall</h4>
-<p class="card-subtitle">PhD Student<br>
-<p class="card-text">"Genetic control in medfly"</p>
-University of East Anglia</p>
-<div class="card-text text-center">
-</div>
-<div class="text-center">
-<a href="https://twitter.com/alx_sdd"><i>{{< fa brands twitter >}}</i></a>
-<a href="mailto:a.siddall@uea.ac.uk"><i>{{< fa envelope >}}</i></a>
-</div>
-</div>
-</div>
-
-:::
-
-::: {.g-col-12 .g-col-md-4}
-<div class="card h-100">
-<div class="card-body d-flex flex-column position-relative">
-<img src="images/joerel.png" class="card-img-top">
-<h4 class="card-title">Joerel Gestopa</h4>
-<p class="card-subtitle">MSc Student</p>
-<p class="card-text">"Life-history fitness in transgenic medfly"</p>
-<div class="card-text text-center">
-</div>
-<div class="text-center">
-</div>
-</div>
-</div>
-
-:::
-
-::: {.g-col-12 .g-col-md-4}
-<div class="card h-100">
-<div class="card-body d-flex flex-column position-relative">
-<img src="images/Amy_B.jpeg" class="card-img-top">
-<h4 class="card-title">Amy Butler</h4>
-<p class="card-subtitle">UG Student</p>
-<p class="card-text">"Parental effects on the offspring metabolome in medfly"</p>
-<div class="card-text text-center">
-</div>
-<div class="text-center">
-</div>
-</div>
-</div>
-
-:::
-
-::: {.g-col-12 .g-col-md-4}
-<div class="card h-100">
-<div class="card-body d-flex flex-column position-relative">
-<img src="images/blank.png" class="card-img-top">
-<h4 class="card-title">Jacob Rose</h4>
-<p class="card-subtitle">MSc Student</p>
-<p class="card-text">"Developing Cas9 trasgenics in the red flour beetle"</p>
-<div class="card-text text-center">
-</div>
-<div class="text-center">
-</div>
-</div>
-</div>
-
-:::
-
-
+<article class="profile-card" id="jacob-rose">
+  <img src="images/blank.webp" alt="Placeholder portrait for Jacob Rose">
+  <div class="profile-card__role">MSc Student</div>
+  <h3>Jacob Rose</h3>
+  <p class="profile-card__project"><strong>Project:</strong> Developing Cas9 transgenics in the red flour beetle.</p>
+</article>
 :::
