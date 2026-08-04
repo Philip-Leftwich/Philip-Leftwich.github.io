@@ -1,75 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Philip Leftwich",
-    "section": "",
-    "text": "Genetics · genetic pest management · microbiomes\n\n\n\nI am an Associate Professor in Genetics & Data Science at the University of East Anglia. My work combines insect genetics, microbiomes, synthetic biology, and computational teaching to study and apply genetic technologies in agriculture, public health, and higher education.\n\nExplore research Meet the group View publications"
-  },
-  {
-    "objectID": "index.html#latest-news",
-    "href": "index.html#latest-news",
-    "title": "Philip Leftwich",
-    "section": "Latest news",
-    "text": "Latest news\n\nRecent writing and updates from the site.\n\n\n\n\n\n\n\n\n\n\n\nTHE Campus Resources for academics and university staff\n\n\nA collection of my writings for THE campus between 2022 & 2023\n\n\n\nPhilip Leftwich\n\n\nJan 25, 2023\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "index.html#teaching-resources",
-    "href": "index.html#teaching-resources",
-    "title": "Philip Leftwich",
-    "section": "Teaching & resources",
-    "text": "Teaching & resources\n\nAcross undergraduate teaching, invited workshops, and open educational resources, I share practical materials for genetics, molecular biology, statistics, and data science.\n\nTalks & workshops Books & teaching resources Recommended links"
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "If you would like to discuss research, teaching, invited workshops, or potential collaborations, please get in touch using the details below.\n\n\n\n\nEmail\n\n\np.leftwich@uea.ac.uk\n\n\nBest for research enquiries, collaborations, and teaching-related questions.\n\n\n\n\nInstitution\n\n\nSchool of Biological Sciences\n\n\nUniversity of East Anglia\n\n\n\n\nProfiles\n\n\nFind publications, updates, and code across the linked profiles below.\n\n\nUEA profile · ORCID · GitHub · LinkedIn · Bluesky"
-  },
-  {
-    "objectID": "people.html",
-    "href": "people.html",
-    "title": "People",
-    "section": "",
-    "text": "The group brings together research and teaching interests in genetics, molecular biology, and data science at the University of East Anglia."
-  },
-  {
-    "objectID": "people.html#sec-curr",
-    "href": "people.html#sec-curr",
-    "title": "People",
-    "section": "Current members",
-    "text": "Current members\n\n\n\n\nAssociate Professor · University of East Anglia\n\n\nDr Philip Leftwich\n\n\nMolecular biologist working on genetic pest management, insect genetics, microbiomes, and computational teaching.\n\n\nUEA profile · ORCID · GitHub · Bluesky · Email\n\n\n\n\n\nPhD Student · University of East Anglia\n\n\nMatthew Shackleton-Chavez\n\n\nDoctoral researcher contributing to genetics and molecular biology projects within the group.\n\n\nLinkedIn · Email\n\n\n\n\n\nPhD Student · University of East Anglia\n\n\nKatie Millar\n\n\nDoctoral researcher working at the interface of genetics, biological data, and open scientific communication.\n\n\nBluesky · LinkedIn · Email"
-  },
-  {
-    "objectID": "people.html#sec-past",
-    "href": "people.html#sec-past",
-    "title": "People",
-    "section": "Past members",
-    "text": "Past members\n\n\n\n\nPhD Student\n\n\nAlex Siddall\n\n\nProject: Genetic control in medfly.\n\n\nTwitter · Email\n\n\n\n\n\nMSc Student\n\n\nJoerel Gestopa\n\n\nProject: Life-history fitness in transgenic medfly.\n\n\n\n\n\nUG Student\n\n\nAmy Butler\n\n\nProject: Parental effects on the offspring metabolome in medfly.\n\n\n\n\n\nMSc Student\n\n\nJacob Rose\n\n\nProject: Developing Cas9 transgenics in the red flour beetle."
-  },
-  {
-    "objectID": "resources.html",
-    "href": "resources.html",
-    "title": "Resources",
-    "section": "",
-    "text": "This section brings together authored resources, workshop materials, and the external references that I return to most often when teaching statistics, R, data science, and scientific communication."
-  },
-  {
-    "objectID": "resources.html#recommended-reading",
-    "href": "resources.html#recommended-reading",
-    "title": "Resources",
-    "section": "Recommended reading",
-    "text": "Recommended reading\n\n\nR tools\n\nFree icons from Font Awesome and the {fontawesome} R package for bringing icons into slides, websites, and documents.\n\n\n\nData visualization\n\nA ggplot2 Tutorial for Beautiful Plotting in R\nBeautifully Annotated: Enhancing your ggplots with Text, by Cara Thompson\n\n\n\nReporting & presentations\n\nQuarto\nMeet xaringan: Making slides in R Markdown, by Allison Hill\nSharing Your xaringan Slides, by Garrick Aden-Buie\n\n\n\nLearning materials\n\nThe Big Book of R\nAllison Horst’s Data Science Illustrations\nMastering Shiny, by Hadley Wickham\nHappy Git and GitHub for the useR, by Jenny Bryan\nR for Data Science, by Hadley Wickham\nW3Schools, especially for HTML and CSS tutorials"
-  },
-  {
-    "objectID": "current_workshops/2023-physalia-stats-r/index.html",
-    "href": "current_workshops/2023-physalia-stats-r/index.html",
-    "title": "INTRODUCTION TO STATISTICS IN R FOR BIOLOGISTS AND ECOLOGISTS",
-    "section": "",
-    "text": "Dates\n17th-20th July 2023\nSign up today\n\n\nLEARNING OUTCOMES\n\nUnderstand how to read, interpret and write scripts in R.\nLearn statistical tools to address common questions in research activities.\nAn introduction to efficient, readable and reproducible analyses\nBeing comfortable with using R when performing both descriptive and inferential statistics."
-  },
-  {
     "objectID": "myresources.html",
     "href": "myresources.html",
     "title": "Books & Teaching Resources",
@@ -96,6 +26,118 @@
     "title": "Books & Teaching Resources",
     "section": "Genetics & molecular biology",
     "text": "Genetics & molecular biology\n\n\n Educational collaboration\n\nBenchling for distance learning\n\n\nFree-to-use lessons for teaching genetics and molecular biology, developed with Benchling.\n\nView lessons →\n\n\n Open teaching tool\n\nSimulations of bacterial mutation\n\n\nInteractive materials for teaching fundamental concepts of mutation in genetics.\n\nOpen project →"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "If you would like to discuss research, teaching, invited workshops, or potential collaborations, please get in touch using the details below.\n\n\n\n\nEmail\n\n\np.leftwich@uea.ac.uk\n\n\nBest for research enquiries, collaborations, and teaching-related questions.\n\n\n\n\nInstitution\n\n\nSchool of Biological Sciences\n\n\nUniversity of East Anglia\n\n\n\n\nProfiles\n\n\nFind publications, updates, and code across the linked profiles below.\n\n\nUEA profile · ORCID · GitHub · LinkedIn · Bluesky"
+  },
+  {
+    "objectID": "posts/the-campus/index.html",
+    "href": "posts/the-campus/index.html",
+    "title": "THE Campus Resources for academics and university staff",
+    "section": "",
+    "text": "Lorem ipsum\nhere"
+  },
+  {
+    "objectID": "posts/the-campus/index.html#how-to-build-quantitative-evidence-of-your-teaching-expertise",
+    "href": "posts/the-campus/index.html#how-to-build-quantitative-evidence-of-your-teaching-expertise",
+    "title": "THE Campus Resources for academics and university staff",
+    "section": "How to build quantitative evidence of your teaching expertise",
+    "text": "How to build quantitative evidence of your teaching expertise"
+  },
+  {
+    "objectID": "posts/the-campus/index.html#foundations-to-lay-when-teaching-computational-and-data-skills",
+    "href": "posts/the-campus/index.html#foundations-to-lay-when-teaching-computational-and-data-skills",
+    "title": "THE Campus Resources for academics and university staff",
+    "section": "Foundations to lay when teaching computational and data skills",
+    "text": "Foundations to lay when teaching computational and data skills"
+  },
+  {
+    "objectID": "posts/the-campus/index.html#using-online-and-blended-learning-tools-to-teach-data-science-skills",
+    "href": "posts/the-campus/index.html#using-online-and-blended-learning-tools-to-teach-data-science-skills",
+    "title": "THE Campus Resources for academics and university staff",
+    "section": "Using online and blended learning tools to teach data science skills",
+    "text": "Using online and blended learning tools to teach data science skills"
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "This section brings together authored resources, workshop materials, and the external references that I return to most often when teaching statistics, R, data science, and scientific communication."
+  },
+  {
+    "objectID": "resources.html#recommended-reading",
+    "href": "resources.html#recommended-reading",
+    "title": "Resources",
+    "section": "Recommended reading",
+    "text": "Recommended reading\n\n\nR tools\n\nFree icons from Font Awesome and the {fontawesome} R package for bringing icons into slides, websites, and documents.\n\n\n\nData visualization\n\nA ggplot2 Tutorial for Beautiful Plotting in R\nBeautifully Annotated: Enhancing your ggplots with Text, by Cara Thompson\n\n\n\nReporting & presentations\n\nQuarto\nMeet xaringan: Making slides in R Markdown, by Allison Hill\nSharing Your xaringan Slides, by Garrick Aden-Buie\n\n\n\nLearning materials\n\nThe Big Book of R\nAllison Horst’s Data Science Illustrations\nMastering Shiny, by Hadley Wickham\nHappy Git and GitHub for the useR, by Jenny Bryan\nR for Data Science, by Hadley Wickham\nW3Schools, especially for HTML and CSS tutorials"
+  },
+  {
+    "objectID": "talks_workshops.html",
+    "href": "talks_workshops.html",
+    "title": "Talks & Workshops",
+    "section": "",
+    "text": "A selection of courses, workshops, and teaching sessions focused on genetics, computing, statistics, and data science."
+  },
+  {
+    "objectID": "talks_workshops.html#featured-workshops",
+    "href": "talks_workshops.html#featured-workshops",
+    "title": "Talks & Workshops",
+    "section": "Featured workshops",
+    "text": "Featured workshops\n\n\n\n\n\n\n\n\n\n\nPROGRAMMING IN R : MOVING FROM BEGINNER TO ADVANCED\n\n\nThis course is designed for anyone with basic knowledge of R who is looking to enhance their skills and take their programming abilities to the next level. Each session in…\n\n\n\nPhilip Leftwich\n\n\nSep 18, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\nINTRODUCTION TO STATISTICS IN R FOR BIOLOGISTS AND ECOLOGISTS\n\n\nThis course will introduce scientists and practitioners interested in applying statistical approaches in their daily routine using R as a working environment. Participants…\n\n\n\nPhilip Leftwich\n\n\nJul 17, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\nUSING COMPUTER TOOLS TO SUPPORT MOLECULAR BIOLOGY LABS\n\n\nA workshop at the UK STEM conference in Swansea to demonstrate the power of teaching in-silico analysis tools to support molecular biology labs\n\n\n\nPhilip Leftwich\n\n\nJun 29, 2023\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "current_workshops/2023-physalia-stats-r/index.html",
+    "href": "current_workshops/2023-physalia-stats-r/index.html",
+    "title": "INTRODUCTION TO STATISTICS IN R FOR BIOLOGISTS AND ECOLOGISTS",
+    "section": "",
+    "text": "Dates\n17th-20th July 2023\nSign up today\n\n\nLEARNING OUTCOMES\n\nUnderstand how to read, interpret and write scripts in R.\nLearn statistical tools to address common questions in research activities.\nAn introduction to efficient, readable and reproducible analyses\nBeing comfortable with using R when performing both descriptive and inferential statistics."
+  },
+  {
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "People",
+    "section": "",
+    "text": "The group brings together research and teaching interests in genetics, molecular biology, and data science at the University of East Anglia."
+  },
+  {
+    "objectID": "people.html#sec-curr",
+    "href": "people.html#sec-curr",
+    "title": "People",
+    "section": "Current members",
+    "text": "Current members\n\n\n\n\nAssociate Professor · University of East Anglia\n\n\nDr Philip Leftwich\n\n\nMolecular biologist working on genetic pest management, insect genetics, microbiomes, and computational teaching.\n\n\nUEA profile · ORCID · GitHub · Bluesky · Email\n\n\n\n\n\nPhD Student · University of East Anglia\n\n\nMatthew Shackleton-Chavez\n\n\nDoctoral researcher contributing to genetics and molecular biology projects within the group.\n\n\nLinkedIn · Email\n\n\n\n\n\nPhD Student · University of East Anglia\n\n\nKatie Millar\n\n\nDoctoral researcher working at the interface of genetics, biological data, and open scientific communication.\n\n\nBluesky · LinkedIn · Email"
+  },
+  {
+    "objectID": "people.html#sec-past",
+    "href": "people.html#sec-past",
+    "title": "People",
+    "section": "Past members",
+    "text": "Past members\n\n\n\n\nPhD Student\n\n\nAlex Siddall\n\n\nProject: Genetic control in medfly.\n\n\nTwitter · Email\n\n\n\n\n\nMSc Student\n\n\nJoerel Gestopa\n\n\nProject: Life-history fitness in transgenic medfly.\n\n\n\n\n\nUG Student\n\n\nAmy Butler\n\n\nProject: Parental effects on the offspring metabolome in medfly.\n\n\n\n\n\nMSc Student\n\n\nJacob Rose\n\n\nProject: Developing Cas9 transgenics in the red flour beetle."
+  },
+  {
+    "objectID": "current_workshops/2023-physalia-advanced-r/index.html",
+    "href": "current_workshops/2023-physalia-advanced-r/index.html",
+    "title": "PROGRAMMING IN R : MOVING FROM BEGINNER TO ADVANCED",
+    "section": "",
+    "text": "18th-21st September 2023\nSign up today\n\nOVERVIEW\nThis course is designed for anyone with basic knowledge of R who is looking to enhance their skills and take their programming abilities to the next level. Each session in the course will be hands-on, providing you with practical examples to work through and apply the concepts you’ve learned, and lots of support to answer questions and overcome any challenges.\n\n\nOUTCOMES\nBy the end of the course, you’ll have the skills and confidence to tackle complex programming problems in R and create high-quality reports, figures, and dashboards."
+  },
+  {
+    "objectID": "current_workshops/2023-uk-stem/index.html",
+    "href": "current_workshops/2023-uk-stem/index.html",
+    "title": "USING COMPUTER TOOLS TO SUPPORT MOLECULAR BIOLOGY LABS",
+    "section": "",
+    "text": "28th & 29th June 2023\nConference Programme\n\n\nThe electronic lab notebook (ELN) has become a critical tool for researchers to document, manage, and analyze their experiments. ELNs can revolutionize how students learn about and practice experimental design and molecular biology concepts in education. This workshop will focus on Benchling, a comprehensive free-to-use ELN that can help students develop analytical, planning, collaborative, and reflective skills, and will draw on my practice in using this software for level 5 genetics students.\nThe workshop will run in four sections and cover the following topics:\n\nHow to set up and use Benchling, including creating an account, organizing notebooks and experiments, and importing and exporting data.\nHow to organize a classroom on Benchling, including creating assignments, managing student access, and monitoring student progress.\nTeaching concepts in Molecular Biology with web tools, including DNA sequence analysis, CRISPR, plasmid and primer design - there are multiple worksheets participants are free to choose from.\nDeveloping reflective practice with online notebooks, including analyzing experimental data, identifying learning goals, and receiving feedback.\n\nParticipants will learn how to incorporate Benchling into their curriculum to enhance student learning, promote scientific literacy, and develop essential skills for their future careers. The workshop format includes interactive exercises & worksheets and group discussions."
+  },
+  {
+    "objectID": "current_workshops/2023-uk-stem/index.html#information",
+    "href": "current_workshops/2023-uk-stem/index.html#information",
+    "title": "USING COMPUTER TOOLS TO SUPPORT MOLECULAR BIOLOGY LABS",
+    "section": "",
+    "text": "The electronic lab notebook (ELN) has become a critical tool for researchers to document, manage, and analyze their experiments. ELNs can revolutionize how students learn about and practice experimental design and molecular biology concepts in education. This workshop will focus on Benchling, a comprehensive free-to-use ELN that can help students develop analytical, planning, collaborative, and reflective skills, and will draw on my practice in using this software for level 5 genetics students.\nThe workshop will run in four sections and cover the following topics:\n\nHow to set up and use Benchling, including creating an account, organizing notebooks and experiments, and importing and exporting data.\nHow to organize a classroom on Benchling, including creating assignments, managing student access, and monitoring student progress.\nTeaching concepts in Molecular Biology with web tools, including DNA sequence analysis, CRISPR, plasmid and primer design - there are multiple worksheets participants are free to choose from.\nDeveloping reflective practice with online notebooks, including analyzing experimental data, identifying learning goals, and receiving feedback.\n\nParticipants will learn how to incorporate Benchling into their curriculum to enhance student learning, promote scientific literacy, and develop essential skills for their future careers. The workshop format includes interactive exercises & worksheets and group discussions."
   },
   {
     "objectID": "about.html",
@@ -133,46 +175,25 @@
     "text": "CV\n\nA full copy of my CV is available on GitHub."
   },
   {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Philip Leftwich",
     "section": "",
-    "text": "You can also find my articles on Google Scholar. The list below includes recent preprints, journal articles, and collaborative outputs across genetics, synthetic biology, microbiomes, and teaching.\n\n* first author/joint first author; ^ corresponding author\n\npre-print\n  Mireia Larrosa-Godall, Lewis Shackleford, Philip T Leftwich, Estela Gonzalez, Joshua XD Ang, Matthew Edwards, Katherine Nevard, James CY Luk, Morgan Mckee, Rob Noad, Michelle Anderson, Luke Alphey. Knock-in ≠ knock-out: differential fitness effects of cardinal mutations in Anopheles stephensi   \n  Amber SK Hall, Samuel Matthew Shackleton-Chavez, Tracey Chapman, Philip T Leftwich^. A novel polymerase III promoter for gene editing in the agricultural pest Ceratitis capitata   \n  Sebald A.N. Verkuijl, Edward R Ivimey-Cook, Bairu Liu, Michael B Bonsall, Philip T Leftwich^, Nikolai Windbichler. Cross-species meta-analysis reveals determinants of homing gene drive performance   \n\n\n2026\n  Mireia Larossa Godall, Lewis Shackleford, Matthew P Edgington, Philip T Leftwich, James CY Luk, Joshua Southworth, Stewart Rosall, Jake Creasey, Jack Aked, Katherine T Nevard, Alexander Dodds, Morgan Mckee, Eunice Adedeji, Estela Gonzalez, Joshua XD Ang, Michelle AE Anderson, Luke Alphey. Integrating multiplexing into confineable gene drives effectively overrides resistance in Anopheles stephensi   \n  T Harvey-Samuel, R Kaur, Philip T Leftwich, X Feng, V Gantz, L Alphey. Sequence mismatch between gene-drive and target-site flanking regions significantly impairs homing efficiency in Culex quinquefasciatus   \n\n\n2025\n  Colleen Sprigg, Hayley L Whitfield, Philip T Leftwich, Hui-Fen Kuo, Tzyy-Jen Chiou, Adolfo Saiardi, Megan L Shipton, Andrew M Riley, Barry VL Potter, Dawn Scholey, Emily Burton, Mike R Bedford, Charles A Brearley. Phosphorus-specific, liquid chromatography inductively coupled plasma mass spectrometry for analysis of inositol phosphate and inositol pyrophosphate metabolism   \n  Estela Gonzalez, Michelle AE Anderson, Joshua X.D. Ang, Katherine Nevard, Lewis Shackleford, Mireia Larrosa-Godall, Philip T. Leftwich, Luke Alphey. Optimization of SgRNA expression with RNA pol III regulatory elements in Anopheles stephensi   \n  Mireia Larrosa-Godall, Joshua XD Ang, Philip T Leftwich, Estela Gonzalez, Lewis Shackleford, Katherine Nevard, Rob Noad, Michelle AE Anderson, Luke Alphey. Challenges in developing a split drive targeting dsx for the genetic control of the invasive malaria vector Anopheles stephensi   \n\n\n2024\n  Philip T Leftwich^, Jessica Purcell, Michelle Anderson, Rennos Fragkoudis, Sanjay Basu, Gareth T Lycett, Luke Alphey. A synthetic biology approach to transgene expression. ACS Synthetic Biology   \n  Angela Meccariello, Shibo Hou, Serafima Davydova, James Fawcett, Alexandra Siddall, Philip T Leftwich, Flavia Krsticevic, Philippos A Papathanos, Nikolai Windbichler.Gene drive and genetic sex conversion in the global agricultural pest Ceratitis capitata. Nature Communications   \n  Michelle Anderson, Estela Gonzalez, Matthew Edgington, Joshua Ang, Deepak-Kumar Purusothaman, Lewis Shackleford, Katherine Nevard, Sebald Verkuikl, Tim Harvey-Samuel, Philip T Leftwich, Kevin Esvelt, Luke Alphey. A multiplexed, confinable CRISPR/Cas9 gene drive propagates in caged Aedes aegypti populations. Nature Communications   \n\n\n2023\n  Michelle A.E. Anderson, Philip T Leftwich, Ray Wilson, Leonela Z Carabajal Paladino, Sanjay Basu, Sara Rooney, Zach Adelman, Luke Alphey. AePUb promoter length modulates gene expression in Aedes aegypti Scientific Reports   \n  Leonela Z Carabajal Paladino, Ray Wilson, Priscilla Y.L. Tng, Vishaal Dhokiya, Elizabeth Keen, Piotr Cuber, Will Larner, Sara Rooney, Melanie Nicholls, Anastasia Uglow, Luke Williams, Michelle A.E. Anderson, Sanjay Basu, Philip T Leftwich, Luke Alphey. Optimizing CRE and PhiC31 mediated recombination in Aedes aegypti Frontiers in Bioengineering and Biotechnology   \n  Tim Harvey-Samuel, Xuechen Feng, Emily M Okamoto, Deepak-Kumar Purusothaman, Philip T. Leftwich, Luke Alphey, Valentino M Gantz. CRISPR-based gene drives generate super-Mendelian inheritance in the disease vector Culex quinquefasciatus. Nature Communications   \n  Colleen Sprigg, Philip T Leftwich, Emily Burton, Dawn Scholey, Michael R Bedford, Charles A Brearley. Accentuating the positive and eliminating the negative: efficacy of TiO2 as digestibility index marker for poultry nutrition studies. Plos One - In Press   \n\n\n2022\n  Alex Siddall, Tim Harvey-Samuel, Tracey Chapman, Philip T Leftwich^. Manipulating insect sex determination pathways for genetic pest management: opportunities and challenges. Frontiers in Biotechnology and Bioengineering   \n  Darrington M, Leftwich PT*, Holmes NA, Friend LA, Clarke NVE, Worsley SF, Margaritopolous JT, Hogenhout SA, Hutchings MI, Chapman T. Characterisation of the symbionts in the Mediterranean fruitfly gut. Microbial Genomics   \n Xuejiao Xu, Tim Harvey-Samuel, Hamid Anees Siddiqui, Joshua Ang, Michelle E Anderson, Christine Reitmayer, Erica Lovett, Philip T Leftwich, Minsheng You, Luke Alphey . Towards CRISPR/Cas9-based gene drive in the diamondback moth Plutella xylostella. The CRISPR Journal   \n\n\n2021\n  Benjamin J Tully, Joy Buongiorno, Ashley Brooke Cohen, Jacob A Cram, Arkadiy I Garber, Sarah K Hu, Arianna I Krinos, Philip T Leftwich, Alexis Marshall, Ella T Sieradzki, Daan R Speth, Elizabeth A Suter, Christopher B Trivedi, Luis E Valentin-Alvarado, Jake L Weissman, Michael D Lee, Harriet Alexander, R Eric Collins, Maria Pachiadaki, Adelaide CE Rhodes, Wayne Decatur The Bioinformatics Virtual Coordination Network: an open-source and interactive learning environment. Frontiers in Education   \n  Harvey-Samuel TD, Xu X, Lovett E, Dafa’alla T, Walker A, Norman VC,Carter R, Teal J, Akilan L, Leftwich PT, Reitmayer CM, Siddiqui HA, Alphey, L. Engineered expression of the invertebrate-specific scorpion toxin AaHIT reduces adult longevity and female fecundity in the diamondback moth Plutella xylostella. Pest Management Science   \n  Philip T Leftwich*^, Lewis G Spurgin, Tim Harvey-Samuel, Callum Thomas, Leonela Carabajal Paladino, Matthew P. Edgington, Luke S Alphey. Genetic pest management and the background genetics of release strains. Philosophical Transactions of the Royal Society B   \n\n\n2020\n  Philip T Leftwich*^, Matthew Edgington, Tracey Chapman. Transmission efficiency drives host-microbe associations. Proceedings of the Royal Society B   \n  Priscilla YL Tng, Leonela Carabajal Paladino, Sebald Verkuijl, Jessica Purcell, Philip T Leftwich, Rennos Fragkoudis, Rob Noad, Luke Alphey. Cas13b-dependent and -independent RNA knockdown of viral sequences in mosquito cells following guide RNA expression. Communications Biology   \n  Michelle AE Anderson, Jessica Purcell, Sebald AN Verkuijl, Victoria C Norman, Philip T Leftwich, Tim Harvey-Samuel, Luke S Alphey. Expanding the CRISPR Toolbox in Culicine Mosquitoes: In Vitro Validation of Pol III Promoters. ACS Synthetic Biology   \n\n\n2019\n  KH Redford, TM Brooks, NBW Macfarlane, JS Adams, Luke Alphey, Elizabeth Bennet, Jason Delborne, Hilde Eggermont, Kevin Esvelt, Ann Kingirl, Adam Kokotovich, Bartomiej Kolodziejczyk, Todd Kuiken, Aroha Mead, Maria Oliva, Edward Perello, Lydia Slobodian, Delphine Thizy, Daniel Tompkins, Gerd Winter, Karl Campbell, Johanna Elsensohn, Nick Holmes, Chris Farmer, Bradford Keitt, Philip Leftwich, Tom Maloney, Daniel Masiga, Andrew Newhouse, Ben Novak, Ryan Phelan, William Powell, Louise Rollins-Smith, Madeline van Oppen. Genetic frontiers for conservation: An assessment of synthetic biology and biodiversity conservation. IUCN   \n  KH Redford, TM Brooks, NBW Macfarlane, JS Adams, Luke Alphey, Elizabeth Bennet, Jason Delborne, Hilde Eggermont, Kevin Esvelt, Ann Kingirl, Adam Kokotovich, Bartomiej Kolodziejczyk, Todd Kuiken, Aroha Mead, Maria Oliva, Edward Perello, Lydia Slobodian, Delphine Thizy, Daniel Tompkins, Gerd Winter, Karl Campbell, Johanna Elsensohn, Nick Holmes, Chris Farmer, Bradford Keitt, Philip Leftwich, Tom Maloney, Daniel Masiga, Andrew Newhouse, Ben Novak, Ryan Phelan, William Powell, Louise Rollins-Smith, Madeline van Oppen. Genetic frontiers for conservation : an assessment of synthetic biology and biodiversity conservation : technical assessment. IUCN   \n  PT Leftwich*, WJ Nash, LA Friend, T Chapman. Contribution of maternal effects to dietary selection in Mediterranean fruit flies. Evolution   \n\n\n2018\n  Philip T Leftwich*, Matthew P Edgington, Tim Harvey-Samuel, Leonela Z Carabajal Paladino, Victoria C Norman, Luke Alphey. Recent advances in threshold-dependent gene drives for mosquitoes. Biochemical Society Transactions   \n  Philip T Leftwich*, Matt Hutchings, Tracey Chapman. Diet, Gut Microbes and Host Mate Choice: Understanding the significance of microbiome effects on host mate choice requires a case by case evaluation. Bio-Essays   \n  Philip T Leftwich*^ and Tracey Chapman. Testing for Assortative Mating by Diet in Drosophila melanogaster. Bio-Protocol   \n  Philip T Leftwich*, Naomi V. E. Clarke, Matthew I. Hutchings, Tracey Chapman. Gut microbiomes and reproductive isolation in Drosophila. PNAS   \n  Philip T Leftwich*, Naomi V. E. Clarke, Matthew I. Hutchings, Tracey Chapman. Reply to Rosenberg et al.: Diet, gut bacteria, and assortative mating in Drosophila melanogaster. PNAS   \n  Philip T Leftwich*, Naomi V. E. Clarke, Matthew I. Hutchings, Tracey Chapman. Reply to Obadia et al.: Effect of methyl paraben on host–microbiota interactions in Drosophila melanogaster. PNAS   \n\n\n2017\n  Philip T Leftwich*, William J Nash, Lucy A Friend, Tracey Chapman. Adaptation to divergent larval diets in the medfly, Ceratitis capitata. Evolution   \n  Ben Longdon, Jonathan P Day, Nora Schulz, Philip T Leftwich, Maaike A de Jong, Casper J Breuker, Melanie Gibbs, Darren J Obbard, Lena Wilfert, Sophia CL Smith, John E McGonigle, Thomas M Houslay, Lucy I Wright, Luca Livraghi, Luke C Evans, Lucy A Friend, Tracey Chapman, John Vontas, Natasa Kambouraki, Francis M Jiggins. Vertically transmitted rhabdoviruses are found across three insect families and have dynamic interactions with their hosts. Proceedings of the Royal Society B   \n\n\n2016\n  PT Leftwich*, M Bolton, T Chapman. Evolutionary biology and genetic techniques for insect control. Evolutionary Applications   \n\n\n2014\n  Philip T Leftwich*, Martha Koukidou, Polychronis Rempoulakis, Hong-Fei Gong, Antigoni Zacharopoulou, Guoliang Fu, Tracey Chapman, Aris Economopoulos, John Vontas, Luke Alphey. Genetic elimination of field-cage populations of Mediterranean fruit flies. Proceedings of the Royal Society B\n \n\n\n2012\n  PT Leftwich*, DA Edward, L Alphey, MJG Gage, T Chapman. Variation in adult sex ratio alters the association between courtship, mating frequency and paternity in the lek‐forming fruitfly Ceratitis capitata. Journal of Evolutionary Biology"
+    "text": "Genetics · genetic pest management · microbiomes\n\n\n\nI am an Associate Professor in Genetics & Data Science at the University of East Anglia. My work combines insect genetics, microbiomes, synthetic biology, and computational teaching to study and apply genetic technologies in agriculture, public health, and higher education.\n\nExplore research Meet the group View publications"
   },
   {
-    "objectID": "current_workshops/2023-physalia-advanced-r/index.html",
-    "href": "current_workshops/2023-physalia-advanced-r/index.html",
-    "title": "PROGRAMMING IN R : MOVING FROM BEGINNER TO ADVANCED",
-    "section": "",
-    "text": "18th-21st September 2023\nSign up today\n\nOVERVIEW\nThis course is designed for anyone with basic knowledge of R who is looking to enhance their skills and take their programming abilities to the next level. Each session in the course will be hands-on, providing you with practical examples to work through and apply the concepts you’ve learned, and lots of support to answer questions and overcome any challenges.\n\n\nOUTCOMES\nBy the end of the course, you’ll have the skills and confidence to tackle complex programming problems in R and create high-quality reports, figures, and dashboards."
+    "objectID": "index.html#latest-news",
+    "href": "index.html#latest-news",
+    "title": "Philip Leftwich",
+    "section": "Latest news",
+    "text": "Latest news\n\nRecent writing and updates from the site.\n\n\n\n\n\n\n\n\n\n\n\nTHE Campus Resources for academics and university staff\n\n\nA collection of my writings for THE campus between 2022 & 2023\n\n\n\nPhilip Leftwich\n\n\nJan 25, 2023\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "current_workshops/2023-uk-stem/index.html",
-    "href": "current_workshops/2023-uk-stem/index.html",
-    "title": "USING COMPUTER TOOLS TO SUPPORT MOLECULAR BIOLOGY LABS",
-    "section": "",
-    "text": "28th & 29th June 2023\nConference Programme\n\n\nThe electronic lab notebook (ELN) has become a critical tool for researchers to document, manage, and analyze their experiments. ELNs can revolutionize how students learn about and practice experimental design and molecular biology concepts in education. This workshop will focus on Benchling, a comprehensive free-to-use ELN that can help students develop analytical, planning, collaborative, and reflective skills, and will draw on my practice in using this software for level 5 genetics students.\nThe workshop will run in four sections and cover the following topics:\n\nHow to set up and use Benchling, including creating an account, organizing notebooks and experiments, and importing and exporting data.\nHow to organize a classroom on Benchling, including creating assignments, managing student access, and monitoring student progress.\nTeaching concepts in Molecular Biology with web tools, including DNA sequence analysis, CRISPR, plasmid and primer design - there are multiple worksheets participants are free to choose from.\nDeveloping reflective practice with online notebooks, including analyzing experimental data, identifying learning goals, and receiving feedback.\n\nParticipants will learn how to incorporate Benchling into their curriculum to enhance student learning, promote scientific literacy, and develop essential skills for their future careers. The workshop format includes interactive exercises & worksheets and group discussions."
-  },
-  {
-    "objectID": "current_workshops/2023-uk-stem/index.html#information",
-    "href": "current_workshops/2023-uk-stem/index.html#information",
-    "title": "USING COMPUTER TOOLS TO SUPPORT MOLECULAR BIOLOGY LABS",
-    "section": "",
-    "text": "The electronic lab notebook (ELN) has become a critical tool for researchers to document, manage, and analyze their experiments. ELNs can revolutionize how students learn about and practice experimental design and molecular biology concepts in education. This workshop will focus on Benchling, a comprehensive free-to-use ELN that can help students develop analytical, planning, collaborative, and reflective skills, and will draw on my practice in using this software for level 5 genetics students.\nThe workshop will run in four sections and cover the following topics:\n\nHow to set up and use Benchling, including creating an account, organizing notebooks and experiments, and importing and exporting data.\nHow to organize a classroom on Benchling, including creating assignments, managing student access, and monitoring student progress.\nTeaching concepts in Molecular Biology with web tools, including DNA sequence analysis, CRISPR, plasmid and primer design - there are multiple worksheets participants are free to choose from.\nDeveloping reflective practice with online notebooks, including analyzing experimental data, identifying learning goals, and receiving feedback.\n\nParticipants will learn how to incorporate Benchling into their curriculum to enhance student learning, promote scientific literacy, and develop essential skills for their future careers. The workshop format includes interactive exercises & worksheets and group discussions."
-  },
-  {
-    "objectID": "talks_workshops.html",
-    "href": "talks_workshops.html",
-    "title": "Talks & Workshops",
-    "section": "",
-    "text": "A selection of courses, workshops, and teaching sessions focused on genetics, computing, statistics, and data science."
-  },
-  {
-    "objectID": "talks_workshops.html#featured-workshops",
-    "href": "talks_workshops.html#featured-workshops",
-    "title": "Talks & Workshops",
-    "section": "Featured workshops",
-    "text": "Featured workshops\n\n\n\n\n\n\n\n\n\n\nPROGRAMMING IN R : MOVING FROM BEGINNER TO ADVANCED\n\n\nThis course is designed for anyone with basic knowledge of R who is looking to enhance their skills and take their programming abilities to the next level. Each session in…\n\n\n\nPhilip Leftwich\n\n\nSep 18, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\nINTRODUCTION TO STATISTICS IN R FOR BIOLOGISTS AND ECOLOGISTS\n\n\nThis course will introduce scientists and practitioners interested in applying statistical approaches in their daily routine using R as a working environment. Participants…\n\n\n\nPhilip Leftwich\n\n\nJul 17, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\nUSING COMPUTER TOOLS TO SUPPORT MOLECULAR BIOLOGY LABS\n\n\nA workshop at the UK STEM conference in Swansea to demonstrate the power of teaching in-silico analysis tools to support molecular biology labs\n\n\n\nPhilip Leftwich\n\n\nJun 29, 2023\n\n\n\n\n\n\nNo matching items"
+    "objectID": "index.html#teaching-resources",
+    "href": "index.html#teaching-resources",
+    "title": "Philip Leftwich",
+    "section": "Teaching & resources",
+    "text": "Teaching & resources\n\nAcross undergraduate teaching, invited workshops, and open educational resources, I share practical materials for genetics, molecular biology, statistics, and data science.\n\nTalks & workshops Books & teaching resources Recommended links"
   },
   {
     "objectID": "posts.html",
@@ -182,31 +203,10 @@
     "text": "Short updates, writing, and reflections connected to teaching, outreach, and academic practice.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTHE Campus Resources for academics and university staff\n\n\nA collection of my writings for THE campus between 2022 & 2023\n\n\n\nPhilip Leftwich\n\n\nJan 25, 2023\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "posts/the-campus/index.html",
-    "href": "posts/the-campus/index.html",
-    "title": "THE Campus Resources for academics and university staff",
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
     "section": "",
-    "text": "Lorem ipsum\nhere"
-  },
-  {
-    "objectID": "posts/the-campus/index.html#how-to-build-quantitative-evidence-of-your-teaching-expertise",
-    "href": "posts/the-campus/index.html#how-to-build-quantitative-evidence-of-your-teaching-expertise",
-    "title": "THE Campus Resources for academics and university staff",
-    "section": "How to build quantitative evidence of your teaching expertise",
-    "text": "How to build quantitative evidence of your teaching expertise"
-  },
-  {
-    "objectID": "posts/the-campus/index.html#foundations-to-lay-when-teaching-computational-and-data-skills",
-    "href": "posts/the-campus/index.html#foundations-to-lay-when-teaching-computational-and-data-skills",
-    "title": "THE Campus Resources for academics and university staff",
-    "section": "Foundations to lay when teaching computational and data skills",
-    "text": "Foundations to lay when teaching computational and data skills"
-  },
-  {
-    "objectID": "posts/the-campus/index.html#using-online-and-blended-learning-tools-to-teach-data-science-skills",
-    "href": "posts/the-campus/index.html#using-online-and-blended-learning-tools-to-teach-data-science-skills",
-    "title": "THE Campus Resources for academics and university staff",
-    "section": "Using online and blended learning tools to teach data science skills",
-    "text": "Using online and blended learning tools to teach data science skills"
+    "text": "You can also find my articles on Google Scholar. The list below includes recent preprints, journal articles, and collaborative outputs across genetics, synthetic biology, microbiomes, and teaching.\n\n* first author/joint first author; ^ corresponding author\n\npre-print\n  Mireia Larrosa-Godall, Lewis Shackleford, Philip T Leftwich, Estela Gonzalez, Joshua XD Ang, Matthew Edwards, Katherine Nevard, James CY Luk, Morgan Mckee, Rob Noad, Michelle Anderson, Luke Alphey. Knock-in ≠ knock-out: differential fitness effects of cardinal mutations in Anopheles stephensi   \n  Amber SK Hall, Samuel Matthew Shackleton-Chavez, Tracey Chapman, Philip T Leftwich^. A novel polymerase III promoter for gene editing in the agricultural pest Ceratitis capitata   \n  Sebald A.N. Verkuijl, Edward R Ivimey-Cook, Bairu Liu, Michael B Bonsall, Philip T Leftwich^, Nikolai Windbichler. Cross-species meta-analysis reveals determinants of homing gene drive performance   \n\n\n2026\n  Mireia Larossa Godall, Lewis Shackleford, Matthew P Edgington, Philip T Leftwich, James CY Luk, Joshua Southworth, Stewart Rosall, Jake Creasey, Jack Aked, Katherine T Nevard, Alexander Dodds, Morgan Mckee, Eunice Adedeji, Estela Gonzalez, Joshua XD Ang, Michelle AE Anderson, Luke Alphey. Integrating multiplexing into confineable gene drives effectively overrides resistance in Anopheles stephensi   \n  T Harvey-Samuel, R Kaur, Philip T Leftwich, X Feng, V Gantz, L Alphey. Sequence mismatch between gene-drive and target-site flanking regions significantly impairs homing efficiency in Culex quinquefasciatus   \n\n\n2025\n  Colleen Sprigg, Hayley L Whitfield, Philip T Leftwich, Hui-Fen Kuo, Tzyy-Jen Chiou, Adolfo Saiardi, Megan L Shipton, Andrew M Riley, Barry VL Potter, Dawn Scholey, Emily Burton, Mike R Bedford, Charles A Brearley. Phosphorus-specific, liquid chromatography inductively coupled plasma mass spectrometry for analysis of inositol phosphate and inositol pyrophosphate metabolism   \n  Estela Gonzalez, Michelle AE Anderson, Joshua X.D. Ang, Katherine Nevard, Lewis Shackleford, Mireia Larrosa-Godall, Philip T. Leftwich, Luke Alphey. Optimization of SgRNA expression with RNA pol III regulatory elements in Anopheles stephensi   \n  Mireia Larrosa-Godall, Joshua XD Ang, Philip T Leftwich, Estela Gonzalez, Lewis Shackleford, Katherine Nevard, Rob Noad, Michelle AE Anderson, Luke Alphey. Challenges in developing a split drive targeting dsx for the genetic control of the invasive malaria vector Anopheles stephensi   \n\n\n2024\n  Philip T Leftwich^, Jessica Purcell, Michelle Anderson, Rennos Fragkoudis, Sanjay Basu, Gareth T Lycett, Luke Alphey. A synthetic biology approach to transgene expression. ACS Synthetic Biology   \n  Angela Meccariello, Shibo Hou, Serafima Davydova, James Fawcett, Alexandra Siddall, Philip T Leftwich, Flavia Krsticevic, Philippos A Papathanos, Nikolai Windbichler.Gene drive and genetic sex conversion in the global agricultural pest Ceratitis capitata. Nature Communications   \n  Michelle Anderson, Estela Gonzalez, Matthew Edgington, Joshua Ang, Deepak-Kumar Purusothaman, Lewis Shackleford, Katherine Nevard, Sebald Verkuikl, Tim Harvey-Samuel, Philip T Leftwich, Kevin Esvelt, Luke Alphey. A multiplexed, confinable CRISPR/Cas9 gene drive propagates in caged Aedes aegypti populations. Nature Communications   \n\n\n2023\n  Michelle A.E. Anderson, Philip T Leftwich, Ray Wilson, Leonela Z Carabajal Paladino, Sanjay Basu, Sara Rooney, Zach Adelman, Luke Alphey. AePUb promoter length modulates gene expression in Aedes aegypti Scientific Reports   \n  Leonela Z Carabajal Paladino, Ray Wilson, Priscilla Y.L. Tng, Vishaal Dhokiya, Elizabeth Keen, Piotr Cuber, Will Larner, Sara Rooney, Melanie Nicholls, Anastasia Uglow, Luke Williams, Michelle A.E. Anderson, Sanjay Basu, Philip T Leftwich, Luke Alphey. Optimizing CRE and PhiC31 mediated recombination in Aedes aegypti Frontiers in Bioengineering and Biotechnology   \n  Tim Harvey-Samuel, Xuechen Feng, Emily M Okamoto, Deepak-Kumar Purusothaman, Philip T. Leftwich, Luke Alphey, Valentino M Gantz. CRISPR-based gene drives generate super-Mendelian inheritance in the disease vector Culex quinquefasciatus. Nature Communications   \n  Colleen Sprigg, Philip T Leftwich, Emily Burton, Dawn Scholey, Michael R Bedford, Charles A Brearley. Accentuating the positive and eliminating the negative: efficacy of TiO2 as digestibility index marker for poultry nutrition studies. Plos One - In Press   \n\n\n2022\n  Alex Siddall, Tim Harvey-Samuel, Tracey Chapman, Philip T Leftwich^. Manipulating insect sex determination pathways for genetic pest management: opportunities and challenges. Frontiers in Biotechnology and Bioengineering   \n  Darrington M, Leftwich PT*, Holmes NA, Friend LA, Clarke NVE, Worsley SF, Margaritopolous JT, Hogenhout SA, Hutchings MI, Chapman T. Characterisation of the symbionts in the Mediterranean fruitfly gut. Microbial Genomics   \n Xuejiao Xu, Tim Harvey-Samuel, Hamid Anees Siddiqui, Joshua Ang, Michelle E Anderson, Christine Reitmayer, Erica Lovett, Philip T Leftwich, Minsheng You, Luke Alphey . Towards CRISPR/Cas9-based gene drive in the diamondback moth Plutella xylostella. The CRISPR Journal   \n\n\n2021\n  Benjamin J Tully, Joy Buongiorno, Ashley Brooke Cohen, Jacob A Cram, Arkadiy I Garber, Sarah K Hu, Arianna I Krinos, Philip T Leftwich, Alexis Marshall, Ella T Sieradzki, Daan R Speth, Elizabeth A Suter, Christopher B Trivedi, Luis E Valentin-Alvarado, Jake L Weissman, Michael D Lee, Harriet Alexander, R Eric Collins, Maria Pachiadaki, Adelaide CE Rhodes, Wayne Decatur The Bioinformatics Virtual Coordination Network: an open-source and interactive learning environment. Frontiers in Education   \n  Harvey-Samuel TD, Xu X, Lovett E, Dafa’alla T, Walker A, Norman VC,Carter R, Teal J, Akilan L, Leftwich PT, Reitmayer CM, Siddiqui HA, Alphey, L. Engineered expression of the invertebrate-specific scorpion toxin AaHIT reduces adult longevity and female fecundity in the diamondback moth Plutella xylostella. Pest Management Science   \n  Philip T Leftwich*^, Lewis G Spurgin, Tim Harvey-Samuel, Callum Thomas, Leonela Carabajal Paladino, Matthew P. Edgington, Luke S Alphey. Genetic pest management and the background genetics of release strains. Philosophical Transactions of the Royal Society B   \n\n\n2020\n  Philip T Leftwich*^, Matthew Edgington, Tracey Chapman. Transmission efficiency drives host-microbe associations. Proceedings of the Royal Society B   \n  Priscilla YL Tng, Leonela Carabajal Paladino, Sebald Verkuijl, Jessica Purcell, Philip T Leftwich, Rennos Fragkoudis, Rob Noad, Luke Alphey. Cas13b-dependent and -independent RNA knockdown of viral sequences in mosquito cells following guide RNA expression. Communications Biology   \n  Michelle AE Anderson, Jessica Purcell, Sebald AN Verkuijl, Victoria C Norman, Philip T Leftwich, Tim Harvey-Samuel, Luke S Alphey. Expanding the CRISPR Toolbox in Culicine Mosquitoes: In Vitro Validation of Pol III Promoters. ACS Synthetic Biology   \n\n\n2019\n  KH Redford, TM Brooks, NBW Macfarlane, JS Adams, Luke Alphey, Elizabeth Bennet, Jason Delborne, Hilde Eggermont, Kevin Esvelt, Ann Kingirl, Adam Kokotovich, Bartomiej Kolodziejczyk, Todd Kuiken, Aroha Mead, Maria Oliva, Edward Perello, Lydia Slobodian, Delphine Thizy, Daniel Tompkins, Gerd Winter, Karl Campbell, Johanna Elsensohn, Nick Holmes, Chris Farmer, Bradford Keitt, Philip Leftwich, Tom Maloney, Daniel Masiga, Andrew Newhouse, Ben Novak, Ryan Phelan, William Powell, Louise Rollins-Smith, Madeline van Oppen. Genetic frontiers for conservation: An assessment of synthetic biology and biodiversity conservation. IUCN   \n  KH Redford, TM Brooks, NBW Macfarlane, JS Adams, Luke Alphey, Elizabeth Bennet, Jason Delborne, Hilde Eggermont, Kevin Esvelt, Ann Kingirl, Adam Kokotovich, Bartomiej Kolodziejczyk, Todd Kuiken, Aroha Mead, Maria Oliva, Edward Perello, Lydia Slobodian, Delphine Thizy, Daniel Tompkins, Gerd Winter, Karl Campbell, Johanna Elsensohn, Nick Holmes, Chris Farmer, Bradford Keitt, Philip Leftwich, Tom Maloney, Daniel Masiga, Andrew Newhouse, Ben Novak, Ryan Phelan, William Powell, Louise Rollins-Smith, Madeline van Oppen. Genetic frontiers for conservation : an assessment of synthetic biology and biodiversity conservation : technical assessment. IUCN   \n  PT Leftwich*, WJ Nash, LA Friend, T Chapman. Contribution of maternal effects to dietary selection in Mediterranean fruit flies. Evolution   \n\n\n2018\n  Philip T Leftwich*, Matthew P Edgington, Tim Harvey-Samuel, Leonela Z Carabajal Paladino, Victoria C Norman, Luke Alphey. Recent advances in threshold-dependent gene drives for mosquitoes. Biochemical Society Transactions   \n  Philip T Leftwich*, Matt Hutchings, Tracey Chapman. Diet, Gut Microbes and Host Mate Choice: Understanding the significance of microbiome effects on host mate choice requires a case by case evaluation. Bio-Essays   \n  Philip T Leftwich*^ and Tracey Chapman. Testing for Assortative Mating by Diet in Drosophila melanogaster. Bio-Protocol   \n  Philip T Leftwich*, Naomi V. E. Clarke, Matthew I. Hutchings, Tracey Chapman. Gut microbiomes and reproductive isolation in Drosophila. PNAS   \n  Philip T Leftwich*, Naomi V. E. Clarke, Matthew I. Hutchings, Tracey Chapman. Reply to Rosenberg et al.: Diet, gut bacteria, and assortative mating in Drosophila melanogaster. PNAS   \n  Philip T Leftwich*, Naomi V. E. Clarke, Matthew I. Hutchings, Tracey Chapman. Reply to Obadia et al.: Effect of methyl paraben on host–microbiota interactions in Drosophila melanogaster. PNAS   \n\n\n2017\n  Philip T Leftwich*, William J Nash, Lucy A Friend, Tracey Chapman. Adaptation to divergent larval diets in the medfly, Ceratitis capitata. Evolution   \n  Ben Longdon, Jonathan P Day, Nora Schulz, Philip T Leftwich, Maaike A de Jong, Casper J Breuker, Melanie Gibbs, Darren J Obbard, Lena Wilfert, Sophia CL Smith, John E McGonigle, Thomas M Houslay, Lucy I Wright, Luca Livraghi, Luke C Evans, Lucy A Friend, Tracey Chapman, John Vontas, Natasa Kambouraki, Francis M Jiggins. Vertically transmitted rhabdoviruses are found across three insect families and have dynamic interactions with their hosts. Proceedings of the Royal Society B   \n\n\n2016\n  PT Leftwich*, M Bolton, T Chapman. Evolutionary biology and genetic techniques for insect control. Evolutionary Applications   \n\n\n2014\n  Philip T Leftwich*, Martha Koukidou, Polychronis Rempoulakis, Hong-Fei Gong, Antigoni Zacharopoulou, Guoliang Fu, Tracey Chapman, Aris Economopoulos, John Vontas, Luke Alphey. Genetic elimination of field-cage populations of Mediterranean fruit flies. Proceedings of the Royal Society B\n \n\n\n2012\n  PT Leftwich*, DA Edward, L Alphey, MJG Gage, T Chapman. Variation in adult sex ratio alters the association between courtship, mating frequency and paternity in the lek‐forming fruitfly Ceratitis capitata. Journal of Evolutionary Biology"
   }
 ]

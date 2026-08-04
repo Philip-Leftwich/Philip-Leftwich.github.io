@@ -1,8 +1,10 @@
 [
   {
-    "listing": "/index.html",
+    "listing": "/talks_workshops.html",
     "items": [
-      "/posts/the-campus/index.html"
+      "/current_workshops/2023-physalia-advanced-r/index.html",
+      "/current_workshops/2023-physalia-stats-r/index.html",
+      "/current_workshops/2023-uk-stem/index.html"
     ]
   },
   {
@@ -13,11 +15,9 @@
     ]
   },
   {
-    "listing": "/talks_workshops.html",
+    "listing": "/index.html",
     "items": [
-      "/current_workshops/2023-physalia-advanced-r/index.html",
-      "/current_workshops/2023-physalia-stats-r/index.html",
-      "/current_workshops/2023-uk-stem/index.html"
+      "/posts/the-campus/index.html"
     ]
   },
   {
