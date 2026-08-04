@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Philip Leftwich</title>
+<link>https://philip-leftwich.github.io/talks_workshops.html</link>
+<atom:link href="https://philip-leftwich.github.io/talks_workshops.xml" rel="self" type="application/rss+xml"/>
+<description>Genetics, genetic pest management, microbiomes, and data-rich biology teaching at the University of East Anglia.</description>
+<generator>quarto-1.8.27</generator>
+<lastBuildDate>Mon, 18 Sep 2023 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>PROGRAMMING IN R : MOVING FROM BEGINNER TO ADVANCED</title>
+  <dc:creator>Philip Leftwich</dc:creator>
+  <link>https://philip-leftwich.github.io/current_workshops/2023-physalia-advanced-r/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>18th-21st September 2023</p>
+<p><a href="https://www.physalia-courses.org/courses-workshops/course47/"><strong>Sign up today</strong></a></p>
+<section id="overview" class="level1">
+<h1>OVERVIEW</h1>
+<p>This course is designed for anyone with basic knowledge of R who is looking to enhance their skills and take their programming abilities to the next level. Each session in the course will be hands-on, providing you with practical examples to work through and apply the concepts you’ve learned, and lots of support to answer questions and overcome any challenges.</p>
+</section>
+<section id="outcomes" class="level1">
+<h1>OUTCOMES</h1>
+<p>By the end of the course, you’ll have the skills and confidence to tackle complex programming problems in R and create high-quality reports, figures, and dashboards.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>Physalia</category>
+  <guid>https://philip-leftwich.github.io/current_workshops/2023-physalia-advanced-r/</guid>
+  <pubDate>Mon, 18 Sep 2023 00:00:00 GMT</pubDate>
+  <media:content url="https://philip-leftwich.github.io/current_workshops/2023-physalia-advanced-r/advanced-r.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>INTRODUCTION TO STATISTICS IN R FOR BIOLOGISTS AND ECOLOGISTS</title>
+  <dc:creator>Philip Leftwich</dc:creator>
+  <link>https://philip-leftwich.github.io/current_workshops/2023-physalia-stats-r/</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="dates" class="level1">
+<h1>Dates</h1>
+<p>17th-20th July 2023</p>
+<p><a href="https://www.physalia-courses.org/courses-workshops/course13/"><strong>Sign up today</strong></a></p>
+</section>
+<section id="learning-outcomes" class="level1">
+<h1>LEARNING OUTCOMES</h1>
+<ol type="1">
+<li><p>Understand how to read, interpret and write scripts in R.</p></li>
+<li><p>Learn statistical tools to address common questions in research activities.</p></li>
+<li><p>An introduction to efficient, readable and reproducible analyses</p></li>
+<li><p>Being comfortable with using R when performing both descriptive and inferential statistics.</p></li>
+</ol>
+
+
+</section>
+
+ ]]></description>
+  <category>Physalia</category>
+  <guid>https://philip-leftwich.github.io/current_workshops/2023-physalia-stats-r/</guid>
+  <pubDate>Mon, 17 Jul 2023 00:00:00 GMT</pubDate>
+  <media:content url="https://philip-leftwich.github.io/current_workshops/2023-physalia-stats-r/stata.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>USING COMPUTER TOOLS TO SUPPORT MOLECULAR BIOLOGY LABS</title>
+  <dc:creator>Philip Leftwich</dc:creator>
+  <link>https://philip-leftwich.github.io/current_workshops/2023-uk-stem/</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="dates" class="level1">
+<h1>Dates</h1>
+<p>28th &amp; 29th June 2023</p>
+<p><a href="https://ukstemconference.com/2023-conference-programme/"><strong>Conference Programme</strong></a></p>
+<section id="information" class="level2">
+<h2 data-anchor-id="information">Information</h2>
+<p>The electronic lab notebook (ELN) has become a critical tool for researchers to document, manage, and analyze their experiments. ELNs can revolutionize how students learn about and practice experimental design and molecular biology concepts in education. This workshop will focus on Benchling, a comprehensive free-to-use ELN that can help students develop analytical, planning, collaborative, and reflective skills, and will draw on my practice in using this software for level 5 genetics students.</p>
+<p>The workshop will run in four sections and cover the following topics:</p>
+<ul>
+<li><p>How to set up and use Benchling, including creating an account, organizing notebooks and experiments, and importing and exporting data.</p></li>
+<li><p>How to organize a classroom on Benchling, including creating assignments, managing student access, and monitoring student progress.</p></li>
+<li><p>Teaching concepts in Molecular Biology with web tools, including DNA sequence analysis, CRISPR, plasmid and primer design - there are multiple worksheets participants are free to choose from.</p></li>
+<li><p>Developing reflective practice with online notebooks, including analyzing experimental data, identifying learning goals, and receiving feedback.</p></li>
+</ul>
+<p>Participants will learn how to incorporate Benchling into their curriculum to enhance student learning, promote scientific literacy, and develop essential skills for their future careers. The workshop format includes interactive exercises &amp; worksheets and group discussions.</p>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <category>UK STEM</category>
+  <guid>https://philip-leftwich.github.io/current_workshops/2023-uk-stem/</guid>
+  <pubDate>Thu, 29 Jun 2023 00:00:00 GMT</pubDate>
+  <media:content url="https://philip-leftwich.github.io/current_workshops/2023-uk-stem/sequence.png" medium="image" type="image/png" height="40" width="144"/>
+</item>
+</channel>
+</rss>

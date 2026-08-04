@@ -1,42 +1,28 @@
 ---
-title: "talks, courses & workshops"
-subtitle: "a selection of my favorite talks & workshops and associated materials" 
+title: "Talks & Workshops"
+subtitle: "Selected courses, invited sessions, and teaching materials"
 listing:
-- id: current-workshops
-  contents: current_workshops
-  feed: true
-  sort: "date desc"
-  type: grid
-  grid-item-border: true
-  grid-item-align: left
-  max-description-length: 175
-  date-format: medium
-  categories: numbered
-  sort-ui: false
-  filter-ui: false
-- id: talks
-  contents: talks
-  feed: true
-  sort: "date"
-  type: grid
-  grid-item-border: true
-  grid-item-align: left
-  max-description-length: 175
-  date-format: medium
-  categories: numbered
-  sort-ui: false
-  filter-ui: false
-  
+  - id: current-workshops
+    contents: current_workshops
+    feed: true
+    sort: "date desc"
+    type: grid
+    grid-item-border: false
+    grid-item-align: left
+    max-description-length: 175
+    date-format: medium
+    categories: false
+    sort-ui: false
+    filter-ui: false
 page-layout: full
 title-block-banner: false
 ---
 
-## upcoming talks & workshops
-
-:::{#current-workshops}
+::: {.page-intro}
+A selection of courses, workshops, and teaching sessions focused on genetics, computing, statistics, and data science.
 :::
 
-## previous talks & workshops
+## Featured workshops
 
-:::{#talks}
+::: {#current-workshops}
 :::

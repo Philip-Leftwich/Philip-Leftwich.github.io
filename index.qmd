@@ -1,35 +1,94 @@
 ---
 title: ""
-image: images/leftwich.png
+body-classes: home-page
+page-layout: full
 toc: false
-include-after-body: fly.html
-about: 
-  template: jolla
-  image-shape: rounded
-  image-width: 12em
-  links:
-    - icon: linkedin
-      text: LinkedIn
-      href: https://www.linkedin.com/in/philip-leftwich-117052155/
-    - text: "{{< fa brands bluesky >}} Bluesky"
-      href: https://bsky.app/profile/philipleftwich.bsky.social
-    - icon: github
-      text: GitHub
-      href: https://github.com/Philip-Leftwich
-    - icon: envelope
-      text: Email
-      href: mailto:p.leftwich@uea.ac.uk
+listing:
+  - id: latest-news
+    contents: posts
+    sort: "date desc"
+    type: grid
+    grid-item-border: false
+    categories: false
+    max-items: 3
+    max-description-length: 150
 ---
 
+::: {.home-hero}
+::: {.home-hero__content}
 
-<!-- ::: {.small-text} -->
+::: {.home-eyebrow}
+Genetics · genetic pest management · microbiomes
+:::
 
-Hi, I'm Phil! 
+# Philip Leftwich
 
-I am a molecular biologist interested in developing and testing gene drives and other genetic technologies to control pest insect species.
+I am an Associate Professor in Genetics & Data Science at the University of East Anglia. My work combines insect genetics, microbiomes, synthetic biology, and computational teaching to study and apply genetic technologies in agriculture, public health, and higher education.
 
-Currently based at the University of East Anglia I teach across a range of subjects including molecular biology, genetics, statistics and computing skills.
+::: {.home-quicklinks}
+<a class="pill-link" href="about.html">Explore research</a>
+<a class="pill-link pill-link--ghost" href="people.html">Meet the group</a>
+<a class="pill-link pill-link--ghost" href="publications.html">View publications</a>
+:::
 
-On this site you can find information on my research, current projects, and find details about teaching and outreach projects. <!-- ::: -->
+:::
 
+<div class="d-flex align-items-center justify-content-center">
+  <img src="images/leftwich.jpg" alt="Philip Leftwich in a laboratory setting" class="img-fluid rounded shadow" style="max-width: 240px;">
+</div>
+:::
 
+::: {.page-intro}
+This site brings together research, people, publications, teaching, and open resources connected to my work in molecular biology, genetics, data science, and outreach.
+:::
+
+::: {.section-grid}
+<div class="feature-card">
+  <span class="feature-card__meta">Research</span>
+  <h3>Gene drives, microbiomes, and insect genetics</h3>
+  <p>Find current research themes, teaching interests, and project summaries across pest management and symbiosis.</p>
+  <a class="feature-card__link" href="about.html">Read more →</a>
+</div>
+
+<div class="feature-card">
+  <span class="feature-card__meta">People</span>
+  <h3>Current and past group members</h3>
+  <p>Meet students, collaborators, and recent members connected to the group at the University of East Anglia.</p>
+  <a class="feature-card__link" href="people.html">View people →</a>
+</div>
+
+<div class="feature-card">
+  <span class="feature-card__meta">Publications</span>
+  <h3>Recent papers and preprints</h3>
+  <p>Browse publications covering synthetic biology, quantitative genetics, microbiomes, and teaching-focused scholarship.</p>
+  <a class="feature-card__link" href="publications.html">Browse publications →</a>
+</div>
+
+<div class="feature-card">
+  <span class="feature-card__meta">Resources</span>
+  <h3>Teaching materials and workshops</h3>
+  <p>Explore workshops, authored resources, and recommended links for genetics, statistics, and data science teaching.</p>
+  <a class="feature-card__link" href="resources.html">Explore resources →</a>
+</div>
+:::
+
+## Latest news
+
+::: {.page-intro}
+Recent writing and updates from the site.
+:::
+
+::: {#latest-news}
+:::
+
+## Teaching & resources
+
+::: {.section-panel}
+Across undergraduate teaching, invited workshops, and open educational resources, I share practical materials for genetics, molecular biology, statistics, and data science.
+
+::: {.home-quicklinks}
+<a class="pill-link pill-link--ghost" href="talks_workshops.html">Talks & workshops</a>
+<a class="pill-link pill-link--ghost" href="myresources.html">Books & teaching resources</a>
+<a class="pill-link pill-link--ghost" href="resources.html">Recommended links</a>
+:::
+:::

@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>about</title>
+<title>Research – Philip Leftwich</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -37,12 +37,11 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-ed96de9b727972fe78a7b5d16c58bf87.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-4eba6774ca06dc1d9a5cc8c67370b097.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-61aa6f3bce359823986a1f25fa71862b.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <link href="site_libs/quarto-contrib/fontawesome6-1.2.0/all.min.css" rel="stylesheet">
 <link href="site_libs/quarto-contrib/fontawesome6-1.2.0/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
@@ -75,20 +74,20 @@ ul.task-list li input[type="checkbox"] {
 <script>
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-research .list');
+    const listingTargetEl = window.document.querySelector('#listing-research-areas .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
       return; 
     }
 
     const options = {
-      valueNames: ['listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-title","listing-author","listing-image","listing-description","listing-categories"],
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-research'] = new List('listing-research', options);
+    window['quarto-listings']['listing-research-areas'] = new List('listing-research-areas', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -118,8 +117,8 @@ gtag('config', 'G-9SHEWYCPZ9', { 'anonymize_ip': true});
   <!-- Facebook Meta Tags -->
   <meta property="og:url" content="https://philip-leftwich.github.io/">
   <meta property="og:type" content="website">
-  <meta property="og:title" content="about">
-  <meta property="og:description" content="~ a bit more about what I do ~">
+  <meta property="og:title" content="Research – Philip Leftwich">
+  <meta property="og:description" content="Gene drives, microbiomes, and data-rich biology teaching">
   <meta property="og:image" content="https://philip-leftwich.github.io/images/leftwich.png">
 
 
@@ -127,8 +126,8 @@ gtag('config', 'G-9SHEWYCPZ9', { 'anonymize_ip': true});
   <meta name="twitter:card" content="summary_large_image">
   <meta property="twitter:domain" content="philip-leftwich.github.io">
   <meta property="twitter:url" content="https://philip-leftwich.github.io/">
-  <meta name="twitter:title" content="about">
-  <meta name="twitter:description" content="~ a bit more about what I do ~">
+  <meta name="twitter:title" content="Research – Philip Leftwich">
+  <meta name="twitter:description" content="Gene drives, microbiomes, and data-rich biology teaching">
   <meta name="twitter:image" content="https://philip-leftwich.github.io/images/leftwich.png">
   <meta name="twitter:site" content="@philipleftwich">
   <meta name="twitter:text:title" content="Associate Professor in Genetics &amp; Data Science" <!--="" meta="" tags="" generated="" via="" https:="" www.opengraph.xyz="" --="">
@@ -184,16 +183,24 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
+    <a class="nav-link" href="./index.html"> 
+<span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link active" href="./about.html" aria-current="page"> 
-<span class="menu-text">About</span></a>
+<span class="menu-text">Research</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./people.html"> 
+<span class="menu-text">People</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./publications.html"> 
 <span class="menu-text">Publications</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./people.html"> 
-<span class="menu-text">People</span></a>
+    <a class="nav-link" href="./posts.html"> 
+<span class="menu-text">News</span></a>
   </li>  
   <li class="nav-item dropdown ">
     <a class="nav-link dropdown-toggle" href="#" id="nav-menu-resources" role="link" data-bs-toggle="dropdown" aria-expanded="false">
@@ -201,19 +208,23 @@ window.Quarto = {
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-resources">    
         <li>
-    <a class="dropdown-item" href="./talks_workshops.html">
- <span class="dropdown-text">talks, courses &amp; workshops</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="./posts.html">
- <span class="dropdown-text">posts</span></a>
+    <a class="dropdown-item" href="./resources.html">
+ <span class="dropdown-text">Overview</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="./myresources.html">
- <span class="dropdown-text">books &amp; educational resources</span></a>
+ <span class="dropdown-text">Books &amp; teaching resources</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./talks_workshops.html">
+ <span class="dropdown-text">Talks &amp; workshops</span></a>
   </li>  
     </ul>
   </li>
+  <li class="nav-item">
+    <a class="nav-link" href="./contact.html"> 
+<span class="menu-text">Contact</span></a>
+  </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item compact">
@@ -246,29 +257,19 @@ window.Quarto = {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#teaching" id="toc-teaching" class="nav-link active" data-scroll-target="#teaching"><i class="fa-solid fa-chalkboard-teacher" title="A teacher at a chalkboard" aria-label="chalkboard-teacher"></i> Teaching</a></li>
-  <li><a href="#research" id="toc-research" class="nav-link" data-scroll-target="#research"><i class="fa-solid fa-dna" title="A dna helix" aria-label="dna"></i> Research</a></li>
-  <li><a href="#cv" id="toc-cv" class="nav-link" data-scroll-target="#cv"><i class="fa-solid fa-scroll" title="CV" aria-label="scroll"></i> CV</a></li>
-  </ul>
-</nav>
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(2)</span></div></div></div>
+    
 <!-- main -->
-<main class="content column-page-left" id="quarto-document-content">
+<main class="content column-page" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">about</h1>
-<p class="subtitle lead">~ a bit more about what I do ~</p>
+<h1 class="title">Research</h1>
+<p class="subtitle lead">Gene drives, microbiomes, and data-rich biology teaching</p>
 </div>
 
 
 
-<div class="quarto-title-meta column-page-left">
+<div class="quarto-title-meta column-page">
 
     
   
@@ -280,142 +281,42 @@ window.Quarto = {
 </header>
 
 
-<p>I am an <a href="https://research-portal.uea.ac.uk/en/persons/philip-leftwich">Associate Professor in Genetics &amp; Data Science</a> in the School of Biological Sciences at the University of East Anglia. Please see below for my teaching and research interests.</p>
-<section id="teaching" class="level2">
-<h2 class="anchored" data-anchor-id="teaching"><i class="fa-solid fa-chalkboard-teacher" title="A teacher at a chalkboard" aria-label="chalkboard-teacher"></i> Teaching</h2>
-<p>I teach on a number of undergraduate modules in Biological Sciences, with a particular focus on Genetics, Genomics and Data Science.</p>
-<div class="grid">
-<div id="sec-curr" class="g-col-12">
-
+<div class="page-intro">
+<p>I am an <a href="https://research-portal.uea.ac.uk/en/persons/philip-leftwich">Associate Professor in Genetics &amp; Data Science</a> in the School of Biological Sciences at the University of East Anglia. My work connects insect genetics, microbiomes, synthetic biology, and computational teaching across research and higher education.</p>
 </div>
-<div class="g-col-12 g-col-md-4">
-<div class="card h-100">
-<div class="card-body d-flex flex-column">
-<img src="images/data_sci.png" class="card-img-top">
-<h4 class="card-title anchored">
-Data Science
-</h4>
-<p class="card-subtitle">
-5023Y<br> University of East Anglia
-</p>
-<div class="card-text text-center">
-<p>
-</p>
-</div>
-<div class="text-center">
-
-</div>
-</div>
-</div>
-</div>
-<div class="g-col-12 g-col-md-4">
-<div class="card h-100">
-<div class="card-body d-flex flex-column">
-<img src="images/Sanger_Sequencing_heterozygous_point_mutation.png" class="card-img-top">
-<h4 class="card-title anchored">
-Genetics
-</h4>
-<p class="card-subtitle">
-5011<br> University of East Anglia
-</p>
-<div class="card-text text-center">
-<p>
-</p>
-</div>
-<div class="text-center">
-
-</div>
-</div>
-</div>
-</div>
-<div class="g-col-12 g-col-md-4">
-<div class="card h-100">
-<div class="card-body d-flex flex-column">
-<img src="images/drosophila.jpg" class="card-img-top">
-<h4 class="card-title anchored">
-Molecular Biology &amp; Genetics
-</h4>
-<p class="card-subtitle">
-4018A<br> University of East Anglia
-</p>
-<div class="card-text text-center">
-<p>
-</p>
-</div>
-<div class="text-center">
-
-</div>
-</div>
-</div>
-</div>
-<div class="g-col-12 g-col-md-4">
-<div class="card h-100">
-<div class="card-body d-flex flex-column">
-<h4 class="card-title anchored">
-Microbiology
-</h4>
-<p class="card-subtitle">
-5015<br> University of East Anglia
-</p>
-<div class="card-text text-center">
-<p>
-</p>
-</div>
-<div class="text-center">
-
-</div>
-</div>
-</div>
-</div>
-<div class="g-col-12 g-col-md-4">
-<div class="card h-100">
-<div class="card-body d-flex flex-column">
-<h4 class="card-title anchored">
-Genomics
-</h4>
-<p class="card-subtitle">
-6013A<br> University of East Anglia
-</p>
-<div class="card-text text-center">
-<p>
-</p>
-</div>
-<div class="text-center">
-
-</div>
-</div>
-</div>
-</div>
-<div class="g-col-12 g-col-md-4">
-<div class="card h-100">
-<div class="card-body d-flex flex-column">
-<img src="images/ireland.jpg" class="card-img-top">
-<h4 class="card-title anchored">
-Field Ecology
-</h4>
-<p class="card-subtitle">
-5013<br> University of East Anglia
-</p>
-<div class="card-text text-center">
-<p>
-</p>
-</div>
-<div class="text-center">
-
-</div>
-</div>
-</div>
-</div>
-</div>
+<section id="overview" class="level2 section-panel">
+<h2 data-anchor-id="overview">Overview</h2>
+<p>My research is based in molecular genetics and evolutionary biology, with a particular focus on developing and testing genetic technologies for pest control. I am especially interested in gene drive systems, transgene expression, and the evolutionary and practical questions that shape applied genetic pest management.</p>
+<p>Alongside this work, I develop teaching in genetics, genomics, statistics, and data science. That teaching emphasis feeds back into the lab’s broader interest in clear computational practice, open resources, and accessible training.</p>
 </section>
-<section id="research" class="level2">
-<h2 class="anchored" data-anchor-id="research"><i class="fa-solid fa-dna" title="A dna helix" aria-label="dna"></i> Research</h2>
-<p>I conduct research in insect genetics and microbiomes, please click on the topics below to find out more about each.</p>
-<div id="listing-research" class="quarto-listing quarto-listing-container-grid">
+<section id="research-areas" class="level2">
+<h2 data-anchor-id="research-areas">Research areas</h2>
+<div id="listing-research-areas" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-3">
 <div class="g-col-1" data-index="0" data-listing-file-modified-sort="1686844571242" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+<a href="./research/genetic pest managment.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left borderless">
+<p class="card-img-top">
+<img loading="lazy" src="./research/ceratitis.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+genetic pest management
+</h5>
+<div class="card-text listing-description delink">
+<p>My research is based in the emerging field of genetic pest management, focusing particularly on the agricultural pests Ceratitis capitata (medfly), and vector…</p>
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1686844571242" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
 <a href="./research/microbiome.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
+<div class="quarto-grid-item card h-100 card-left borderless">
 <p class="card-img-top">
 <img loading="lazy" src="./research/F2.large.jpg" class="thumbnail-image card-img" style="height: 150px;">
 </p>
@@ -434,34 +335,77 @@ microbiomes
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1686844571242" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
-<a href="./research/genetic pest managment.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./research/ceratitis.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-genetic pest management
-</h5>
-<div class="card-text listing-description delink">
-<p>My research is based in the emerging field of genetic pest management, focusing particularly on the agricultural pests Ceratitis capitata (medfly), and vector arthropods…</p>
-</div>
-<div class="card-attribution card-text-small start">
-<div class="listing-author">
-
-</div>
-</div>
-</div>
-</div></a>
-</div>
 </div>
 <div class="listing-no-matching d-none">No matching items</div>
 </div>
 </section>
+<section id="teaching" class="level2">
+<h2 data-anchor-id="teaching">Teaching</h2>
+<div class="page-intro">
+<p>I teach across undergraduate and postgraduate modules in biological sciences, with a strong focus on genetics, genomics, molecular biology, and data science.</p>
+</div>
+<div class="section-grid">
+<div class="feature-card">
+<span class="feature-card__meta">Teaching</span> <img src="images/data_sci.png" alt="Data science illustration">
+<h3>
+Data Science
+</h3>
+<p>
+5023Y · University of East Anglia
+</p>
+</div>
+<div class="feature-card">
+<span class="feature-card__meta">Teaching</span> <img src="images/Sanger_Sequencing_heterozygous_point_mutation.png" alt="Sanger sequencing example">
+<h3>
+Genetics
+</h3>
+<p>
+5011 · University of East Anglia
+</p>
+</div>
+<div class="feature-card">
+<span class="feature-card__meta">Teaching</span> <img src="images/drosophila.jpg" alt="Drosophila image">
+<h3>
+Molecular Biology &amp; Genetics
+</h3>
+<p>
+4018A · University of East Anglia
+</p>
+</div>
+<div class="feature-card">
+<span class="feature-card__meta">Teaching</span>
+<h3>
+Microbiology
+</h3>
+<p>
+5015 · University of East Anglia
+</p>
+</div>
+<div class="feature-card">
+<span class="feature-card__meta">Teaching</span>
+<h3>
+Genomics
+</h3>
+<p>
+6013A · University of East Anglia
+</p>
+</div>
+<div class="feature-card">
+<span class="feature-card__meta">Teaching</span> <img src="images/ireland.jpg" alt="Field ecology landscape">
+<h3>
+Field Ecology
+</h3>
+<p>
+5013 · University of East Anglia
+</p>
+</div>
+</div>
+</section>
 <section id="cv" class="level2">
-<h2 class="anchored" data-anchor-id="cv"><i class="fa-solid fa-scroll" title="CV" aria-label="scroll"></i> CV</h2>
-<p>You can find a full copy of my CV <a href="https://github.com/Philip-Leftwich/PL_CV/blob/master/Philip_Leftwich_CV.pdf">here</a></p>
+<h2 data-anchor-id="cv">CV</h2>
+<div class="section-panel">
+<p>A full copy of my CV is available <a href="https://github.com/Philip-Leftwich/PL_CV/blob/master/Philip_Leftwich_CV.pdf">on GitHub</a>.</p>
+</div>
 
 
 
@@ -470,13 +414,6 @@ genetic pest management
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
-    const icon = "";
-    const anchorJS = new window.AnchorJS();
-    anchorJS.options = {
-      placement: 'right',
-      icon: icon
-    };
-    anchorJS.add('.anchored');
     const isCodeAnnotation = (el) => {
       for (const clz of el.classList) {
         if (clz.startsWith('code-annotation-')) {                     
@@ -541,7 +478,7 @@ genetic pest management
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/philip\.leftwich\.github\.io\/");
+        var filterRegex = new RegExp("https:\/\/philip-leftwich\.github\.io\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
@@ -872,13 +809,13 @@ genetic pest management
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-      &nbsp;
-    </div>   
+<p><a href="mailto:p.leftwich@uea.ac.uk">Email</a> · <a href="https://github.com/philip-leftwich">GitHub</a> · <a href="https://bsky.app/profile/philipleftwich.bsky.social">Bluesky</a> · <a href="https://www.linkedin.com/in/philip-leftwich-117052155/">LinkedIn</a></p>
+</div>   
     <div class="nav-footer-center">
-      &nbsp;
-    </div>
+<p>School of Biological Sciences · University of East Anglia</p>
+</div>
     <div class="nav-footer-right">
-<p>This website is built with <a href="https://quarto.org/">Quarto</a></p>
+<p>Built with <a href="https://quarto.org/">Quarto</a></p>
 </div>
   </div>
 </footer>

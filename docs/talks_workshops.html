@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>talks, courses &amp; workshops</title>
+<title>Talks &amp; Workshops – Philip Leftwich</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -37,12 +37,11 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-ed96de9b727972fe78a7b5d16c58bf87.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-4eba6774ca06dc1d9a5cc8c67370b097.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-61aa6f3bce359823986a1f25fa71862b.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <link href="site_libs/quarto-contrib/fontawesome6-1.2.0/all.min.css" rel="stylesheet">
 <link href="site_libs/quarto-contrib/fontawesome6-1.2.0/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
@@ -82,41 +81,13 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
     window['quarto-listings']['listing-current-workshops'] = new List('listing-current-workshops', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-talks .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-categories"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-talks'] = new List('listing-talks', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -146,8 +117,8 @@ gtag('config', 'G-9SHEWYCPZ9', { 'anonymize_ip': true});
   <!-- Facebook Meta Tags -->
   <meta property="og:url" content="https://philip-leftwich.github.io/">
   <meta property="og:type" content="website">
-  <meta property="og:title" content="talks, courses &amp; workshops">
-  <meta property="og:description" content="a selection of my favorite talks &amp; workshops and associated materials">
+  <meta property="og:title" content="Talks &amp; Workshops – Philip Leftwich">
+  <meta property="og:description" content="Selected courses, invited sessions, and teaching materials">
   <meta property="og:image" content="https://philip-leftwich.github.io/images/leftwich.png">
 
 
@@ -155,8 +126,8 @@ gtag('config', 'G-9SHEWYCPZ9', { 'anonymize_ip': true});
   <meta name="twitter:card" content="summary_large_image">
   <meta property="twitter:domain" content="philip-leftwich.github.io">
   <meta property="twitter:url" content="https://philip-leftwich.github.io/">
-  <meta name="twitter:title" content="talks, courses &amp; workshops">
-  <meta name="twitter:description" content="a selection of my favorite talks &amp; workshops and associated materials">
+  <meta name="twitter:title" content="Talks &amp; Workshops – Philip Leftwich">
+  <meta name="twitter:description" content="Selected courses, invited sessions, and teaching materials">
   <meta name="twitter:image" content="https://philip-leftwich.github.io/images/leftwich.png">
   <meta name="twitter:site" content="@philipleftwich">
   <meta name="twitter:text:title" content="Associate Professor in Genetics &amp; Data Science" <!--="" meta="" tags="" generated="" via="" https:="" www.opengraph.xyz="" --="">
@@ -192,7 +163,7 @@ window.Quarto = {
 };
 </script>
 
-</head>
+<link rel="alternate" type="application/rss+xml" title="Philip Leftwich" href="talks_workshops.xml" data-external="1"></head>
 
 <body class="nav-fixed quarto-light">
 
@@ -212,16 +183,24 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
+    <a class="nav-link" href="./index.html"> 
+<span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link" href="./about.html"> 
-<span class="menu-text">About</span></a>
+<span class="menu-text">Research</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./people.html"> 
+<span class="menu-text">People</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./publications.html"> 
 <span class="menu-text">Publications</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./people.html"> 
-<span class="menu-text">People</span></a>
+    <a class="nav-link" href="./posts.html"> 
+<span class="menu-text">News</span></a>
   </li>  
   <li class="nav-item dropdown ">
     <a class="nav-link dropdown-toggle" href="#" id="nav-menu-resources" role="link" data-bs-toggle="dropdown" aria-expanded="false">
@@ -229,19 +208,23 @@ window.Quarto = {
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-resources">    
         <li>
-    <a class="dropdown-item" href="./talks_workshops.html">
- <span class="dropdown-text">talks, courses &amp; workshops</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="./posts.html">
- <span class="dropdown-text">posts</span></a>
+    <a class="dropdown-item" href="./resources.html">
+ <span class="dropdown-text">Overview</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="./myresources.html">
- <span class="dropdown-text">books &amp; educational resources</span></a>
+ <span class="dropdown-text">Books &amp; teaching resources</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./talks_workshops.html">
+ <span class="dropdown-text">Talks &amp; workshops</span></a>
   </li>  
     </ul>
   </li>
+  <li class="nav-item">
+    <a class="nav-link" href="./contact.html"> 
+<span class="menu-text">Contact</span></a>
+  </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item compact">
@@ -274,28 +257,19 @@ window.Quarto = {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#upcoming-talks-workshops" id="toc-upcoming-talks-workshops" class="nav-link active" data-scroll-target="#upcoming-talks-workshops">upcoming talks &amp; workshops</a></li>
-  <li><a href="#previous-talks-workshops" id="toc-previous-talks-workshops" class="nav-link" data-scroll-target="#previous-talks-workshops">previous talks &amp; workshops</a></li>
-  </ul>
-</nav>
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(3)</span></div><div class="category" data-category="UGh5c2FsaWE=">Physalia <span class="quarto-category-count">(2)</span></div><div class="category" data-category="VUslMjBTVEVN">UK STEM <span class="quarto-category-count">(1)</span></div></div></div>
+    
 <!-- main -->
-<main class="content column-page-left" id="quarto-document-content">
+<main class="content column-page" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">talks, courses &amp; workshops</h1>
-<p class="subtitle lead">a selection of my favorite talks &amp; workshops and associated materials</p>
+<h1 class="title">Talks &amp; Workshops</h1>
+<p class="subtitle lead">Selected courses, invited sessions, and teaching materials</p>
 </div>
 
 
 
-<div class="quarto-title-meta column-page-left">
+<div class="quarto-title-meta column-page">
 
     
   
@@ -307,13 +281,16 @@ window.Quarto = {
 </header>
 
 
-<section id="upcoming-talks-workshops" class="level2">
-<h2 class="anchored" data-anchor-id="upcoming-talks-workshops">upcoming talks &amp; workshops</h2>
+<div class="page-intro">
+<p>A selection of courses, workshops, and teaching sessions focused on genetics, computing, statistics, and data science.</p>
+</div>
+<section id="featured-workshops" class="level2">
+<h2 data-anchor-id="featured-workshops">Featured workshops</h2>
 <div id="listing-current-workshops" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-3">
 <div class="g-col-1" data-index="0" data-categories="UGh5c2FsaWE=" data-listing-date-sort="1694995200000" data-listing-file-modified-sort="1686844571118" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="90">
 <a href="./current_workshops/2023-physalia-advanced-r/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
+<div class="quarto-grid-item card h-100 card-left borderless">
 <p class="card-img-top">
 <img loading="lazy" src="./current_workshops/2023-physalia-advanced-r/advanced-r.jpg" class="thumbnail-image card-img" style="height: 150px;">
 </p>
@@ -321,11 +298,6 @@ window.Quarto = {
 <h5 class="no-anchor card-title listing-title">
 PROGRAMMING IN R : MOVING FROM BEGINNER TO ADVANCED
 </h5>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('UGh5c2FsaWE='); return false;">Physalia</div>
-
-</div>
 <div class="card-text listing-description delink">
 <p>This course is designed for anyone with basic knowledge of R who is looking to enhance their skills and take their programming abilities to the next level. Each session in…</p>
 </div>
@@ -342,7 +314,7 @@ Sep 18, 2023
 </div>
 <div class="g-col-1" data-index="1" data-categories="UGh5c2FsaWE=" data-listing-date-sort="1689552000000" data-listing-file-modified-sort="1686844571118" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="48">
 <a href="./current_workshops/2023-physalia-stats-r/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
+<div class="quarto-grid-item card h-100 card-left borderless">
 <p class="card-img-top">
 <img loading="lazy" src="./current_workshops/2023-physalia-stats-r/stata.jpg" class="thumbnail-image card-img" style="height: 150px;">
 </p>
@@ -350,11 +322,6 @@ Sep 18, 2023
 <h5 class="no-anchor card-title listing-title">
 INTRODUCTION TO STATISTICS IN R FOR BIOLOGISTS AND ECOLOGISTS
 </h5>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('UGh5c2FsaWE='); return false;">Physalia</div>
-
-</div>
 <div class="card-text listing-description delink">
 <p>This course will introduce scientists and practitioners interested in applying statistical approaches in their daily routine using R as a working environment. Participants…</p>
 </div>
@@ -371,7 +338,7 @@ Jul 17, 2023
 </div>
 <div class="g-col-1" data-index="2" data-categories="VUslMjBTVEVN" data-listing-date-sort="1687996800000" data-listing-file-modified-sort="1686844571118" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="208">
 <a href="./current_workshops/2023-uk-stem/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
+<div class="quarto-grid-item card h-100 card-left borderless">
 <p class="card-img-top">
 <img loading="lazy" src="./current_workshops/2023-uk-stem/sequence.png" class="thumbnail-image card-img" style="height: 150px;">
 </p>
@@ -379,11 +346,6 @@ Jul 17, 2023
 <h5 class="no-anchor card-title listing-title">
 USING COMPUTER TOOLS TO SUPPORT MOLECULAR BIOLOGY LABS
 </h5>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('VUslMjBTVEVN'); return false;">UK STEM</div>
-
-</div>
 <div class="card-text listing-description delink">
 <p>A workshop at the UK STEM conference in Swansea to demonstrate the power of teaching in-silico analysis tools to support molecular biology labs</p>
 </div>
@@ -401,15 +363,6 @@ Jun 29, 2023
 </div>
 <div class="listing-no-matching d-none">No matching items</div>
 </div>
-</section>
-<section id="previous-talks-workshops" class="level2">
-<h2 class="anchored" data-anchor-id="previous-talks-workshops">previous talks &amp; workshops</h2>
-<div id="listing-talks" class="quarto-listing quarto-listing-container-grid">
-<div class="list grid quarto-listing-cols-3">
-
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
-</div>
 
 
 
@@ -418,13 +371,6 @@ Jun 29, 2023
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
-    const icon = "";
-    const anchorJS = new window.AnchorJS();
-    anchorJS.options = {
-      placement: 'right',
-      icon: icon
-    };
-    anchorJS.add('.anchored');
     const isCodeAnnotation = (el) => {
       for (const clz of el.classList) {
         if (clz.startsWith('code-annotation-')) {                     
@@ -489,7 +435,7 @@ Jun 29, 2023
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/philip\.leftwich\.github\.io\/");
+        var filterRegex = new RegExp("https:\/\/philip-leftwich\.github\.io\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
@@ -820,13 +766,13 @@ Jun 29, 2023
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-      &nbsp;
-    </div>   
+<p><a href="mailto:p.leftwich@uea.ac.uk">Email</a> · <a href="https://github.com/philip-leftwich">GitHub</a> · <a href="https://bsky.app/profile/philipleftwich.bsky.social">Bluesky</a> · <a href="https://www.linkedin.com/in/philip-leftwich-117052155/">LinkedIn</a></p>
+</div>   
     <div class="nav-footer-center">
-      &nbsp;
-    </div>
+<p>School of Biological Sciences · University of East Anglia</p>
+</div>
     <div class="nav-footer-right">
-<p>This website is built with <a href="https://quarto.org/">Quarto</a></p>
+<p>Built with <a href="https://quarto.org/">Quarto</a></p>
 </div>
   </div>
 </footer>
