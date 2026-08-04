@@ -143,6 +143,33 @@ code:not(.sourceCode) {
   color: $primary;
 }
 
+@media (min-width: 992px) {
+  #quarto-header .navbar-collapse {
+    align-items: center;
+    gap: 1rem;
+  }
+
+  #quarto-header .navbar-nav.me-auto {
+    display: flex;
+    flex: 1 1 auto;
+    justify-content: space-evenly;
+    width: 100%;
+  }
+
+  #quarto-header .navbar-nav.me-auto > .nav-item {
+    display: flex;
+    flex: 1 1 0;
+    justify-content: center;
+    min-width: 0;
+  }
+
+  #quarto-header .navbar-nav.me-auto > .nav-item > .nav-link {
+    margin-right: 0;
+    text-align: center;
+    width: 100%;
+  }
+}
+
 #quarto-header .navbar-toggler {
   border: 1px solid var(--surface-border);
   border-radius: 999px;
