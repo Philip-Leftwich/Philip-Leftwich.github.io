@@ -2,17 +2,23 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.8.27">
+<meta name="generator" content="quarto-1.10.18">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>other resources</title>
+<title>Resources – Philip Leftwich</title>
 <style>
-code{white-space: pre-wrap;}
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -30,17 +36,18 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-ed96de9b727972fe78a7b5d16c58bf87.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-4eba6774ca06dc1d9a5cc8c67370b097.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-75d54fb1a0a2d409c30b95d70123bd38.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <link href="site_libs/quarto-contrib/fontawesome6-1.2.0/all.min.css" rel="stylesheet">
 <link href="site_libs/quarto-contrib/fontawesome6-1.2.0/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
@@ -70,6 +77,63 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-resource-workshops .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-resource-workshops'] = new List('listing-resource-workshops', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-resource-writing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-resource-writing'] = new List('listing-resource-writing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-9SHEWYCPZ9"></script>
 
 <script type="text/javascript">
@@ -87,8 +151,8 @@ gtag('config', 'G-9SHEWYCPZ9', { 'anonymize_ip': true});
   <!-- Facebook Meta Tags -->
   <meta property="og:url" content="https://philip-leftwich.github.io/">
   <meta property="og:type" content="website">
-  <meta property="og:title" content="other resources">
-  <meta property="og:description" content="a collection of other people’s writings, tutorials, etc. that I find particularly helpful">
+  <meta property="og:title" content="Resources – Philip Leftwich">
+  <meta property="og:description" content="teaching, workshops, writing, and recommended material">
   <meta property="og:image" content="https://philip-leftwich.github.io/images/leftwich.png">
 
 
@@ -96,13 +160,42 @@ gtag('config', 'G-9SHEWYCPZ9', { 'anonymize_ip': true});
   <meta name="twitter:card" content="summary_large_image">
   <meta property="twitter:domain" content="philip-leftwich.github.io">
   <meta property="twitter:url" content="https://philip-leftwich.github.io/">
-  <meta name="twitter:title" content="other resources">
-  <meta name="twitter:description" content="a collection of other people’s writings, tutorials, etc. that I find particularly helpful">
+  <meta name="twitter:title" content="Resources – Philip Leftwich">
+  <meta name="twitter:description" content="teaching, workshops, writing, and recommended material">
   <meta name="twitter:image" content="https://philip-leftwich.github.io/images/leftwich.png">
   <meta name="twitter:site" content="@philipleftwich">
   <meta name="twitter:text:title" content="Associate Professor in Genetics &amp; Data Science" <!--="" meta="" tags="" generated="" via="" https:="" www.opengraph.xyz="" --="">
         
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-chtml.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
@@ -124,8 +217,12 @@ gtag('config', 'G-9SHEWYCPZ9', { 'anonymize_ip': true});
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./about.html"> 
-<span class="menu-text">About</span></a>
+    <a class="nav-link" href="./index.html"> 
+<span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./research.html"> 
+<span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./publications.html"> 
@@ -135,25 +232,10 @@ gtag('config', 'G-9SHEWYCPZ9', { 'anonymize_ip': true});
     <a class="nav-link" href="./people.html"> 
 <span class="menu-text">People</span></a>
   </li>  
-  <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-resources" role="link" data-bs-toggle="dropdown" aria-expanded="false">
- <span class="menu-text">Resources</span>
-    </a>
-    <ul class="dropdown-menu" aria-labelledby="nav-menu-resources">    
-        <li>
-    <a class="dropdown-item" href="./talks_workshops.html">
- <span class="dropdown-text">talks, courses &amp; workshops</span></a>
+  <li class="nav-item">
+    <a class="nav-link active" href="./resources.html" aria-current="page"> 
+<span class="menu-text">Resources</span></a>
   </li>  
-        <li>
-    <a class="dropdown-item" href="./posts.html">
- <span class="dropdown-text">posts</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="./myresources.html">
- <span class="dropdown-text">books &amp; educational resources</span></a>
-  </li>  
-    </ul>
-  </li>
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item compact">
@@ -183,38 +265,23 @@ gtag('config', 'G-9SHEWYCPZ9', { 'anonymize_ip': true});
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#writing" id="toc-writing" class="nav-link active" data-scroll-target="#writing">Writing</a></li>
-  <li><a href="#r-stuff" id="toc-r-stuff" class="nav-link" data-scroll-target="#r-stuff">R stuff</a>
-  <ul class="collapse">
-  <li><a href="#r-tools" id="toc-r-tools" class="nav-link" data-scroll-target="#r-tools"><i class="fa-solid fa-tools" title="A wrench and a screw driver" aria-label="tools"></i> r tools</a></li>
-  <li><a href="#data-viz" id="toc-data-viz" class="nav-link" data-scroll-target="#data-viz"><i class="fa-solid fa-chart-bar" title="A bar chart" aria-label="chart-bar"></i> data viz</a></li>
-  <li><a href="#reporting-presentations" id="toc-reporting-presentations" class="nav-link" data-scroll-target="#reporting-presentations"><i class="fa-solid fa-desktop" title="A desktop computer screen" aria-label="desktop"></i> reporting &amp; presentations</a></li>
-  <li><a href="#learning-materials" id="toc-learning-materials" class="nav-link" data-scroll-target="#learning-materials"><i class="fa-solid fa-book-open" title="An open book" aria-label="book-open"></i> learning materials</a></li>
-  <li><a href="#accessibility" id="toc-accessibility" class="nav-link" data-scroll-target="#accessibility"><i class="fa-solid fa-universal-access" title="The Web Accessibility symbol, which is a person with outstretched arms inside a circle" aria-label="universal-access"></i> accessibility</a></li>
-  </ul></li>
-  </ul>
-</nav>
-    </div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(4)</span></div><div class="category" data-category="UGh5c2FsaWE=">Physalia <span class="quarto-category-count">(2)</span></div><div class="category" data-category="dGVhY2hpbmc=">teaching <span class="quarto-category-count">(1)</span></div><div class="category" data-category="VEhFJTIwY2FtcHVz">THE campus <span class="quarto-category-count">(1)</span></div><div class="category" data-category="VUslMjBTVEVN">UK STEM <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
-<main class="content column-page-left" id="quarto-document-content">
+<main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">other resources</h1>
-<p class="subtitle lead">a collection of other people’s writings, tutorials, etc. that I find particularly helpful</p>
+<h1 class="title">Resources</h1>
+<p class="subtitle lead">teaching, workshops, writing, and recommended material</p>
 </div>
 
 
 
-<div class="quarto-title-meta column-page-left">
+<div class="quarto-title-meta">
 
     
   
@@ -226,45 +293,216 @@ gtag('config', 'G-9SHEWYCPZ9', { 'anonymize_ip': true});
 </header>
 
 
-<section id="writing" class="level2">
-<h2 class="anchored" data-anchor-id="writing">Writing</h2>
+<p>This page brings together the smaller parts of the site into one place: teaching, workshops, writing, and a short list of recommended resources.</p>
+<div class="grid">
+<div class="g-col-12 g-col-md-6">
+<section id="teaching" class="level3 section-card">
+<h3 class="anchored" data-anchor-id="teaching">Teaching</h3>
+<p>Undergraduate and postgraduate teaching in genetics, genomics, molecular biology, statistics, and data science.</p>
 </section>
-<section id="r-stuff" class="level2">
-<h2 class="anchored" data-anchor-id="r-stuff">R stuff</h2>
-<section id="r-tools" class="level3">
-<h3 class="anchored" data-anchor-id="r-tools"><i class="fa-solid fa-tools" title="A wrench and a screw driver" aria-label="tools"></i> r tools</h3>
+</div>
+<div class="g-col-12 g-col-md-6">
+<section id="workshops-talks" class="level3 section-card">
+<h3 class="anchored" data-anchor-id="workshops-talks">Workshops &amp; talks</h3>
+<p>Short courses, invited sessions, and reusable training materials for coding, data visualisation, reproducible reporting, and communication.</p>
+</section>
+</div>
+<div class="g-col-12 g-col-md-6">
+<section id="writing" class="level3 section-card">
+<h3 class="anchored" data-anchor-id="writing">Writing</h3>
+<p>Articles and short pieces focused on teaching, evidence of practice, and communicating quantitative skills.</p>
+</section>
+</div>
+<div class="g-col-12 g-col-md-6">
+<section id="recommended-links" class="level3 section-card">
+<h3 class="anchored" data-anchor-id="recommended-links">Recommended links</h3>
+<p>Selected external tutorials, books, and communities that I return to regularly.</p>
+</section>
+</div>
+</div>
+<section id="teaching-1" class="level2">
+<h2 class="anchored" data-anchor-id="teaching-1">Teaching</h2>
+<p>I teach across a range of modules in biological sciences, with a particular focus on genetics, genomics, molecular biology, statistics, and data science. My teaching materials are designed to support practical, research-connected learning.</p>
 <ul>
-<li><a href="https://fontawesome.com/v5/search?m=free">free icons from fontawesome</a> + the <a href="https://github.com/rstudio/fontawesome"><code>{fontawesome}</code></a> R package for infusing your slides, website, RMarkdowns/Quarto Markdowns, and more with an extra splash of fun</li>
+<li>Data Science</li>
+<li>Genetics</li>
+<li>Molecular Biology &amp; Genetics</li>
+<li>Genomics</li>
+<li>Microbiology</li>
+<li>Field Ecology</li>
 </ul>
 </section>
-<section id="data-viz" class="level3">
-<h3 class="anchored" data-anchor-id="data-viz"><i class="fa-solid fa-chart-bar" title="A bar chart" aria-label="chart-bar"></i> data viz</h3>
+<section id="workshops-talks-1" class="level2">
+<h2 class="anchored" data-anchor-id="workshops-talks-1">Workshops &amp; talks</h2>
+<p>Recent workshops and teaching materials are listed below.</p>
+<div id="listing-resource-workshops" class="quarto-listing quarto-listing-container-grid">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-categories="UGh5c2FsaWE=" data-listing-date-sort="1694995200000" data-listing-file-modified-sort="1785849213330" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="90">
+<a href="./current_workshops/2023-physalia-advanced-r/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./current_workshops/2023-physalia-advanced-r/advanced-r.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+PROGRAMMING IN R : MOVING FROM BEGINNER TO ADVANCED
+</h5>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('UGh5c2FsaWE='); return false;">Physalia</div>
+
+</div>
+<div class="card-text listing-description delink">
+<p>This course is designed for anyone with basic knowledge of R who is looking to enhance their skills and take their programming abilities…</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Philip Leftwich
+</div>
+<div class="listing-date">
+Sep 18, 2023
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="1" data-categories="UGh5c2FsaWE=" data-listing-date-sort="1689552000000" data-listing-file-modified-sort="1785849213330" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="48">
+<a href="./current_workshops/2023-physalia-stats-r/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./current_workshops/2023-physalia-stats-r/stata.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+INTRODUCTION TO STATISTICS IN R FOR BIOLOGISTS AND ECOLOGISTS
+</h5>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('UGh5c2FsaWE='); return false;">Physalia</div>
+
+</div>
+<div class="card-text listing-description delink">
+<p>This course will introduce scientists and practitioners interested in applying statistical approaches in their daily routine using R as a…</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Philip Leftwich
+</div>
+<div class="listing-date">
+Jul 17, 2023
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="2" data-categories="VUslMjBTVEVN" data-listing-date-sort="1687996800000" data-listing-file-modified-sort="1785849213330" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="208">
+<a href="./current_workshops/2023-uk-stem/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./current_workshops/2023-uk-stem/sequence.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+USING COMPUTER TOOLS TO SUPPORT MOLECULAR BIOLOGY LABS
+</h5>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('VUslMjBTVEVN'); return false;">UK STEM</div>
+
+</div>
+<div class="card-text listing-description delink">
+<p>A workshop at the UK STEM conference in Swansea to demonstrate the power of teaching in-silico analysis tools to support molecular biology…</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Philip Leftwich
+</div>
+<div class="listing-date">
+Jun 29, 2023
+</div>
+</div>
+</div>
+</div></a>
+</div>
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
+</div>
+<p><a href="./talks_workshops.html" class="section-link">Browse the workshops page</a></p>
+</section>
+<section id="writing-1" class="level2">
+<h2 class="anchored" data-anchor-id="writing-1">Writing</h2>
+<p>Recent writing is listed below.</p>
+<div id="listing-resource-writing" class="quarto-listing quarto-listing-container-default">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-categories="dGVhY2hpbmclMkNUSEUlMjBjYW1wdXM=" data-listing-date-sort="1674604800000" data-listing-file-modified-sort="1785849213413" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="35">
+<div class="thumbnail"><a href="./posts/the-campus/index.html" class="no-external">
+
+<img loading="lazy" src="./posts/the-campus/quant-teach.jpg" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/the-campus/index.html" class="no-external">THE Campus Resources for academics and university staff</a>
+</h3>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('dGVhY2hpbmc='); return false;">teaching</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('VEhFJTIwY2FtcHVz'); return false;">THE campus</div>
+
+</div>
+<div class="delink listing-description"><a href="./posts/the-campus/index.html" class="no-external">
+<p>A collection of my writings for THE campus between 2022 &amp; 2023</p>
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/the-campus/index.html" class="no-external">
+<div class="listing-date">
+Jan 25, 2023
+</div>
+<div class="listing-author">
+Philip Leftwich
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
+</div>
+<p><a href="./posts.html" class="section-link">Browse the writing page</a></p>
+</section>
+<section id="recommended-resources" class="level2">
+<h2 class="anchored" data-anchor-id="recommended-resources">Recommended resources</h2>
+<section id="r-tools-and-data-visualisation" class="level3">
+<h3 class="anchored" data-anchor-id="r-tools-and-data-visualisation">R tools and data visualisation</h3>
 <ul>
-<li><p><a href="https://cedricscherer.netlify.app/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/">A ggplot2 Tutorial for Beautiful Plotting in R</a>, a fantastic guide to ggplot.</p></li>
-<li><p><a href="https://www.cararthompson.com/talks/rl-cambridge-beautifully-annotated/">Beautifully Annotated: Enhancing your ggplots with Text</a>, by <a href="https://www.cararthompson.com/about.html">Cara Thompson</a>, a seriously wonderful talk on using annotations in your ggplots</p></li>
+<li><a href="https://fontawesome.com/v5/search?m=free">free icons from fontawesome</a> and the <a href="https://github.com/rstudio/fontawesome"><code>{fontawesome}</code></a> R package for adding icons to slides, websites, and reports</li>
+<li><a href="https://cedricscherer.netlify.app/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/">A ggplot2 Tutorial for Beautiful Plotting in R</a></li>
+<li><a href="https://www.cararthompson.com/talks/rl-cambridge-beautifully-annotated/">Beautifully Annotated: Enhancing your ggplots with Text</a></li>
 </ul>
 </section>
-<section id="reporting-presentations" class="level3">
-<h3 class="anchored" data-anchor-id="reporting-presentations"><i class="fa-solid fa-desktop" title="A desktop computer screen" aria-label="desktop"></i> reporting &amp; presentations</h3>
+<section id="reporting-presentation-and-learning-materials" class="level3">
+<h3 class="anchored" data-anchor-id="reporting-presentation-and-learning-materials">Reporting, presentation, and learning materials</h3>
 <ul>
-<li><p>Quarto is all the rage these days (and by these days, I mean post-March 2022). Download and find some great tutorials <a href="https://quarto.org/">here</a> to get started</p></li>
-<li><p><a href="https://arm.rbind.io/slides/xaringan.html#1">Meet xaringan: Making slides in R Markdown</a>, by Allison Hill</p></li>
-<li><p><a href="https://www.garrickadenbuie.com/blog/sharing-xaringan-slides/">Sharing Your <code>xaringan</code> Slides</a>, by Garrick Aden-Buie</p></li>
+<li><a href="https://quarto.org/">Quarto</a></li>
+<li><a href="https://arm.rbind.io/slides/xaringan.html#1">Meet xaringan: Making slides in R Markdown</a></li>
+<li><a href="https://www.garrickadenbuie.com/blog/sharing-xaringan-slides/">Sharing Your <code>xaringan</code> Slides</a></li>
+<li><a href="https://www.bigbookofr.com/">The Big Book of R</a></li>
+<li><a href="https://mastering-shiny.org/index.html">Mastering Shiny</a></li>
+<li><a href="https://happygitwithr.com/">Happy Git and GitHub for the useR</a></li>
+<li><a href="https://r4ds.had.co.nz/">R for Data Science</a></li>
+<li><a href="https://www.w3schools.com/default.asp">W3Schools</a></li>
 </ul>
 </section>
-<section id="learning-materials" class="level3">
-<h3 class="anchored" data-anchor-id="learning-materials"><i class="fa-solid fa-book-open" title="An open book" aria-label="book-open"></i> learning materials</h3>
+<section id="communities-and-biosciences-resources" class="level3">
+<h3 class="anchored" data-anchor-id="communities-and-biosciences-resources">Communities and biosciences resources</h3>
 <ul>
-<li><p>The last R book you will ever need. A comprehensive collection of books on everything R, over 300 titles and most are completely free availabel at <a href="https://www.bigbookofr.com/">The Big Book of R</a></p></li>
-<li><p>Ever feel like you need a pick-me-up while learning stats or a new R tool? Look no further than <a href="https://twitter.com/allison_horst">Allison Horst’s</a> <a href="https://allisonhorst.com/">Data Science Illustrations</a>, featuring the cutest and most educational fuzzy monsters you’ll ever see!</p></li>
-<li><p><a href="https://mastering-shiny.org/index.html">Mastering Shiny</a>, by Hadley Wickham</p></li>
-<li><p><a href="https://happygitwithr.com/">Happy Git and GitHub for the useR</a>, by Jenny Bryan</p></li>
-<li><p><a href="https://r4ds.had.co.nz/">R for Data Science</a>, by Hadley Wickham</p></li>
-<li><p><a href="https://www.w3schools.com/default.asp">W3Schools</a>, particularly for their HTML &amp; CSS tutorials</p></li>
+<li><a href="https://zenodo.org/communities/uea-bio-teaching">Biosciences Teaching and Education Research Zenodo Page</a></li>
+<li><a href="https://ueabio.github.io/Rvolutionary-Biology/">R-volutionary Biology</a></li>
+<li><a href="https://www.skillscop.com/">Skills Community of Practice</a></li>
 </ul>
-</section>
-<section id="accessibility" class="level3">
-<h3 class="anchored" data-anchor-id="accessibility"><i class="fa-solid fa-universal-access" title="The Web Accessibility symbol, which is a person with outstretched arms inside a circle" aria-label="universal-access"></i> accessibility</h3>
+<p><a href="./myresources.html" class="section-link">See the extended reading list</a></p>
+
 
 
 </section>

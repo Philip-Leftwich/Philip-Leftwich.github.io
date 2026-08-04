@@ -2,17 +2,23 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.8.27">
+<meta name="generator" content="quarto-1.10.18">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>posts</title>
+<title>Writing – Philip Leftwich</title>
 <style>
-code{white-space: pre-wrap;}
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -34,15 +40,14 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-ed96de9b727972fe78a7b5d16c58bf87.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-4eba6774ca06dc1d9a5cc8c67370b097.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-75d54fb1a0a2d409c30b95d70123bd38.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <link href="site_libs/quarto-contrib/fontawesome6-1.2.0/all.min.css" rel="stylesheet">
 <link href="site_libs/quarto-contrib/fontawesome6-1.2.0/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
@@ -118,8 +123,8 @@ gtag('config', 'G-9SHEWYCPZ9', { 'anonymize_ip': true});
   <!-- Facebook Meta Tags -->
   <meta property="og:url" content="https://philip-leftwich.github.io/">
   <meta property="og:type" content="website">
-  <meta property="og:title" content="posts">
-  <meta property="og:description" content="">
+  <meta property="og:title" content="Writing – Philip Leftwich">
+  <meta property="og:description" content="articles, blog posts, and short pieces">
   <meta property="og:image" content="https://philip-leftwich.github.io/images/leftwich.png">
 
 
@@ -127,15 +132,15 @@ gtag('config', 'G-9SHEWYCPZ9', { 'anonymize_ip': true});
   <meta name="twitter:card" content="summary_large_image">
   <meta property="twitter:domain" content="philip-leftwich.github.io">
   <meta property="twitter:url" content="https://philip-leftwich.github.io/">
-  <meta name="twitter:title" content="posts">
-  <meta name="twitter:description" content="">
+  <meta name="twitter:title" content="Writing – Philip Leftwich">
+  <meta name="twitter:description" content="articles, blog posts, and short pieces">
   <meta name="twitter:image" content="https://philip-leftwich.github.io/images/leftwich.png">
   <meta name="twitter:site" content="@philipleftwich">
   <meta name="twitter:text:title" content="Associate Professor in Genetics &amp; Data Science" <!--="" meta="" tags="" generated="" via="" https:="" www.opengraph.xyz="" --="">
         
 
   <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-chtml.js" type="text/javascript"></script>
 
 <script type="text/javascript">
 const typesetMath = (el) => {
@@ -184,8 +189,12 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./about.html"> 
-<span class="menu-text">About</span></a>
+    <a class="nav-link" href="./index.html"> 
+<span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./research.html"> 
+<span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./publications.html"> 
@@ -195,25 +204,10 @@ window.Quarto = {
     <a class="nav-link" href="./people.html"> 
 <span class="menu-text">People</span></a>
   </li>  
-  <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-resources" role="link" data-bs-toggle="dropdown" aria-expanded="false">
- <span class="menu-text">Resources</span>
-    </a>
-    <ul class="dropdown-menu" aria-labelledby="nav-menu-resources">    
-        <li>
-    <a class="dropdown-item" href="./talks_workshops.html">
- <span class="dropdown-text">talks, courses &amp; workshops</span></a>
+  <li class="nav-item">
+    <a class="nav-link" href="./resources.html"> 
+<span class="menu-text">Resources</span></a>
   </li>  
-        <li>
-    <a class="dropdown-item" href="./posts.html">
- <span class="dropdown-text">posts</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="./myresources.html">
- <span class="dropdown-text">books &amp; educational resources</span></a>
-  </li>  
-    </ul>
-  </li>
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item compact">
@@ -243,23 +237,23 @@ window.Quarto = {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
     <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(1)</span></div><div class="category" data-category="dGVhY2hpbmc=">teaching <span class="quarto-category-count">(1)</span></div><div class="category" data-category="VEhFJTIwY2FtcHVz">THE campus <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
-<main class="content column-page-left" id="quarto-document-content">
+<main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">posts</h1>
+<h1 class="title">Writing</h1>
+<p class="subtitle lead">articles, blog posts, and short pieces</p>
 </div>
 
 
 
-<div class="quarto-title-meta column-page-left">
+<div class="quarto-title-meta">
 
     
   
@@ -277,7 +271,7 @@ window.Quarto = {
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="dGVhY2hpbmclMkNUSEUlMjBjYW1wdXM=" data-listing-date-sort="1674604800000" data-listing-file-modified-sort="1686844571238" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="35">
+<div class="quarto-post image-right" data-index="0" data-categories="dGVhY2hpbmclMkNUSEUlMjBjYW1wdXM=" data-listing-date-sort="1674604800000" data-listing-file-modified-sort="1785849213413" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="35">
 <div class="thumbnail"><a href="./posts/the-campus/index.html" class="no-external">
 
 <img loading="lazy" src="./posts/the-campus/quant-teach.jpg" class="thumbnail-image">

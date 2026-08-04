@@ -2,17 +2,23 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.8.27">
+<meta name="generator" content="quarto-1.10.18">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>index</title>
+<title>Philip Leftwich</title>
 <style>
-code{white-space: pre-wrap;}
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -30,16 +36,17 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-ed96de9b727972fe78a7b5d16c58bf87.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-4eba6774ca06dc1d9a5cc8c67370b097.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-75d54fb1a0a2d409c30b95d70123bd38.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <link href="site_libs/quarto-contrib/fontawesome6-1.2.0/all.min.css" rel="stylesheet">
 <link href="site_libs/quarto-contrib/fontawesome6-1.2.0/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
@@ -69,6 +76,63 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-latest-writing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-latest-writing'] = new List('listing-latest-writing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-featured-workshops .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-featured-workshops'] = new List('listing-featured-workshops', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-9SHEWYCPZ9"></script>
 
 <script type="text/javascript">
@@ -86,7 +150,7 @@ gtag('config', 'G-9SHEWYCPZ9', { 'anonymize_ip': true});
   <!-- Facebook Meta Tags -->
   <meta property="og:url" content="https://philip-leftwich.github.io/">
   <meta property="og:type" content="website">
-  <meta property="og:title" content="">
+  <meta property="og:title" content="– Philip Leftwich">
   <meta property="og:description" content="">
   <meta property="og:image" content="https://philip-leftwich.github.io/images/leftwich.png">
 
@@ -95,13 +159,42 @@ gtag('config', 'G-9SHEWYCPZ9', { 'anonymize_ip': true});
   <meta name="twitter:card" content="summary_large_image">
   <meta property="twitter:domain" content="philip-leftwich.github.io">
   <meta property="twitter:url" content="https://philip-leftwich.github.io/">
-  <meta name="twitter:title" content="">
+  <meta name="twitter:title" content="– Philip Leftwich">
   <meta name="twitter:description" content="">
   <meta name="twitter:image" content="https://philip-leftwich.github.io/images/leftwich.png">
   <meta name="twitter:site" content="@philipleftwich">
   <meta name="twitter:text:title" content="Associate Professor in Genetics &amp; Data Science" <!--="" meta="" tags="" generated="" via="" https:="" www.opengraph.xyz="" --="">
         
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-chtml.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
@@ -123,8 +216,12 @@ gtag('config', 'G-9SHEWYCPZ9', { 'anonymize_ip': true});
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./about.html"> 
-<span class="menu-text">About</span></a>
+    <a class="nav-link active" href="./index.html" aria-current="page"> 
+<span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./research.html"> 
+<span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./publications.html"> 
@@ -134,25 +231,10 @@ gtag('config', 'G-9SHEWYCPZ9', { 'anonymize_ip': true});
     <a class="nav-link" href="./people.html"> 
 <span class="menu-text">People</span></a>
   </li>  
-  <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-resources" role="link" data-bs-toggle="dropdown" aria-expanded="false">
- <span class="menu-text">Resources</span>
-    </a>
-    <ul class="dropdown-menu" aria-labelledby="nav-menu-resources">    
-        <li>
-    <a class="dropdown-item" href="./talks_workshops.html">
- <span class="dropdown-text">talks, courses &amp; workshops</span></a>
+  <li class="nav-item">
+    <a class="nav-link" href="./resources.html"> 
+<span class="menu-text">Resources</span></a>
   </li>  
-        <li>
-    <a class="dropdown-item" href="./posts.html">
- <span class="dropdown-text">posts</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="./myresources.html">
- <span class="dropdown-text">books &amp; educational resources</span></a>
-  </li>  
-    </ul>
-  </li>
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item compact">
@@ -185,19 +267,196 @@ gtag('config', 'G-9SHEWYCPZ9', { 'anonymize_ip': true});
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(4)</span></div><div class="category" data-category="UGh5c2FsaWE=">Physalia <span class="quarto-category-count">(2)</span></div><div class="category" data-category="dGVhY2hpbmc=">teaching <span class="quarto-category-count">(1)</span></div><div class="category" data-category="VEhFJTIwY2FtcHVz">THE campus <span class="quarto-category-count">(1)</span></div><div class="category" data-category="VUslMjBTVEVN">UK STEM <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
-<div class="quarto-about-jolla column-page">
+<div class="quarto-about-jolla column-page-left">
   <img src="images/leftwich.png" class="about-image
   rounded " style="width: 12em;">
- <header id="title-block-header" class="quarto-title-block"></header><main class="content column-page" id="quarto-document-content">
-<!-- ::: {.small-text} -->
+ <header id="title-block-header" class="quarto-title-block"></header><main class="content column-page-left" id="quarto-document-content">
+<div class="hero-tagline">
+<p>Research, teaching, and data science for modern genetics.</p>
+</div>
 <p>Hi, I’m Phil!</p>
-<p>I am a molecular biologist interested in developing and testing gene drives and other genetic technologies to control pest insect species.</p>
-<p>Currently based at the University of East Anglia I teach across a range of subjects including molecular biology, genetics, statistics and computing skills.</p>
-<p>On this site you can find information on my research, current projects, and find details about teaching and outreach projects. <!-- ::: --></p>
+<p>I am an Associate Professor in Genetics &amp; Data Science at the University of East Anglia. My work spans insect genetics, microbiomes, and quantitative biology, alongside teaching in molecular biology, genetics, statistics, and computing skills.</p>
+<p>Use the sections below to explore my research, publications, collaborators, and teaching materials.</p>
+<div class="grid">
+<div class="g-col-12 g-col-md-6">
+<section id="research" class="level3 section-card">
+<h3 data-anchor-id="research"><a href="./research.html">Research</a></h3>
+<p>Explore the main themes that shape my work, from genetic pest management to microbiome research.</p>
+</section>
+</div>
+<div class="g-col-12 g-col-md-6">
+<section id="publications" class="level3 section-card">
+<h3 data-anchor-id="publications"><a href="./publications.html">Publications</a></h3>
+<p>Browse recent papers, preprints, and past publications, with quick filtering by topic, author, or year.</p>
+</section>
+</div>
+<div class="g-col-12 g-col-md-6">
+<section id="people" class="level3 section-card">
+<h3 data-anchor-id="people"><a href="./people.html">People</a></h3>
+<p>Meet current and past lab members, collaborators, and students who have contributed to the group.</p>
+</section>
+</div>
+<div class="g-col-12 g-col-md-6">
+<section id="resources" class="level3 section-card">
+<h3 data-anchor-id="resources"><a href="./resources.html">Resources</a></h3>
+<p>Find workshops, teaching materials, writing, and recommended links collected in one place.</p>
+</section>
+</div>
+</div>
+<section id="research-at-a-glance" class="level2">
+<h2 data-anchor-id="research-at-a-glance">Research at a glance</h2>
+<p>My research focuses on applied genetics, host-microbe interactions, and the tools needed to study and teach modern biology.</p>
+<div class="grid">
+<div class="g-col-12 g-col-md-6">
+<section id="genetic-pest-management" class="level3 section-card">
+<h3 data-anchor-id="genetic-pest-management">Genetic pest management</h3>
+<p>I work on gene drives, transgene design, and molecular tools for agricultural pests and disease vectors.</p>
+</section>
+</div>
+<div class="g-col-12 g-col-md-6">
+<section id="microbiomes-and-evolution" class="level3 section-card">
+<h3 data-anchor-id="microbiomes-and-evolution">Microbiomes and evolution</h3>
+<p>I study how gut microbes influence physiology, reproduction, and evolutionary dynamics in insect systems.</p>
+</section>
+</div>
+</div>
+</section>
+<section id="featured-activity" class="level2">
+<h2 data-anchor-id="featured-activity">Featured activity</h2>
+<div class="grid">
+<section id="recent-writing" class="level3 g-col-12 g-col-lg-6">
+<h3 data-anchor-id="recent-writing">Recent writing</h3>
+<div id="listing-latest-writing" class="quarto-listing quarto-listing-container-default">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-categories="dGVhY2hpbmclMkNUSEUlMjBjYW1wdXM=" data-listing-date-sort="1674604800000" data-listing-file-modified-sort="1785849213413" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="35">
+<div class="thumbnail"><a href="./posts/the-campus/index.html" class="no-external">
+<img loading="lazy" src="./posts/the-campus/quant-teach.jpg" class="thumbnail-image">
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/the-campus/index.html" class="no-external">THE Campus Resources for academics and university staff</a>
+</h3>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('dGVhY2hpbmc='); return false;">teaching</div>
+<div class="listing-category" onclick="window.quartoListingCategory('VEhFJTIwY2FtcHVz'); return false;">THE campus</div>
+</div>
+<div class="delink listing-description"><a href="./posts/the-campus/index.html" class="no-external">
+<p>A collection of my writings for THE campus between 2022 &amp; 2023</p>
+</a></div>
+</div>
+<div class="metadata">
+<a href="./posts/the-campus/index.html" class="no-external">
+<div class="listing-date">
+Jan 25, 2023
+</div>
+<div class="listing-author">
+Philip Leftwich
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
+</div>
+<p><a href="./posts.html" class="section-link">Browse the writing archive</a></p>
+</section>
+<section id="workshops-teaching-materials" class="level3 g-col-12 g-col-lg-6">
+<h3 data-anchor-id="workshops-teaching-materials">Workshops &amp; teaching materials</h3>
+<div id="listing-featured-workshops" class="quarto-listing quarto-listing-container-grid">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-categories="UGh5c2FsaWE=" data-listing-date-sort="1694995200000" data-listing-file-modified-sort="1785849213330" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="90">
+<a href="./current_workshops/2023-physalia-advanced-r/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./current_workshops/2023-physalia-advanced-r/advanced-r.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+PROGRAMMING IN R : MOVING FROM BEGINNER TO ADVANCED
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('UGh5c2FsaWE='); return false;">Physalia</div>
+</div>
+<div class="card-text listing-description delink">
+<p>This course is designed for anyone with basic knowledge of R who is looking to enhance their skills and take their programming abilities…</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Philip Leftwich
+</div>
+<div class="listing-date">
+Sep 18, 2023
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="1" data-categories="UGh5c2FsaWE=" data-listing-date-sort="1689552000000" data-listing-file-modified-sort="1785849213330" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="48">
+<a href="./current_workshops/2023-physalia-stats-r/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./current_workshops/2023-physalia-stats-r/stata.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+INTRODUCTION TO STATISTICS IN R FOR BIOLOGISTS AND ECOLOGISTS
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('UGh5c2FsaWE='); return false;">Physalia</div>
+</div>
+<div class="card-text listing-description delink">
+<p>This course will introduce scientists and practitioners interested in applying statistical approaches in their daily routine using R as a…</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Philip Leftwich
+</div>
+<div class="listing-date">
+Jul 17, 2023
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="2" data-categories="VUslMjBTVEVN" data-listing-date-sort="1687996800000" data-listing-file-modified-sort="1785849213330" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="208">
+<a href="./current_workshops/2023-uk-stem/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./current_workshops/2023-uk-stem/sequence.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+USING COMPUTER TOOLS TO SUPPORT MOLECULAR BIOLOGY LABS
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('VUslMjBTVEVN'); return false;">UK STEM</div>
+</div>
+<div class="card-text listing-description delink">
+<p>A workshop at the UK STEM conference in Swansea to demonstrate the power of teaching in-silico analysis tools to support molecular biology…</p>
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Philip Leftwich
+</div>
+<div class="listing-date">
+Jun 29, 2023
+</div>
+</div>
+</div>
+</div></a>
+</div>
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
+</div>
+<p><a href="./talks_workshops.html" class="section-link">Browse talks and workshops</a></p>
+</section>
+</div>
 
 
+</section>
 </main> 
   <hr class="about-sep">
    <div class="about-links">

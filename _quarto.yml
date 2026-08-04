@@ -3,6 +3,7 @@ project:
   output-dir: docs
 
 website:
+  title: "Philip Leftwich"
   site-url: https://philip.leftwich.github.io/
   google-analytics: "G-9SHEWYCPZ9"
 
@@ -48,4 +49,3 @@ format:
     toc: true
     include-in-header: 
     - file: "analytics.html"  
-

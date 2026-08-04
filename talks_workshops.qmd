@@ -1,6 +1,6 @@
 ---
-title: "talks, courses & workshops"
-subtitle: "a selection of my favorite talks & workshops and associated materials" 
+title: "Talks & workshops"
+subtitle: "selected workshops, talks, and associated material" 
 listing:
 - id: current-workshops
   contents: current_workshops
@@ -14,29 +14,13 @@ listing:
   categories: numbered
   sort-ui: false
   filter-ui: false
-- id: talks
-  contents: talks
-  feed: true
-  sort: "date"
-  type: grid
-  grid-item-border: true
-  grid-item-align: left
-  max-description-length: 175
-  date-format: medium
-  categories: numbered
-  sort-ui: false
-  filter-ui: false
   
 page-layout: full
 title-block-banner: false
+toc: false
 ---
 
-## upcoming talks & workshops
+## Workshops & teaching material
 
 :::{#current-workshops}
-:::
-
-## previous talks & workshops
-
-:::{#talks}
 :::

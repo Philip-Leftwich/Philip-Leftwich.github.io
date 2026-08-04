@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Talks &amp; workshops – Philip Leftwich</title>
+<title>Research – Philip Leftwich</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -80,20 +80,20 @@ ul.task-list li input[type="checkbox"] {
 <script>
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-current-workshops .list');
+    const listingTargetEl = window.document.querySelector('#listing-research-themes .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
       return; 
     }
 
     const options = {
-      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-current-workshops'] = new List('listing-current-workshops', options);
+    window['quarto-listings']['listing-research-themes'] = new List('listing-research-themes', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -123,8 +123,8 @@ gtag('config', 'G-9SHEWYCPZ9', { 'anonymize_ip': true});
   <!-- Facebook Meta Tags -->
   <meta property="og:url" content="https://philip-leftwich.github.io/">
   <meta property="og:type" content="website">
-  <meta property="og:title" content="Talks &amp; workshops – Philip Leftwich">
-  <meta property="og:description" content="selected workshops, talks, and associated material">
+  <meta property="og:title" content="Research – Philip Leftwich">
+  <meta property="og:description" content="insect genetics, microbiomes, and applied data science">
   <meta property="og:image" content="https://philip-leftwich.github.io/images/leftwich.png">
 
 
@@ -132,8 +132,8 @@ gtag('config', 'G-9SHEWYCPZ9', { 'anonymize_ip': true});
   <meta name="twitter:card" content="summary_large_image">
   <meta property="twitter:domain" content="philip-leftwich.github.io">
   <meta property="twitter:url" content="https://philip-leftwich.github.io/">
-  <meta name="twitter:title" content="Talks &amp; workshops – Philip Leftwich">
-  <meta name="twitter:description" content="selected workshops, talks, and associated material">
+  <meta name="twitter:title" content="Research – Philip Leftwich">
+  <meta name="twitter:description" content="insect genetics, microbiomes, and applied data science">
   <meta name="twitter:image" content="https://philip-leftwich.github.io/images/leftwich.png">
   <meta name="twitter:site" content="@philipleftwich">
   <meta name="twitter:text:title" content="Associate Professor in Genetics &amp; Data Science" <!--="" meta="" tags="" generated="" via="" https:="" www.opengraph.xyz="" --="">
@@ -169,9 +169,9 @@ window.Quarto = {
 };
 </script>
 
-<link rel="alternate" type="application/rss+xml" title="Philip Leftwich" href="talks_workshops.xml" data-external="1"></head>
+<link rel="alternate" type="application/rss+xml" title="Philip Leftwich" href="research.xml" data-external="1"></head>
 
-<body class="nav-fixed quarto-light">
+<body class="nav-fixed fullcontent quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -193,7 +193,7 @@ window.Quarto = {
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./research.html"> 
+    <a class="nav-link active" href="./research.html" aria-current="page"> 
 <span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
@@ -237,23 +237,22 @@ window.Quarto = {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(3)</span></div><div class="category" data-category="UGh5c2FsaWE=">Physalia <span class="quarto-category-count">(2)</span></div><div class="category" data-category="VUslMjBTVEVN">UK STEM <span class="quarto-category-count">(1)</span></div></div></div>
+    
 <!-- main -->
-<main class="content column-page-left" id="quarto-document-content">
+<main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Talks &amp; workshops</h1>
-<p class="subtitle lead">selected workshops, talks, and associated material</p>
+<h1 class="title">Research</h1>
+<p class="subtitle lead">insect genetics, microbiomes, and applied data science</p>
 </div>
 
 
 
-<div class="quarto-title-meta column-page-left">
+<div class="quarto-title-meta">
 
     
   
@@ -265,92 +264,68 @@ window.Quarto = {
 </header>
 
 
-<section id="workshops-teaching-material" class="level2">
-<h2 class="anchored" data-anchor-id="workshops-teaching-material">Workshops &amp; teaching material</h2>
-<div id="listing-current-workshops" class="quarto-listing quarto-listing-container-grid">
+<p>My research centres on genetic technologies for insect control, microbiome-mediated traits, and the experimental workflows that connect laboratory biology with real-world applications.</p>
+<div class="grid">
+<div class="g-col-12 g-col-md-4">
+<section id="genetic-technologies" class="level3 section-card">
+<h3 class="anchored" data-anchor-id="genetic-technologies">Genetic technologies</h3>
+<p>I study gene drives, transgene design, and other molecular tools for controlling pest and vector insect species.</p>
+</section>
+</div>
+<div class="g-col-12 g-col-md-4">
+<section id="host-microbe-interactions" class="level3 section-card">
+<h3 class="anchored" data-anchor-id="host-microbe-interactions">Host-microbe interactions</h3>
+<p>I investigate how insect microbiomes shape development, physiology, behaviour, and evolutionary outcomes.</p>
+</section>
+</div>
+<div class="g-col-12 g-col-md-4">
+<section id="translational-biology" class="level3 section-card">
+<h3 class="anchored" data-anchor-id="translational-biology">Translational biology</h3>
+<p>My work combines experimental genetics, quantitative analysis, and collaborative teaching to make modern biology more usable and more reproducible.</p>
+</section>
+</div>
+</div>
+<section id="research-themes" class="level2">
+<h2 class="anchored" data-anchor-id="research-themes">Research themes</h2>
+<div id="listing-research-themes" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="UGh5c2FsaWE=" data-listing-date-sort="1694995200000" data-listing-file-modified-sort="1785849213330" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="90">
-<a href="./current_workshops/2023-physalia-advanced-r/index.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1785849213416" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+<a href="./research/genetic pest managment.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" src="./current_workshops/2023-physalia-advanced-r/advanced-r.jpg" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" src="./research/ceratitis.jpg" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-PROGRAMMING IN R : MOVING FROM BEGINNER TO ADVANCED
+genetic pest management
 </h5>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('UGh5c2FsaWE='); return false;">Physalia</div>
-
-</div>
 <div class="card-text listing-description delink">
-<p>This course is designed for anyone with basic knowledge of R who is looking to enhance their skills and take their programming abilities to the next level. Each session in…</p>
+<p>My research is based in the emerging field of genetic pest management, focusing particularly on the agricultural pests Ceratitis capitata (medfly), and vector arthropods such as…</p>
 </div>
-<div class="card-attribution card-text-small justify">
+<div class="card-attribution card-text-small start">
 <div class="listing-author">
-Philip Leftwich
-</div>
-<div class="listing-date">
-Sep 18, 2023
+
 </div>
 </div>
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="1" data-categories="UGh5c2FsaWE=" data-listing-date-sort="1689552000000" data-listing-file-modified-sort="1785849213330" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="48">
-<a href="./current_workshops/2023-physalia-stats-r/index.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1785849213416" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+<a href="./research/microbiome.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" src="./current_workshops/2023-physalia-stats-r/stata.jpg" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" src="./research/F2.large.jpg" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-INTRODUCTION TO STATISTICS IN R FOR BIOLOGISTS AND ECOLOGISTS
+microbiomes
 </h5>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('UGh5c2FsaWE='); return false;">Physalia</div>
-
-</div>
 <div class="card-text listing-description delink">
-<p>This course will introduce scientists and practitioners interested in applying statistical approaches in their daily routine using R as a working environment. Participants…</p>
+<p>I also work to investigate the effects of gut microbes on fruitflies (Drosophila and medfly) and explore these effects in terms of the evolutionary associations between hosts and…</p>
 </div>
-<div class="card-attribution card-text-small justify">
+<div class="card-attribution card-text-small start">
 <div class="listing-author">
-Philip Leftwich
-</div>
-<div class="listing-date">
-Jul 17, 2023
-</div>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="2" data-categories="VUslMjBTVEVN" data-listing-date-sort="1687996800000" data-listing-file-modified-sort="1785849213330" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="208">
-<a href="./current_workshops/2023-uk-stem/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./current_workshops/2023-uk-stem/sequence.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-USING COMPUTER TOOLS TO SUPPORT MOLECULAR BIOLOGY LABS
-</h5>
-<div class="listing-categories">
 
-<div class="listing-category" onclick="window.quartoListingCategory('VUslMjBTVEVN'); return false;">UK STEM</div>
-
-</div>
-<div class="card-text listing-description delink">
-<p>A workshop at the UK STEM conference in Swansea to demonstrate the power of teaching in-silico analysis tools to support molecular biology labs</p>
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Philip Leftwich
-</div>
-<div class="listing-date">
-Jun 29, 2023
 </div>
 </div>
 </div>
@@ -359,6 +334,15 @@ Jun 29, 2023
 </div>
 <div class="listing-no-matching d-none">No matching items</div>
 </div>
+</section>
+<section id="selected-recent-outputs" class="level2">
+<h2 class="anchored" data-anchor-id="selected-recent-outputs">Selected recent outputs</h2>
+<ul>
+<li><a href="https://doi.org/10.1038/s41467-026-72835-5">Integrating multiplexing into confineable gene drives effectively overrides resistance in <em>Anopheles stephensi</em></a></li>
+<li><a href="https://pubs.acs.org/doi/10.1021/acssynbio.4c00250">A synthetic biology approach to transgene expression</a></li>
+<li><a href="https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-025-06688-0">Challenges in developing a split drive targeting dsx for the genetic control of the invasive malaria vector <em>Anopheles stephensi</em></a></li>
+</ul>
+<p>For a complete publication list, visit <a href="./publications.html">Publications</a>.</p>
 
 
 
