@@ -11,7 +11,6 @@ listing:
     grid-item-border: false
     categories: false
     max-items: 3
-    image-align: top
     max-description-length: 150
 ---
 

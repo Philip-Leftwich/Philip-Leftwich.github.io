@@ -25,12 +25,6 @@ If you would like to discuss research, teaching, invited workshops, or potential
 <div class="contact-card">
   <h3>Profiles</h3>
   <p>Find publications, updates, and code across the linked profiles below.</p>
-  <div class="icon-links">
-    <a href="https://research-portal.uea.ac.uk/en/persons/philip-leftwich" aria-label="UEA profile"><i>{{< fa landmark >}}</i></a>
-    <a href="https://orcid.org/0000-0001-9500-6592" aria-label="ORCID"><i>{{< fa brands orcid >}}</i></a>
-    <a href="https://github.com/philip-leftwich" aria-label="GitHub"><i>{{< fa brands github >}}</i></a>
-    <a href="https://www.linkedin.com/in/philip-leftwich-117052155/" aria-label="LinkedIn"><i>{{< fa brands linkedin >}}</i></a>
-    <a href="https://bsky.app/profile/philipleftwich.bsky.social" aria-label="Bluesky"><i>{{< fa brands bluesky >}}</i></a>
-  </div>
+  <p class="link-row"><a href="https://research-portal.uea.ac.uk/en/persons/philip-leftwich">UEA profile</a> · <a href="https://orcid.org/0000-0001-9500-6592">ORCID</a> · <a href="https://github.com/philip-leftwich">GitHub</a> · <a href="https://www.linkedin.com/in/philip-leftwich-117052155/">LinkedIn</a> · <a href="https://bsky.app/profile/philipleftwich.bsky.social">Bluesky</a></p>
 </div>
 :::

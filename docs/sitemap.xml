@@ -1,59 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://philip.leftwich.github.io/myresources.html</loc>
-    <lastmod>2023-06-27T15:56:35.304Z</lastmod>
+    <loc>https://philip-leftwich.github.io/index.html</loc>
+    <lastmod>2026-08-04T13:45:58.558Z</lastmod>
   </url>
   <url>
-    <loc>https://philip.leftwich.github.io/posts.html</loc>
-    <lastmod>2023-06-15T15:56:11.238Z</lastmod>
+    <loc>https://philip-leftwich.github.io/research/genetic pest managment.html</loc>
+    <lastmod>2026-08-04T13:39:09.322Z</lastmod>
   </url>
   <url>
-    <loc>https://philip.leftwich.github.io/index.html</loc>
-    <lastmod>2026-07-14T11:52:25.997Z</lastmod>
+    <loc>https://philip-leftwich.github.io/contact.html</loc>
+    <lastmod>2026-08-04T13:47:00.433Z</lastmod>
   </url>
   <url>
-    <loc>https://philip.leftwich.github.io/about.html</loc>
-    <lastmod>2023-06-15T15:56:11.118Z</lastmod>
+    <loc>https://philip-leftwich.github.io/people.html</loc>
+    <lastmod>2026-08-04T13:47:00.426Z</lastmod>
   </url>
   <url>
-    <loc>https://philip.leftwich.github.io/research/genetic pest managment.html</loc>
-    <lastmod>2023-06-15T15:56:11.242Z</lastmod>
+    <loc>https://philip-leftwich.github.io/resources.html</loc>
+    <lastmod>2026-08-04T13:44:19.376Z</lastmod>
   </url>
   <url>
-    <loc>https://philip.leftwich.github.io/current_workshops/2023-uk-stem/index.html</loc>
-    <lastmod>2023-06-15T15:56:11.118Z</lastmod>
+    <loc>https://philip-leftwich.github.io/current_workshops/2023-physalia-stats-r/index.html</loc>
+    <lastmod>2026-08-04T13:39:09.229Z</lastmod>
   </url>
   <url>
-    <loc>https://philip.leftwich.github.io/current_workshops/2023-physalia-advanced-r/index.html</loc>
-    <lastmod>2023-06-15T15:56:11.118Z</lastmod>
+    <loc>https://philip-leftwich.github.io/myresources.html</loc>
+    <lastmod>2026-08-04T13:44:19.377Z</lastmod>
   </url>
   <url>
-    <loc>https://philip.leftwich.github.io/people.html</loc>
-    <lastmod>2025-04-09T12:33:50.566Z</lastmod>
+    <loc>https://philip-leftwich.github.io/about.html</loc>
+    <lastmod>2026-08-04T13:44:19.373Z</lastmod>
   </url>
   <url>
-    <loc>https://philip.leftwich.github.io/current_workshops/2023-physalia-stats-r/index.html</loc>
-    <lastmod>2023-06-15T15:56:11.118Z</lastmod>
+    <loc>https://philip-leftwich.github.io/publications.html</loc>
+    <lastmod>2026-08-04T13:44:24.664Z</lastmod>
   </url>
   <url>
-    <loc>https://philip.leftwich.github.io/research/microbiome.html</loc>
-    <lastmod>2023-06-15T15:56:11.242Z</lastmod>
+    <loc>https://philip-leftwich.github.io/current_workshops/2023-physalia-advanced-r/index.html</loc>
+    <lastmod>2026-08-04T13:39:09.229Z</lastmod>
   </url>
   <url>
-    <loc>https://philip.leftwich.github.io/talks_workshops.html</loc>
-    <lastmod>2023-06-15T15:56:11.254Z</lastmod>
+    <loc>https://philip-leftwich.github.io/current_workshops/2023-uk-stem/index.html</loc>
+    <lastmod>2026-08-04T13:39:09.229Z</lastmod>
   </url>
   <url>
-    <loc>https://philip.leftwich.github.io/resources.html</loc>
-    <lastmod>2023-06-15T15:56:11.254Z</lastmod>
+    <loc>https://philip-leftwich.github.io/talks_workshops.html</loc>
+    <lastmod>2026-08-04T13:44:19.375Z</lastmod>
   </url>
   <url>
-    <loc>https://philip.leftwich.github.io/posts/the-campus/index.html</loc>
-    <lastmod>2023-06-15T15:56:11.238Z</lastmod>
+    <loc>https://philip-leftwich.github.io/posts.html</loc>
+    <lastmod>2026-08-04T13:45:58.565Z</lastmod>
   </url>
   <url>
-    <loc>https://philip.leftwich.github.io/publications.html</loc>
-    <lastmod>2026-07-15T13:23:31.933Z</lastmod>
+    <loc>https://philip-leftwich.github.io/posts/the-campus/index.html</loc>
+    <lastmod>2026-08-04T13:39:09.319Z</lastmod>
+  </url>
+  <url>
+    <loc>https://philip-leftwich.github.io/research/microbiome.html</loc>
+    <lastmod>2026-08-04T13:39:09.322Z</lastmod>
   </url>
 </urlset>

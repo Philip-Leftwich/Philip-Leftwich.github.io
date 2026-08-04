@@ -6,7 +6,6 @@ listing:
   sort: "date desc"
   type: grid
   grid-item-border: false
-  image-align: top
   max-description-length: 160
   date-format: medium
   categories: false

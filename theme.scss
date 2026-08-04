@@ -380,6 +380,12 @@ main.content {
   color: $primary;
 }
 
+.link-row {
+  color: var(--muted);
+  font-size: 0.95rem;
+  margin-top: 1rem;
+}
+
 .profile-card img {
   aspect-ratio: 4 / 5;
   margin-bottom: 1rem;

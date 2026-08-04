@@ -1,6 +1,6 @@
 [
   {
-    "listing": "/posts.html",
+    "listing": "/index.html",
     "items": [
       "/posts/the-campus/index.html"
     ]
@@ -8,8 +8,8 @@
   {
     "listing": "/about.html",
     "items": [
-      "/research/microbiome.html",
-      "/research/genetic pest managment.html"
+      "/research/genetic pest managment.html",
+      "/research/microbiome.html"
     ]
   },
   {
@@ -18,6 +18,12 @@
       "/current_workshops/2023-physalia-advanced-r/index.html",
       "/current_workshops/2023-physalia-stats-r/index.html",
       "/current_workshops/2023-uk-stem/index.html"
+    ]
+  },
+  {
+    "listing": "/posts.html",
+    "items": [
+      "/posts/the-campus/index.html"
     ]
   }
 ]

@@ -17,13 +17,7 @@ The group brings together research and teaching interests in genetics, molecular
   <div class="profile-card__role">Associate Professor · University of East Anglia</div>
   <h3>Dr Philip Leftwich</h3>
   <p>Molecular biologist working on genetic pest management, insect genetics, microbiomes, and computational teaching.</p>
-  <div class="icon-links">
-    <a href="https://research-portal.uea.ac.uk/en/persons/philip-leftwich" aria-label="UEA profile"><i>{{< fa landmark >}}</i></a>
-    <a href="https://bsky.app/profile/philipleftwich.bsky.social" aria-label="Bluesky"><i>{{< fa brands bluesky >}}</i></a>
-    <a href="https://orcid.org/0000-0001-9500-6592" aria-label="ORCID"><i>{{< fa brands orcid >}}</i></a>
-    <a href="https://github.com/philip-leftwich" aria-label="GitHub"><i>{{< fa brands github >}}</i></a>
-    <a href="mailto:p.leftwich@uea.ac.uk" aria-label="Email"><i>{{< fa envelope >}}</i></a>
-  </div>
+  <p class="link-row"><a href="https://research-portal.uea.ac.uk/en/persons/philip-leftwich">UEA profile</a> · <a href="https://orcid.org/0000-0001-9500-6592">ORCID</a> · <a href="https://github.com/philip-leftwich">GitHub</a> · <a href="https://bsky.app/profile/philipleftwich.bsky.social">Bluesky</a> · <a href="mailto:p.leftwich@uea.ac.uk">Email</a></p>
 </article>
 
 <article class="profile-card" id="matthew-shackleton-chavez">
@@ -31,10 +25,7 @@ The group brings together research and teaching interests in genetics, molecular
   <div class="profile-card__role">PhD Student · University of East Anglia</div>
   <h3>Matthew Shackleton-Chavez</h3>
   <p>Doctoral researcher contributing to genetics and molecular biology projects within the group.</p>
-  <div class="icon-links">
-    <a href="https://www.linkedin.com/in/samuel-matthew-s-5698131ba/" aria-label="LinkedIn"><i>{{< fa brands linkedin >}}</i></a>
-    <a href="mailto:s.shackleton-chavez@uea.ac.uk" aria-label="Email"><i>{{< fa envelope >}}</i></a>
-  </div>
+  <p class="link-row"><a href="https://www.linkedin.com/in/samuel-matthew-s-5698131ba/">LinkedIn</a> · <a href="mailto:s.shackleton-chavez@uea.ac.uk">Email</a></p>
 </article>
 
 <article class="profile-card" id="katie-millar">
@@ -42,11 +33,7 @@ The group brings together research and teaching interests in genetics, molecular
   <div class="profile-card__role">PhD Student · University of East Anglia</div>
   <h3>Katie Millar</h3>
   <p>Doctoral researcher working at the interface of genetics, biological data, and open scientific communication.</p>
-  <div class="icon-links">
-    <a href="https://bsky.app/profile/katiemillar.bsky.social" aria-label="Bluesky"><i>{{< fa brands bluesky >}}</i></a>
-    <a href="https://www.linkedin.com/in/katie-millar-15bb56236" aria-label="LinkedIn"><i>{{< fa brands linkedin >}}</i></a>
-    <a href="mailto:katie.millar@uea.ac.uk" aria-label="Email"><i>{{< fa envelope >}}</i></a>
-  </div>
+  <p class="link-row"><a href="https://bsky.app/profile/katiemillar.bsky.social">Bluesky</a> · <a href="https://www.linkedin.com/in/katie-millar-15bb56236">LinkedIn</a> · <a href="mailto:katie.millar@uea.ac.uk">Email</a></p>
 </article>
 :::
 
@@ -58,10 +45,7 @@ The group brings together research and teaching interests in genetics, molecular
   <div class="profile-card__role">PhD Student</div>
   <h3>Alex Siddall</h3>
   <p class="profile-card__project"><strong>Project:</strong> Genetic control in medfly.</p>
-  <div class="icon-links">
-    <a href="https://twitter.com/alx_sdd" aria-label="Twitter"><i>{{< fa brands twitter >}}</i></a>
-    <a href="mailto:a.siddall@uea.ac.uk" aria-label="Email"><i>{{< fa envelope >}}</i></a>
-  </div>
+  <p class="link-row"><a href="https://twitter.com/alx_sdd">Twitter</a> · <a href="mailto:a.siddall@uea.ac.uk">Email</a></p>
 </article>
 
 <article class="profile-card" id="joerel-gestopa">
