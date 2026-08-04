@@ -6,15 +6,15 @@
       version="2.0">
 <channel>
 <title>Philip Leftwich</title>
-<link>https://philip.leftwich.github.io/talks_workshops.html</link>
-<atom:link href="https://philip.leftwich.github.io/talks_workshops.xml" rel="self" type="application/rss+xml"/>
+<link>https://philip-leftwich.github.io/talks_workshops.html</link>
+<atom:link href="https://philip-leftwich.github.io/talks_workshops.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.10.18</generator>
 <lastBuildDate>Mon, 18 Sep 2023 00:00:00 GMT</lastBuildDate>
 <item>
   <title>PROGRAMMING IN R : MOVING FROM BEGINNER TO ADVANCED</title>
   <dc:creator>Philip Leftwich</dc:creator>
-  <link>https://philip.leftwich.github.io/current_workshops/2023-physalia-advanced-r/</link>
+  <link>https://philip-leftwich.github.io/current_workshops/2023-physalia-advanced-r/</link>
   <description><![CDATA[ 
 
 
@@ -35,14 +35,14 @@
 
  ]]></description>
   <category>Physalia</category>
-  <guid>https://philip.leftwich.github.io/current_workshops/2023-physalia-advanced-r/</guid>
+  <guid>https://philip-leftwich.github.io/current_workshops/2023-physalia-advanced-r/</guid>
   <pubDate>Mon, 18 Sep 2023 00:00:00 GMT</pubDate>
-  <media:content url="https://philip.leftwich.github.io/current_workshops/2023-physalia-advanced-r/advanced-r.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://philip-leftwich.github.io/current_workshops/2023-physalia-advanced-r/advanced-r.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>INTRODUCTION TO STATISTICS IN R FOR BIOLOGISTS AND ECOLOGISTS</title>
   <dc:creator>Philip Leftwich</dc:creator>
-  <link>https://philip.leftwich.github.io/current_workshops/2023-physalia-stats-r/</link>
+  <link>https://philip-leftwich.github.io/current_workshops/2023-physalia-stats-r/</link>
   <description><![CDATA[ 
 
 
@@ -67,14 +67,14 @@
 
  ]]></description>
   <category>Physalia</category>
-  <guid>https://philip.leftwich.github.io/current_workshops/2023-physalia-stats-r/</guid>
+  <guid>https://philip-leftwich.github.io/current_workshops/2023-physalia-stats-r/</guid>
   <pubDate>Mon, 17 Jul 2023 00:00:00 GMT</pubDate>
-  <media:content url="https://philip.leftwich.github.io/current_workshops/2023-physalia-stats-r/stata.jpg" medium="image" type="image/jpeg"/>
+  <media:content url="https://philip-leftwich.github.io/current_workshops/2023-physalia-stats-r/stata.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>USING COMPUTER TOOLS TO SUPPORT MOLECULAR BIOLOGY LABS</title>
   <dc:creator>Philip Leftwich</dc:creator>
-  <link>https://philip.leftwich.github.io/current_workshops/2023-uk-stem/</link>
+  <link>https://philip-leftwich.github.io/current_workshops/2023-uk-stem/</link>
   <description><![CDATA[ 
 
 
@@ -102,9 +102,9 @@
 
  ]]></description>
   <category>UK STEM</category>
-  <guid>https://philip.leftwich.github.io/current_workshops/2023-uk-stem/</guid>
+  <guid>https://philip-leftwich.github.io/current_workshops/2023-uk-stem/</guid>
   <pubDate>Thu, 29 Jun 2023 00:00:00 GMT</pubDate>
-  <media:content url="https://philip.leftwich.github.io/current_workshops/2023-uk-stem/sequence.png" medium="image" type="image/png" height="40" width="144"/>
+  <media:content url="https://philip-leftwich.github.io/current_workshops/2023-uk-stem/sequence.png" medium="image" type="image/png" height="40" width="144"/>
 </item>
 </channel>
 </rss>
