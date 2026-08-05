@@ -12,6 +12,7 @@ The group brings together research and teaching interests in genetics, molecular
 ## Current members {#sec-curr}
 
 ::: {.profile-grid}
+
 <article class="profile-card" id="philip-leftwich">
   <img src="images/leftwich.png" alt="Portrait of Dr Philip Leftwich">
   <div class="profile-card__role">Associate Professor · University of East Anglia</div>
@@ -43,6 +44,15 @@ The group brings together research and teaching interests in genetics, molecular
   <h3>Amber Hall</h3>
   <p>Doctoral researcher working on the applications of the sex determination pathways in pest insects.</p>
   <p class="link-row"><a href="https://bsky.app/profile/amberhall.bsky.social">Bluesky</a> · <a href="https://www.linkedin.com/in/amber-hall-622bb7206">LinkedIn</a> · <a href="mailto:amber.hall@uea.ac.uk">Email</a></p>
+</article>
+
+
+<article class="profile-card" id="J-C">
+  <img src="images/blank.webp" alt="Placeholder portrait for Jean Charles de Coriolis">
+  <div class="profile-card__role">BBSRC funded Senior Postdoctoral Research Associate · University of East Anglia</div>
+  <h3>Jean Charles de Coriolis</h3>
+  <p> Single nuclei transcriptomics of the Mediterranean fruit fly</p>
+  <p class="link-row"> <a href="mailto:J.De-Coriolis@uea.ac.uk">Email</a></p>
 </article>
 
 
@@ -79,4 +89,5 @@ The group brings together research and teaching interests in genetics, molecular
   <h3>Jacob Rose</h3>
   <p class="profile-card__project"><strong>Project:</strong> Developing Cas9 transgenics in the red flour beetle.</p>
 </article>
+
 :::
