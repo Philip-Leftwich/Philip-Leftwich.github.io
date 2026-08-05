@@ -6,7 +6,7 @@ website:
   title: "Philip Leftwich"
   description: "Genetics, genetic pest management, microbiomes, and data-rich biology teaching at the University of East Anglia."
   site-url: https://philip-leftwich.github.io/
-  favicon: images/favicon.svg
+  favicon: images/fly_transparent.png
   google-analytics: "G-9SHEWYCPZ9"
   navbar:
     title: "Philip Leftwich"
