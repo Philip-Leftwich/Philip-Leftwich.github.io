@@ -35,67 +35,81 @@
     "text": "If you would like to discuss research, teaching, invited workshops, or potential collaborations, please get in touch using the details below.\n\n\n\n\nEmail\n\n\np.leftwich@uea.ac.uk\n\n\nBest for research enquiries, collaborations, and teaching-related questions.\n\n\n\n\nInstitution\n\n\nSchool of Biological Sciences\n\n\nUniversity of East Anglia\n\n\n\n\nProfiles\n\n\nFind publications, updates, and code across the linked profiles below.\n\n\nUEA profile · ORCID · GitHub · LinkedIn · Bluesky"
   },
   {
-    "objectID": "posts/the-campus/index.html",
-    "href": "posts/the-campus/index.html",
-    "title": "THE Campus Resources for academics and university staff",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Philip Leftwich",
     "section": "",
-    "text": "Lorem ipsum\nhere"
+    "text": "Genetics · genetic pest management · microbiomes\n\n\n\nI am an Associate Professor in Genetics & Data Science at the University of East Anglia. My work combines insect genetics, microbiomes, synthetic biology, and computational teaching to study and apply genetic technologies in agriculture, public health, and higher education.\n\nExplore research Meet the group View publications"
   },
   {
-    "objectID": "posts/the-campus/index.html#how-to-build-quantitative-evidence-of-your-teaching-expertise",
-    "href": "posts/the-campus/index.html#how-to-build-quantitative-evidence-of-your-teaching-expertise",
-    "title": "THE Campus Resources for academics and university staff",
-    "section": "How to build quantitative evidence of your teaching expertise",
-    "text": "How to build quantitative evidence of your teaching expertise"
+    "objectID": "index.html#latest-news",
+    "href": "index.html#latest-news",
+    "title": "Philip Leftwich",
+    "section": "Latest news",
+    "text": "Latest news\n\nRecent writing and updates from the site.\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "posts/the-campus/index.html#foundations-to-lay-when-teaching-computational-and-data-skills",
-    "href": "posts/the-campus/index.html#foundations-to-lay-when-teaching-computational-and-data-skills",
-    "title": "THE Campus Resources for academics and university staff",
-    "section": "Foundations to lay when teaching computational and data skills",
-    "text": "Foundations to lay when teaching computational and data skills"
+    "objectID": "index.html#teaching-resources",
+    "href": "index.html#teaching-resources",
+    "title": "Philip Leftwich",
+    "section": "Teaching & resources",
+    "text": "Teaching & resources\n\nAcross undergraduate teaching, invited workshops, and open educational resources, I share practical materials for genetics, molecular biology, statistics, and data science.\n\nTalks & workshops Books & teaching resources Recommended links"
   },
   {
-    "objectID": "posts/the-campus/index.html#using-online-and-blended-learning-tools-to-teach-data-science-skills",
-    "href": "posts/the-campus/index.html#using-online-and-blended-learning-tools-to-teach-data-science-skills",
-    "title": "THE Campus Resources for academics and university staff",
-    "section": "Using online and blended learning tools to teach data science skills",
-    "text": "Using online and blended learning tools to teach data science skills"
-  },
-  {
-    "objectID": "resources.html",
-    "href": "resources.html",
-    "title": "Resources",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Research",
     "section": "",
-    "text": "This section brings together authored resources, workshop materials, and the external references that I return to most often when teaching statistics, R, data science, and scientific communication."
+    "text": "I am an Associate Professor in Genetics & Data Science in the School of Biological Sciences at the University of East Anglia. My work connects insect genetics, microbiomes, synthetic biology, and computational teaching across research and higher education."
   },
   {
-    "objectID": "resources.html#recommended-reading",
-    "href": "resources.html#recommended-reading",
-    "title": "Resources",
-    "section": "Recommended reading",
-    "text": "Recommended reading\n\n\nR tools\n\nFree icons from Font Awesome and the {fontawesome} R package for bringing icons into slides, websites, and documents.\n\n\n\nData visualization\n\nA ggplot2 Tutorial for Beautiful Plotting in R\nBeautifully Annotated: Enhancing your ggplots with Text, by Cara Thompson\n\n\n\nReporting & presentations\n\nQuarto\nMeet xaringan: Making slides in R Markdown, by Allison Hill\nSharing Your xaringan Slides, by Garrick Aden-Buie\n\n\n\nLearning materials\n\nThe Big Book of R\nAllison Horst’s Data Science Illustrations\nMastering Shiny, by Hadley Wickham\nHappy Git and GitHub for the useR, by Jenny Bryan\nR for Data Science, by Hadley Wickham\nW3Schools, especially for HTML and CSS tutorials"
+    "objectID": "about.html#overview",
+    "href": "about.html#overview",
+    "title": "Research",
+    "section": "Overview",
+    "text": "Overview\nMy research is based in molecular genetics and evolutionary biology, with a particular focus on developing and testing genetic technologies for pest control. I am especially interested in gene drive systems, transgene expression, and the evolutionary and practical questions that shape applied genetic pest management.\nAlongside this work, I develop teaching in genetics, genomics, statistics, and data science. That teaching emphasis feeds back into the lab’s broader interest in clear computational practice, open resources, and accessible training."
   },
   {
-    "objectID": "talks_workshops.html",
-    "href": "talks_workshops.html",
-    "title": "Talks & Workshops",
+    "objectID": "about.html#research-areas",
+    "href": "about.html#research-areas",
+    "title": "Research",
+    "section": "Research areas",
+    "text": "Research areas\n\n\n\n\n\n\n\n\n\n\ngenetic pest management\n\n\nMany insects damage crops or spread human disease, and the chemical insecticides used to control them can harm the environment and lose effectiveness as pests evolve…\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nmicrobiomes\n\n\nInsects carry communities of gut bacteria, and there has been growing interest in whether these microbes shape how their hosts feed, grow, and even choose mates. We…\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html#teaching",
+    "href": "about.html#teaching",
+    "title": "Research",
+    "section": "Teaching",
+    "text": "Teaching\n\nI teach across undergraduate and postgraduate modules in biological sciences, with a strong focus on genetics, genomics, molecular biology, and data science.\n\n\n\nTeaching \n\nData Science\n\n\n5023Y · University of East Anglia\n\n\n\nTeaching \n\nGenetics\n\n\n5011 · University of East Anglia\n\n\n\nTeaching \n\nMolecular Biology & Genetics\n\n\n4018A · University of East Anglia\n\n\n\nTeaching\n\nMicrobiology\n\n\n5015 · University of East Anglia\n\n\n\nTeaching\n\nGenomics\n\n\n6013A · University of East Anglia\n\n\n\nTeaching \n\nField Ecology\n\n\n5013 · University of East Anglia"
+  },
+  {
+    "objectID": "about.html#cv",
+    "href": "about.html#cv",
+    "title": "Research",
+    "section": "CV",
+    "text": "CV\n\nA full copy of my CV is available on GitHub."
+  },
+  {
+    "objectID": "current_workshops/2023-uk-stem/index.html",
+    "href": "current_workshops/2023-uk-stem/index.html",
+    "title": "USING COMPUTER TOOLS TO SUPPORT MOLECULAR BIOLOGY LABS",
     "section": "",
-    "text": "A selection of courses, workshops, and teaching sessions focused on genetics, computing, statistics, and data science."
+    "text": "28th & 29th June 2023\nConference Programme\n\n\nThe electronic lab notebook (ELN) has become a critical tool for researchers to document, manage, and analyze their experiments. ELNs can revolutionize how students learn about and practice experimental design and molecular biology concepts in education. This workshop will focus on Benchling, a comprehensive free-to-use ELN that can help students develop analytical, planning, collaborative, and reflective skills, and will draw on my practice in using this software for level 5 genetics students.\nThe workshop will run in four sections and cover the following topics:\n\nHow to set up and use Benchling, including creating an account, organizing notebooks and experiments, and importing and exporting data.\nHow to organize a classroom on Benchling, including creating assignments, managing student access, and monitoring student progress.\nTeaching concepts in Molecular Biology with web tools, including DNA sequence analysis, CRISPR, plasmid and primer design - there are multiple worksheets participants are free to choose from.\nDeveloping reflective practice with online notebooks, including analyzing experimental data, identifying learning goals, and receiving feedback.\n\nParticipants will learn how to incorporate Benchling into their curriculum to enhance student learning, promote scientific literacy, and develop essential skills for their future careers. The workshop format includes interactive exercises & worksheets and group discussions."
   },
   {
-    "objectID": "talks_workshops.html#featured-workshops",
-    "href": "talks_workshops.html#featured-workshops",
-    "title": "Talks & Workshops",
-    "section": "Featured workshops",
-    "text": "Featured workshops\n\n\n\n\n\n\n\n\n\n\nPROGRAMMING IN R : MOVING FROM BEGINNER TO ADVANCED\n\n\nThis course is designed for anyone with basic knowledge of R who is looking to enhance their skills and take their programming abilities to the next level. Each session in…\n\n\n\nPhilip Leftwich\n\n\nSep 18, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\nINTRODUCTION TO STATISTICS IN R FOR BIOLOGISTS AND ECOLOGISTS\n\n\nThis course will introduce scientists and practitioners interested in applying statistical approaches in their daily routine using R as a working environment. Participants…\n\n\n\nPhilip Leftwich\n\n\nJul 17, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\nUSING COMPUTER TOOLS TO SUPPORT MOLECULAR BIOLOGY LABS\n\n\nA workshop at the UK STEM conference in Swansea to demonstrate the power of teaching in-silico analysis tools to support molecular biology labs\n\n\n\nPhilip Leftwich\n\n\nJun 29, 2023\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "current_workshops/2023-physalia-stats-r/index.html",
-    "href": "current_workshops/2023-physalia-stats-r/index.html",
-    "title": "INTRODUCTION TO STATISTICS IN R FOR BIOLOGISTS AND ECOLOGISTS",
+    "objectID": "current_workshops/2023-uk-stem/index.html#information",
+    "href": "current_workshops/2023-uk-stem/index.html#information",
+    "title": "USING COMPUTER TOOLS TO SUPPORT MOLECULAR BIOLOGY LABS",
     "section": "",
-    "text": "Dates\n17th-20th July 2023\nSign up today\n\n\nLEARNING OUTCOMES\n\nUnderstand how to read, interpret and write scripts in R.\nLearn statistical tools to address common questions in research activities.\nAn introduction to efficient, readable and reproducible analyses\nBeing comfortable with using R when performing both descriptive and inferential statistics."
+    "text": "The electronic lab notebook (ELN) has become a critical tool for researchers to document, manage, and analyze their experiments. ELNs can revolutionize how students learn about and practice experimental design and molecular biology concepts in education. This workshop will focus on Benchling, a comprehensive free-to-use ELN that can help students develop analytical, planning, collaborative, and reflective skills, and will draw on my practice in using this software for level 5 genetics students.\nThe workshop will run in four sections and cover the following topics:\n\nHow to set up and use Benchling, including creating an account, organizing notebooks and experiments, and importing and exporting data.\nHow to organize a classroom on Benchling, including creating assignments, managing student access, and monitoring student progress.\nTeaching concepts in Molecular Biology with web tools, including DNA sequence analysis, CRISPR, plasmid and primer design - there are multiple worksheets participants are free to choose from.\nDeveloping reflective practice with online notebooks, including analyzing experimental data, identifying learning goals, and receiving feedback.\n\nParticipants will learn how to incorporate Benchling into their curriculum to enhance student learning, promote scientific literacy, and develop essential skills for their future careers. The workshop format includes interactive exercises & worksheets and group discussions."
+  },
+  {
+    "objectID": "current_workshops/2023-physalia-advanced-r/index.html",
+    "href": "current_workshops/2023-physalia-advanced-r/index.html",
+    "title": "PROGRAMMING IN R : MOVING FROM BEGINNER TO ADVANCED",
+    "section": "",
+    "text": "18th-21st September 2023\nSign up today\n\nOVERVIEW\nThis course is designed for anyone with basic knowledge of R who is looking to enhance their skills and take their programming abilities to the next level. Each session in the course will be hands-on, providing you with practical examples to work through and apply the concepts you’ve learned, and lots of support to answer questions and overcome any challenges.\n\n\nOUTCOMES\nBy the end of the course, you’ll have the skills and confidence to tackle complex programming problems in R and create high-quality reports, figures, and dashboards."
   },
   {
     "objectID": "people.html",
@@ -119,88 +133,46 @@
     "text": "Past members\n\n\n\n\nPhD Student\n\n\nAlex Siddall\n\n\nProject: Genetic control in medfly.\n\n\nTwitter · Email\n\n\n\n\n\nMSc Student\n\n\nJoerel Gestopa\n\n\nProject: Life-history fitness in transgenic medfly.\n\n\n\n\n\nUG Student\n\n\nAmy Butler\n\n\nProject: Parental effects on the offspring metabolome in medfly.\n\n\n\n\n\nMSc Student\n\n\nJacob Rose\n\n\nProject: Developing Cas9 transgenics in the red flour beetle."
   },
   {
-    "objectID": "current_workshops/2023-physalia-advanced-r/index.html",
-    "href": "current_workshops/2023-physalia-advanced-r/index.html",
-    "title": "PROGRAMMING IN R : MOVING FROM BEGINNER TO ADVANCED",
+    "objectID": "current_workshops/2023-physalia-stats-r/index.html",
+    "href": "current_workshops/2023-physalia-stats-r/index.html",
+    "title": "INTRODUCTION TO STATISTICS IN R FOR BIOLOGISTS AND ECOLOGISTS",
     "section": "",
-    "text": "18th-21st September 2023\nSign up today\n\nOVERVIEW\nThis course is designed for anyone with basic knowledge of R who is looking to enhance their skills and take their programming abilities to the next level. Each session in the course will be hands-on, providing you with practical examples to work through and apply the concepts you’ve learned, and lots of support to answer questions and overcome any challenges.\n\n\nOUTCOMES\nBy the end of the course, you’ll have the skills and confidence to tackle complex programming problems in R and create high-quality reports, figures, and dashboards."
+    "text": "Dates\n17th-20th July 2023\nSign up today\n\n\nLEARNING OUTCOMES\n\nUnderstand how to read, interpret and write scripts in R.\nLearn statistical tools to address common questions in research activities.\nAn introduction to efficient, readable and reproducible analyses\nBeing comfortable with using R when performing both descriptive and inferential statistics."
   },
   {
-    "objectID": "current_workshops/2023-uk-stem/index.html",
-    "href": "current_workshops/2023-uk-stem/index.html",
-    "title": "USING COMPUTER TOOLS TO SUPPORT MOLECULAR BIOLOGY LABS",
+    "objectID": "talks_workshops.html",
+    "href": "talks_workshops.html",
+    "title": "Talks & Workshops",
     "section": "",
-    "text": "28th & 29th June 2023\nConference Programme\n\n\nThe electronic lab notebook (ELN) has become a critical tool for researchers to document, manage, and analyze their experiments. ELNs can revolutionize how students learn about and practice experimental design and molecular biology concepts in education. This workshop will focus on Benchling, a comprehensive free-to-use ELN that can help students develop analytical, planning, collaborative, and reflective skills, and will draw on my practice in using this software for level 5 genetics students.\nThe workshop will run in four sections and cover the following topics:\n\nHow to set up and use Benchling, including creating an account, organizing notebooks and experiments, and importing and exporting data.\nHow to organize a classroom on Benchling, including creating assignments, managing student access, and monitoring student progress.\nTeaching concepts in Molecular Biology with web tools, including DNA sequence analysis, CRISPR, plasmid and primer design - there are multiple worksheets participants are free to choose from.\nDeveloping reflective practice with online notebooks, including analyzing experimental data, identifying learning goals, and receiving feedback.\n\nParticipants will learn how to incorporate Benchling into their curriculum to enhance student learning, promote scientific literacy, and develop essential skills for their future careers. The workshop format includes interactive exercises & worksheets and group discussions."
+    "text": "A selection of courses, workshops, and teaching sessions focused on genetics, computing, statistics, and data science."
   },
   {
-    "objectID": "current_workshops/2023-uk-stem/index.html#information",
-    "href": "current_workshops/2023-uk-stem/index.html#information",
-    "title": "USING COMPUTER TOOLS TO SUPPORT MOLECULAR BIOLOGY LABS",
+    "objectID": "talks_workshops.html#featured-workshops",
+    "href": "talks_workshops.html#featured-workshops",
+    "title": "Talks & Workshops",
+    "section": "Featured workshops",
+    "text": "Featured workshops\n\n\n\n\n\n\n\n\n\n\nPROGRAMMING IN R : MOVING FROM BEGINNER TO ADVANCED\n\n\nThis course is designed for anyone with basic knowledge of R who is looking to enhance their skills and take their programming abilities to the next level. Each session in…\n\n\n\nPhilip Leftwich\n\n\nSep 18, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\nINTRODUCTION TO STATISTICS IN R FOR BIOLOGISTS AND ECOLOGISTS\n\n\nThis course will introduce scientists and practitioners interested in applying statistical approaches in their daily routine using R as a working environment. Participants…\n\n\n\nPhilip Leftwich\n\n\nJul 17, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\nUSING COMPUTER TOOLS TO SUPPORT MOLECULAR BIOLOGY LABS\n\n\nA workshop at the UK STEM conference in Swansea to demonstrate the power of teaching in-silico analysis tools to support molecular biology labs\n\n\n\nPhilip Leftwich\n\n\nJun 29, 2023\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
     "section": "",
-    "text": "The electronic lab notebook (ELN) has become a critical tool for researchers to document, manage, and analyze their experiments. ELNs can revolutionize how students learn about and practice experimental design and molecular biology concepts in education. This workshop will focus on Benchling, a comprehensive free-to-use ELN that can help students develop analytical, planning, collaborative, and reflective skills, and will draw on my practice in using this software for level 5 genetics students.\nThe workshop will run in four sections and cover the following topics:\n\nHow to set up and use Benchling, including creating an account, organizing notebooks and experiments, and importing and exporting data.\nHow to organize a classroom on Benchling, including creating assignments, managing student access, and monitoring student progress.\nTeaching concepts in Molecular Biology with web tools, including DNA sequence analysis, CRISPR, plasmid and primer design - there are multiple worksheets participants are free to choose from.\nDeveloping reflective practice with online notebooks, including analyzing experimental data, identifying learning goals, and receiving feedback.\n\nParticipants will learn how to incorporate Benchling into their curriculum to enhance student learning, promote scientific literacy, and develop essential skills for their future careers. The workshop format includes interactive exercises & worksheets and group discussions."
+    "text": "This section brings together authored resources, workshop materials, and the external references that I return to most often when teaching statistics, R, data science, and scientific communication."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Research",
-    "section": "",
-    "text": "I am an Associate Professor in Genetics & Data Science in the School of Biological Sciences at the University of East Anglia. My work connects insect genetics, microbiomes, synthetic biology, and computational teaching across research and higher education."
-  },
-  {
-    "objectID": "about.html#overview",
-    "href": "about.html#overview",
-    "title": "Research",
-    "section": "Overview",
-    "text": "Overview\nMy research is based in molecular genetics and evolutionary biology, with a particular focus on developing and testing genetic technologies for pest control. I am especially interested in gene drive systems, transgene expression, and the evolutionary and practical questions that shape applied genetic pest management.\nAlongside this work, I develop teaching in genetics, genomics, statistics, and data science. That teaching emphasis feeds back into the lab’s broader interest in clear computational practice, open resources, and accessible training."
-  },
-  {
-    "objectID": "about.html#research-areas",
-    "href": "about.html#research-areas",
-    "title": "Research",
-    "section": "Research areas",
-    "text": "Research areas\n\n\n\n\n\n\n\n\n\n\ngenetic pest management\n\n\nMy research is based in the emerging field of genetic pest management, focusing particularly on the agricultural pests Ceratitis capitata (medfly), and vector…\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nmicrobiomes\n\n\nI also work to investigate the effects of gut microbes on fruitflies (Drosophila and medfly) and explore these effects in terms of the evolutionary associations between…\n\n\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "about.html#teaching",
-    "href": "about.html#teaching",
-    "title": "Research",
-    "section": "Teaching",
-    "text": "Teaching\n\nI teach across undergraduate and postgraduate modules in biological sciences, with a strong focus on genetics, genomics, molecular biology, and data science.\n\n\n\nTeaching \n\nData Science\n\n\n5023Y · University of East Anglia\n\n\n\nTeaching \n\nGenetics\n\n\n5011 · University of East Anglia\n\n\n\nTeaching \n\nMolecular Biology & Genetics\n\n\n4018A · University of East Anglia\n\n\n\nTeaching\n\nMicrobiology\n\n\n5015 · University of East Anglia\n\n\n\nTeaching\n\nGenomics\n\n\n6013A · University of East Anglia\n\n\n\nTeaching \n\nField Ecology\n\n\n5013 · University of East Anglia"
-  },
-  {
-    "objectID": "about.html#cv",
-    "href": "about.html#cv",
-    "title": "Research",
-    "section": "CV",
-    "text": "CV\n\nA full copy of my CV is available on GitHub."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Philip Leftwich",
-    "section": "",
-    "text": "Genetics · genetic pest management · microbiomes\n\n\n\nI am an Associate Professor in Genetics & Data Science at the University of East Anglia. My work combines insect genetics, microbiomes, synthetic biology, and computational teaching to study and apply genetic technologies in agriculture, public health, and higher education.\n\nExplore research Meet the group View publications"
-  },
-  {
-    "objectID": "index.html#latest-news",
-    "href": "index.html#latest-news",
-    "title": "Philip Leftwich",
-    "section": "Latest news",
-    "text": "Latest news\n\nRecent writing and updates from the site.\n\n\n\n\n\n\n\n\n\n\n\nTHE Campus Resources for academics and university staff\n\n\nA collection of my writings for THE campus between 2022 & 2023\n\n\n\nPhilip Leftwich\n\n\nJan 25, 2023\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "index.html#teaching-resources",
-    "href": "index.html#teaching-resources",
-    "title": "Philip Leftwich",
-    "section": "Teaching & resources",
-    "text": "Teaching & resources\n\nAcross undergraduate teaching, invited workshops, and open educational resources, I share practical materials for genetics, molecular biology, statistics, and data science.\n\nTalks & workshops Books & teaching resources Recommended links"
+    "objectID": "resources.html#recommended-reading",
+    "href": "resources.html#recommended-reading",
+    "title": "Resources",
+    "section": "Recommended reading",
+    "text": "Recommended reading\n\n\nR tools\n\nFree icons from Font Awesome and the {fontawesome} R package for bringing icons into slides, websites, and documents.\n\n\n\nData visualization\n\nA ggplot2 Tutorial for Beautiful Plotting in R\nBeautifully Annotated: Enhancing your ggplots with Text, by Cara Thompson\n\n\n\nReporting & presentations\n\nQuarto\nMeet xaringan: Making slides in R Markdown, by Allison Hill\nSharing Your xaringan Slides, by Garrick Aden-Buie\n\n\n\nLearning materials\n\nThe Big Book of R\nAllison Horst’s Data Science Illustrations\nMastering Shiny, by Hadley Wickham\nHappy Git and GitHub for the useR, by Jenny Bryan\nR for Data Science, by Hadley Wickham\nW3Schools, especially for HTML and CSS tutorials"
   },
   {
     "objectID": "posts.html",
     "href": "posts.html",
     "title": "News",
     "section": "",
-    "text": "Short updates, writing, and reflections connected to teaching, outreach, and academic practice.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTHE Campus Resources for academics and university staff\n\n\nA collection of my writings for THE campus between 2022 & 2023\n\n\n\nPhilip Leftwich\n\n\nJan 25, 2023\n\n\n\n\n\n\nNo matching items"
+    "text": "Short updates, writing, and reflections connected to teaching, outreach, and academic practice.\n\n\n\n  \n\nNo matching items\n\n\nBrowse older news items"
   },
   {
     "objectID": "publications.html",

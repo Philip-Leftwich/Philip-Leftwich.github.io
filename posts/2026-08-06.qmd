@@ -1,0 +1,16 @@
+---
+layout: post
+title: "New Course"
+date: 2026-08-06
+categories: [news]
+published: true
+---
+
+Let’s kick things off with Learning Statistics with R - the course I run in conjunction with Physalia is currently recruiting for a new intake. 
+📅 Online, 18–21 January 2027 
+
+Learn R and build practical skills in statistics and data analysis! 
+
+👉 https://lnkd.in/dq5PHZzt 
+
+![New course](posts/1784619729342.jpg)
