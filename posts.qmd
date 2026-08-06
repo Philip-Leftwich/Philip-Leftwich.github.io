@@ -3,7 +3,11 @@ title: "News"
 subtitle: "Writing, project updates, and reflections"
 listing:
   - id: news-listing
-    contents: posts/*/index.qmd
+    contents:
+      - posts/*/index.qmd
+      - posts/*.qmd
+    exclude:
+      path: posts/archive.qmd
     sort: "date desc"
     template: _templates/news-listing.ejs.md
     max-items: 5
