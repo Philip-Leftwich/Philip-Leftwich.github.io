@@ -1,7 +1,7 @@
 ```{=html}
 <div class="news-listing">
   <% for (const [index, item] of items.entries()) { %>
-    <% const itemId = (item.path || `news-item-${index}`).replace(/[^a-zA-Z0-9_-]/g, "-"); %>
+    <% const itemId = `ni-${(item.path || `news-item-${index}`).replace(/[^a-zA-Z0-9_-]/g, "-")}`; %>
     <article class="news-listing__item<% if (!item.image) { %> news-listing__item--no-image<% } %>" aria-labelledby="news-item-title-<%= itemId %>">
       <% if (item.image) { %>
       <a class="news-listing__image-link" href="<%- item.path %>" aria-hidden="true" tabindex="-1">
