@@ -500,6 +500,10 @@ main.content {
   overflow: hidden;
 }
 
+.news-listing__item--no-image {
+  grid-template-columns: 1fr;
+}
+
 .news-listing__image-link {
   display: block;
   height: 100%;

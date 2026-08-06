@@ -1,7 +1,7 @@
 ```{=html}
 <div class="news-listing">
   <% for (const item of items) { %>
-    <article class="news-listing__item">
+    <article class="news-listing__item<% if (!item.image) { %> news-listing__item--no-image<% } %>">
       <% if (item.image) { %>
       <a class="news-listing__image-link" href="<%- item.path %>" aria-hidden="true" tabindex="-1">
         <img src="<%- item.image %>" alt="" class="news-listing__image">
