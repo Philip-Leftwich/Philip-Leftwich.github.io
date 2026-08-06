@@ -1,6 +1,6 @@
 ---
 title: "genetic pest management"
 description: |
-  My research is based in the emerging field of genetic pest management, focusing particularly on the agricultural pests Ceratitis capitata (medfly), and vector arthropods such as the mosquito Aedes aegypti.
+  Many insects damage crops or spread human disease, and the chemical insecticides used to control them can harm the environment and lose effectiveness as pests evolve resistance. We develop genetic alternatives, which involve releasing modified insects that mate with wild pests to suppress or alter the target population.A long-standing challenge is that mass-reared insects often mate poorly with wild ones, because generations in the laboratory adapt them to captivity, so we study how the "background" genetics of release strains, not just the engineered gene itself, affect whether these methods work in the field (Leftwich et al., 2021, Philosophical Transactions of the Royal Society B, 376:20190805). More recently we have contributed to CRISPR/Cas9-based gene drive systems, which are designed to spread a genetic change rapidly through a population, including work optimising the guide RNAs that target the drive (Gonzalez et al., 2025, Scientific Reports, 15:13408; Anderson et al., 2024, Nature Communications, 15:729). Our broader aim is to make pest control more species-specific and less environmentally damaging than conventional chemical approaches.
 image: ceratitis.jpg
 ---
