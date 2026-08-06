@@ -15,5 +15,5 @@ title-block-banner: false
 ---
 
 ::: {.page-intro}
-Browse all news posts. The main [News](../posts.qmd) page highlights the five most recent items.
+Browse all news posts. The main [News](../posts.html) page highlights the five most recent items.
 :::
