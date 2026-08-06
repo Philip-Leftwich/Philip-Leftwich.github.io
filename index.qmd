@@ -3,14 +3,6 @@ title: ""
 body-classes: home-page
 page-layout: full
 toc: false
-listing:
-  - id: latest-news
-    sort: "date desc"
-    type: grid
-    grid-item-border: false
-    categories: false
-    max-items: 3
-    max-description-length: 150
 ---
 
 ::: {.home-hero}
