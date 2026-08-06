@@ -48,7 +48,7 @@ The group brings together research and teaching interests in genetics, molecular
 
 
 <article class="profile-card" id="J-C">
-  <img src="images/blank.webp" alt="Placeholder portrait for Jean Charles de Coriolis">
+  <img src="images/IMG_6419.jpg" alt="Placeholder portrait for Jean Charles de Coriolis">
   <div class="profile-card__role">BBSRC funded Senior Postdoctoral Research Associate · University of East Anglia</div>
   <h3>Jean Charles de Coriolis</h3>
   <p> Single nuclei transcriptomics of the Mediterranean fruit fly</p>

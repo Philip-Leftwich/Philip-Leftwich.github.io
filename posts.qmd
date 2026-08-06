@@ -6,8 +6,7 @@ listing:
     contents:
       - posts/*/index.qmd
       - posts/*.qmd
-    exclude:
-      path: posts/archive.qmd
+      - "!posts/archive.qmd"
     sort: "date desc"
     template: _templates/news-listing.ejs.md
     max-items: 5

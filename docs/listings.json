@@ -1,13 +1,9 @@
 [
   {
-    "listing": "/index.html",
-    "items": []
-  },
-  {
-    "listing": "/about.html",
+    "listing": "/posts/archive.html",
     "items": [
-      "/research/genetic pest managment.html",
-      "/research/microbiome.html"
+      "/posts/2026-08-06.html",
+      "/posts/the-campus/index.html"
     ]
   },
   {
@@ -19,7 +15,23 @@
     ]
   },
   {
+    "listing": "/about.html",
+    "items": [
+      "/research/genetic pest managment.html",
+      "/research/microbiome.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/posts/the-campus/index.html"
+    ]
+  },
+  {
     "listing": "/posts.html",
-    "items": []
+    "items": [
+      "/posts/2026-08-06.html",
+      "/posts/the-campus/index.html"
+    ]
   }
 ]

@@ -82,9 +82,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: [{ data: ['index'] },{ data: ['categories'] }],
+      valueNames: ['listing-project','listing-website','listing-format','listing-language','listing-freeze','listing-title-block-banner','listing-title','listing-description','listing-author','listing-date','listing-categories','listing-image','listing-page-layout','listing-path','listing-outputHref','listing-date-modified','listing-filename','listing-file-modified','listing-reading-time','listing-word-count',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-date-modified-sort'] },{ data: ['listing-file-modified-sort'] },{ data: ['listing-reading-time-sort'] },{ data: ['listing-word-count-sort'] }],
       
-      searchColumns: [],
+      searchColumns: ["listing-project","listing-website","listing-format","listing-language","listing-freeze","listing-title-block-banner","listing-title","listing-description","listing-author","listing-date","listing-categories","listing-image","listing-page-layout","listing-path","listing-outputHref","listing-date-modified","listing-filename","listing-file-modified","listing-reading-time","listing-word-count"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -288,11 +288,46 @@ window.Quarto = {
 <div id="listing-news-listing" class="quarto-listing quarto-listing-container-custom">
 <div class="news-listing">
   
+    <article class="news-listing__item news-listing__item--no-image">
+      
+      <div class="news-listing__content">
+        
+        <div class="news-listing__meta">Aug 6, 2026</div>
+        
+        <h3 class="news-listing__title">
+          <a href="./posts/2026-08-06.html">New Course</a>
+        </h3>
+        
+        <p class="news-listing__description">Learning Statistics with R – new intake recruiting for January 2027.</p>
+        
+      </div>
+    </article>
+  
+    <article class="news-listing__item">
+      
+      <a class="news-listing__image-link" href="./posts/the-campus/index.html" aria-hidden="true" tabindex="-1">
+        <img src="./posts/the-campus/quant-teach.jpg" alt="" class="news-listing__image">
+      </a>
+      
+      <div class="news-listing__content">
+        
+        <div class="news-listing__meta">Jan 25, 2023</div>
+        
+        <h3 class="news-listing__title">
+          <a href="./posts/the-campus/index.html">THE Campus Resources for academics and university staff</a>
+        </h3>
+        
+        <p class="news-listing__description">A collection of my writings for THE campus between 2022 &amp; 2023
+</p>
+        
+      </div>
+    </article>
+  
 </div>
 <div class="listing-no-matching d-none">No matching items</div>
 </div>
 <div class="news-archive-link">
-<p><a href="posts/archive.qmd">Browse older news items</a></p>
+<p><a href="./posts/archive.html">Browse older news items</a></p>
 </div>
 
 
