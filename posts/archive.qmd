@@ -1,0 +1,19 @@
+---
+title: "News archive"
+subtitle: "All news posts in reverse chronological order"
+listing:
+  contents: "*/index.qmd"
+  sort: "date desc"
+  template: ../_templates/news-listing.ejs.md
+  max-description-length: 160
+  date-format: medium
+  categories: false
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: false
+---
+
+::: {.page-intro}
+Browse all news posts. The main [News](../posts.qmd) page highlights the five most recent items.
+:::

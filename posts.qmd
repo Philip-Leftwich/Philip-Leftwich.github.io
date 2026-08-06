@@ -2,19 +2,27 @@
 title: "News"
 subtitle: "Writing, project updates, and reflections"
 listing:
-  contents: posts
-  sort: "date desc"
-  type: grid
-  grid-item-border: false
-  max-description-length: 160
-  date-format: medium
-  categories: false
-  sort-ui: false
-  filter-ui: false
+  - id: news-listing
+    contents: posts/*/index.qmd
+    sort: "date desc"
+    template: _templates/news-listing.ejs.md
+    max-items: 5
+    max-description-length: 160
+    date-format: medium
+    categories: false
+    sort-ui: false
+    filter-ui: false
 page-layout: full
 title-block-banner: false
 ---
 
 ::: {.page-intro}
 Short updates, writing, and reflections connected to teaching, outreach, and academic practice.
+:::
+
+::: {#news-listing}
+:::
+
+::: {.news-archive-link}
+[Browse older news items](posts/archive.qmd)
 :::
