@@ -2,7 +2,11 @@
 title: "News archive"
 subtitle: "All news posts in reverse chronological order"
 listing:
-  contents: "*/index.qmd"
+  contents:
+    - "*/index.qmd"
+    - "*.qmd"
+  exclude:
+    path: "archive.qmd"
   sort: "date desc"
   template: ../_templates/news-listing.ejs.md
   max-description-length: 160
