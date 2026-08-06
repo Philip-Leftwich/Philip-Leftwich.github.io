@@ -5,7 +5,6 @@ page-layout: full
 toc: false
 listing:
   - id: latest-news
-    contents: posts/*/index.qmd
     sort: "date desc"
     type: grid
     grid-item-border: false
@@ -18,7 +17,8 @@ listing:
 ::: {.home-hero__content}
 
 ::: {.home-eyebrow}
-Genetics · genetic pest management · microbiomes
+Genetics · genetic pest management · microbiomes · statistics
+
 :::
 
 # Philip Leftwich
@@ -65,30 +65,11 @@ This site brings together research, people, publications, teaching, and open res
 </div>
 
 <div class="feature-card">
-  <span class="feature-card__meta">Resources</span>
-  <h3>Teaching materials and workshops</h3>
-  <p>Explore workshops, authored resources, and recommended links for genetics, statistics, and data science teaching.</p>
-  <a class="feature-card__link" href="resources.html">Explore resources →</a>
+  <span class="feature-card__meta">News</span>
+  <h3>Latest updates</h3>
+  <p>Explore recent news and events from me and the group.</p>
+  <a class="feature-card__link" href="posts.html">Explore news →</a>
 </div>
 :::
 
-## Latest news
 
-::: {.page-intro}
-Recent writing and updates from the site.
-:::
-
-::: {#latest-news}
-:::
-
-## Teaching & resources
-
-::: {.section-panel}
-Across undergraduate teaching, invited workshops, and open educational resources, I share practical materials for genetics, molecular biology, statistics, and data science.
-
-::: {.home-quicklinks}
-<a class="pill-link pill-link--ghost" href="talks_workshops.html">Talks & workshops</a>
-<a class="pill-link pill-link--ghost" href="myresources.html">Books & teaching resources</a>
-<a class="pill-link pill-link--ghost" href="resources.html">Recommended links</a>
-:::
-:::

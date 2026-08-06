@@ -3,6 +3,7 @@ title: "New Course"
 date: 2026-08-06
 categories: [news]
 description: "Learning Statistics with R – new intake recruiting for January 2027."
+image: 1784619729342.jpg
 ---
 
 Let’s kick things off with Learning Statistics with R - the course I run in conjunction with Physalia is currently recruiting for a new intake. 
@@ -10,6 +11,4 @@ Let’s kick things off with Learning Statistics with R - the course I run in co
 
 Learn R and build practical skills in statistics and data analysis! 
 
-👉 https://lnkd.in/dq5PHZzt 
-
-![New course](1784619729342.jpg)
+👉 [New Course](https://lnkd.in/dq5PHZzt) 

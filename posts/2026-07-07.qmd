@@ -1,0 +1,15 @@
+---
+title: "UKRN Conference"
+date: 2026-08-06
+categories: [news]
+description: "First National Conference of the UK Reproducibility Network."
+image: 1783504662149.jpg
+---
+
+I recently ran a panel at this year's [UK Reproducibility Network (UKRN) conference](https://www.ukrn.org/conference/), on the state of open research advocacy in the UK.
+
+Advocacy has expanded considerably in recent years, with UKRN and a growing number of discipline-specific and cross-sector organisations now promoting and delivering training in open practices. That growth raises its own questions, though: about coordination across organisations, consistency of coverage across disciplines, and whether stated commitments translate into sustained institutional practice. The panel brought together representatives from organisations at the forefront of this work to take stock of the current landscape, reflect on progress and persistent challenges, and explore where closer inter-organisational collaboration might help. The aim was to open a structured conversation towards shared priorities, including coordinated advocacy, joint resources, and aligned policy positions, as a foundation for future collective action.
+
+It was a great event, with plenty of genuinely engaged people working towards better open research.
+
+For those less familiar, [UKRN](https://www.ukrn.org/) is a national, peer-led consortium working to improve the quality and robustness of UK research. It does this by investigating the factors behind poor reproducibility and replicability, organising training, and disseminating best practice. Its members (of which the University of East Anglia is one) span a grassroots community of research advocates, institutions committed to strategic improvement, and stakeholders across the wider research system, with broad disciplinary representation reflecting the fact that these issues affect all fields.
