@@ -495,7 +495,6 @@ main.content {
   border-radius: var(--rounded);
   box-shadow: var(--shadow);
   display: grid;
-  gap: 1.5rem;
   grid-template-columns: minmax(220px, 300px) minmax(0, 1fr);
   overflow: hidden;
 }
@@ -518,7 +517,7 @@ main.content {
 }
 
 .news-listing__content {
-  padding: 1.5rem 1.5rem 1.5rem 0;
+  padding: 1.5rem;
 }
 
 .news-listing__meta {
