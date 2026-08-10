@@ -10,6 +10,7 @@ website:
   google-analytics: "G-9SHEWYCPZ9"
   navbar:
     title: "Philip Leftwich"
+    collapse-below: xl
     left:
       - text: Home
         href: index.qmd
