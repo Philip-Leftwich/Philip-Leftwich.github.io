@@ -1,6 +1,6 @@
 ---
 title: "UKRN Conference"
-date: 2026-08-06
+date: 2026-07-07
 categories: [news]
 description: "First National Conference of the UK Reproducibility Network."
 image: 1783504662149.jpg

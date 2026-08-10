@@ -177,23 +177,58 @@
   {
     "objectID": "resources.html",
     "href": "resources.html",
-    "title": "Resources",
+    "title": "Reproducibility",
     "section": "",
-    "text": "This section brings together authored resources, workshop materials, and the external references that I return to most often when teaching statistics, R, data science, and scientific communication."
+    "text": "Quantitative and computational skills are where reproducibility in the biological sciences most often breaks down. Analytical errors, undocumented workflows, and low statistical literacy are not separate problems from research integrity — they are the same problem, met earlier in the pipeline.\nI work on both halves. I hold external leadership roles in research integrity and in statistics education: academic lead for the UK Reproducibility Network at UEA, and Co-Director for Research Methods & Practice at the international RoSE Network. The aim across both is the same — to build the skills that make reproducible research possible, and the culture that expects it."
   },
   {
-    "objectID": "resources.html#recommended-reading",
-    "href": "resources.html#recommended-reading",
-    "title": "Resources",
-    "section": "Recommended reading",
-    "text": "Recommended reading\n\n\nR tools\n\nFree icons from Font Awesome and the {fontawesome} R package for bringing icons into slides, websites, and documents.\n\n\n\nData visualization\n\nA ggplot2 Tutorial for Beautiful Plotting in R\nBeautifully Annotated: Enhancing your ggplots with Text, by Cara Thompson\n\n\n\nReporting & presentations\n\nQuarto\nMeet xaringan: Making slides in R Markdown, by Allison Hill\nSharing Your xaringan Slides, by Garrick Aden-Buie\n\n\n\nLearning materials\n\nThe Big Book of R\nAllison Horst’s Data Science Illustrations\nMastering Shiny, by Hadley Wickham\nHappy Git and GitHub for the useR, by Jenny Bryan\nR for Data Science, by Hadley Wickham\nW3Schools, especially for HTML and CSS tutorials"
+    "objectID": "resources.html#leadership-roles",
+    "href": "resources.html#leadership-roles",
+    "title": "Reproducibility",
+    "section": "Leadership roles",
+    "text": "Leadership roles\n\nCo-Director, Research Methods & Practice — RoSE Network\n2026-present\nRoSE is an international, multidisciplinary network for researchers and practitioners of statistics education, advancing statistics education research and evidence-based practice. As Co-Director for Research Methods & Practice I aim to improve the methodological standards for statistics education research, guidance for the community, and oversight of the network’s research programme.\n\n\nAcademic Lead, UK Reproducibility Network — University of East Anglia\n2025-present\nInstitutional lead for the UKRN, the national network working to improve research quality, transparency, and integrity across UK institutions. As the institutional lead for UEA, I chair the Open Research working group, and lead our Open Research Champions Network"
+  },
+  {
+    "objectID": "resources.html#communities",
+    "href": "resources.html#communities",
+    "title": "Reproducibility",
+    "section": "Communities",
+    "text": "Communities\n\nR-volutionary Biology\nFounder. R and data science education across the School of Biological Sciences at UEA, from first-year skills teaching through to postgraduate analysis. Visit →\n\n\nSkills Community of Practice\n[Founder / co-founder / member — please confirm]. A cross-institutional forum for sharing approaches to teaching undergraduate skills across disciplines. Visit →"
+  },
+  {
+    "objectID": "resources.html#books",
+    "href": "resources.html#books",
+    "title": "Reproducibility",
+    "section": "Books",
+    "text": "Books\nMaths Skills for A-Level Biology — Oxford University Press\nA skills text for the quantitative demands of A-Level Biology, written for the point at which students first meet mathematical and statistical reasoning in a biological context — the transition where later problems with quantitative confidence begin. View book →"
+  },
+  {
+    "objectID": "resources.html#outputs",
+    "href": "resources.html#outputs",
+    "title": "Reproducibility",
+    "section": "Outputs",
+    "text": "Outputs\nA curated, citable collection of talks, workshops, and teaching innovations from the School of Biological Sciences at UEA. Browse →"
+  },
+  {
+    "objectID": "resources.html#workshops",
+    "href": "resources.html#workshops",
+    "title": "Reproducibility",
+    "section": "Workshops",
+    "text": "Workshops\n\nPhysalia Courses\n[YEAR]–present\nI run two courses annually for Physalia, which delivers intensive international training to postgraduate researchers and practitioners across the life sciences.\nReproducible R Programming and AI-Assisted Analysis (four days) Robust R practice across the full lifecycle of an analysis: project organisation, functional programming, reproducible reporting, and version control, through to working with AI coding assistants. Covers token usage, model context, and agentic workflows, with sustained attention to the validation steps that check AI-generated code does what it claims. The emphasis throughout is on critical evaluation of code, whether written by the analyst or generated with assistance.\nIntroduction to Statistics with R (five days) An entry point for scientists and practitioners applying statistical methods in their own work. Covers R and RStudio alongside common descriptive and inferential analyses, organised around the questions researchers actually need to answer."
+  },
+  {
+    "objectID": "resources.html#collaboration",
+    "href": "resources.html#collaboration",
+    "title": "Reproducibility",
+    "section": "Collaboration",
+    "text": "Collaboration\nI welcome contact about statistics and data skills training, reproducibility practice in the biosciences, and collaborative work in statistics education research."
   },
   {
     "objectID": "posts/archive.html",
     "href": "posts/archive.html",
     "title": "News archive",
     "section": "",
-    "text": "Browse all news posts. The main News page highlights the most recent items.\n\n\n\n\n\n\n\n  \n    \n      \n      \n        \n      \n      \n      \n        \n        Aug 6, 2026\n        \n        \n          UKRN Conference\n        \n        \n        First National Conference of the UK Reproducibility Network.\n        \n      \n    \n  \n    \n      \n      \n        \n      \n      \n      \n        \n        Aug 6, 2026\n        \n        \n          New Course\n        \n        \n        Learning Statistics with R – new intake recruiting for January 2027.\n        \n      \n    \n  \n    \n      \n      \n        \n      \n      \n      \n        \n        Jan 25, 2023\n        \n        \n          THE Campus Resources for academics and university staff\n        \n        \n        A collection of my writings for THE campus between 2022 & 2023\n\n        \n      \n    \n  \n\nNo matching items"
+    "text": "Browse all news posts. The main News page highlights the most recent items.\n\n\n\n\n\n\n\n  \n    \n      \n      \n        \n      \n      \n      \n        \n        Aug 6, 2026\n        \n        \n          New Course\n        \n        \n        Learning Statistics with R – new intake recruiting for January 2027.\n        \n      \n    \n  \n    \n      \n      \n        \n      \n      \n      \n        \n        Jul 7, 2026\n        \n        \n          UKRN Conference\n        \n        \n        First National Conference of the UK Reproducibility Network.\n        \n      \n    \n  \n    \n      \n      \n        \n      \n      \n      \n        \n        Jan 25, 2023\n        \n        \n          THE Campus Resources for academics and university staff\n        \n        \n        A collection of my writings for THE campus between 2022 & 2023\n\n        \n      \n    \n  \n\nNo matching items"
   },
   {
     "objectID": "posts/2026-08-06.html",
@@ -207,7 +242,7 @@
     "href": "posts.html",
     "title": "News",
     "section": "",
-    "text": "Short updates, writing, and reflections connected to teaching, outreach, and academic practice.\n\n\n\n  \n    \n      \n      \n        \n      \n      \n      \n        \n        Aug 6, 2026\n        \n        \n          UKRN Conference\n        \n        \n        First National Conference of the UK Reproducibility Network.\n        \n      \n    \n  \n    \n      \n      \n        \n      \n      \n      \n        \n        Aug 6, 2026\n        \n        \n          New Course\n        \n        \n        Learning Statistics with R – new intake recruiting for January 2027.\n        \n      \n    \n  \n    \n      \n      \n        \n      \n      \n      \n        \n        Jan 25, 2023\n        \n        \n          THE Campus Resources for academics and university staff\n        \n        \n        A collection of my writings for THE campus between 2022 & 2023\n\n        \n      \n    \n  \n\nNo matching items\n\n\nBrowse older news items"
+    "text": "Short updates, writing, and reflections connected to teaching, outreach, and academic practice.\n\n\n\n  \n    \n      \n      \n        \n      \n      \n      \n        \n        Aug 6, 2026\n        \n        \n          New Course\n        \n        \n        Learning Statistics with R – new intake recruiting for January 2027.\n        \n      \n    \n  \n    \n      \n      \n        \n      \n      \n      \n        \n        Jul 7, 2026\n        \n        \n          UKRN Conference\n        \n        \n        First National Conference of the UK Reproducibility Network.\n        \n      \n    \n  \n    \n      \n      \n        \n      \n      \n      \n        \n        Jan 25, 2023\n        \n        \n          THE Campus Resources for academics and university staff\n        \n        \n        A collection of my writings for THE campus between 2022 & 2023\n\n        \n      \n    \n  \n\nNo matching items\n\n\nBrowse older news items"
   },
   {
     "objectID": "publications.html",
