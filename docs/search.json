@@ -193,7 +193,7 @@
     "href": "resources.html#communities",
     "title": "Reproducibility",
     "section": "Communities",
-    "text": "Communities\n\nR-volutionary Biology\nFounder. R and data science education across the School of Biological Sciences at UEA, from first-year skills teaching through to postgraduate analysis. Visit →\n\n\nSkills Community of Practice\n[Founder / co-founder / member — please confirm]. A cross-institutional forum for sharing approaches to teaching undergraduate skills across disciplines. Visit →"
+    "text": "Communities\n\nR-volutionary Biology\nFounder. R and data science education across the School of Biological Sciences at UEA, from first-year skills teaching through to postgraduate analysis. Visit →\n\n\nSkills Community of Practice\nA cross-institutional forum for sharing approaches to teaching undergraduate skills across disciplines. Visit →"
   },
   {
     "objectID": "resources.html#books",
@@ -214,7 +214,7 @@
     "href": "resources.html#workshops",
     "title": "Reproducibility",
     "section": "Workshops",
-    "text": "Workshops\n\nPhysalia Courses\n[YEAR]–present\nI run two courses annually for Physalia, which delivers intensive international training to postgraduate researchers and practitioners across the life sciences.\nReproducible R Programming and AI-Assisted Analysis (four days) Robust R practice across the full lifecycle of an analysis: project organisation, functional programming, reproducible reporting, and version control, through to working with AI coding assistants. Covers token usage, model context, and agentic workflows, with sustained attention to the validation steps that check AI-generated code does what it claims. The emphasis throughout is on critical evaluation of code, whether written by the analyst or generated with assistance.\nIntroduction to Statistics with R (five days) An entry point for scientists and practitioners applying statistical methods in their own work. Covers R and RStudio alongside common descriptive and inferential analyses, organised around the questions researchers actually need to answer."
+    "text": "Workshops\n\nPhysalia Courses\n2020-present\nI run two courses annually for Physalia, which delivers intensive international training to postgraduate researchers and practitioners across the life sciences.\nReproducible R Programming and AI-Assisted Analysis (four days) Robust R practice across the full lifecycle of an analysis: project organisation, functional programming, reproducible reporting, and version control, through to working with AI coding assistants. Covers token usage, model context, and agentic workflows, with sustained attention to the validation steps that check AI-generated code does what it claims. The emphasis throughout is on critical evaluation of code, whether written by the analyst or generated with assistance.\nIntroduction to Statistics with R (five days) An entry point for scientists and practitioners applying statistical methods in their own work. Covers R and RStudio alongside common descriptive and inferential analyses, organised around the questions researchers actually need to answer."
   },
   {
     "objectID": "resources.html#collaboration",

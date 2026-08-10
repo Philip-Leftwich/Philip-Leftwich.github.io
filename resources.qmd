@@ -50,7 +50,7 @@ analysis.
 [Visit →](https://ueabio.github.io/Rvolutionary-Biology/)
 
 ### Skills Community of Practice
-*[Founder / co-founder / member — please confirm]*. A cross-institutional
+A cross-institutional
 forum for sharing approaches to teaching undergraduate skills across
 disciplines.
 [Visit →](https://www.skillscop.com/)
@@ -83,7 +83,7 @@ from the School of Biological Sciences at UEA.
 ## Workshops
 
 ### Physalia Courses
-*[YEAR]–present*
+*2020-present*
 
 I run two courses annually for [Physalia](https://www.physalia-courses.org/),
 which delivers intensive international training to postgraduate researchers
